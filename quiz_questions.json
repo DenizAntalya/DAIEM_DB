@@ -1,0 +1,72 @@
+{
+  "1": [
+    {
+      "question": "Olay yerinde müdahale sırasında aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "İlk yardımcı bütün uygulamaları trafik kurallarına uymadan hemen yapar.",
+        "İlk yardımcı ilk önce kendi güvenliğini sağlar.",
+        "İlk yardımcı olay yerinde hırsızlığa karşı dikkatli olur.",
+        "İlk yardımcı tehlikeyi kendi ortadan kaldıramıyorsa 112'den yardım ister.",
+        "İlk yardımcı müdahale sırasında iyi iletişim becerilerini kullanır."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Acil durumda hasta/yaralı değerlendirme ile ilgili hangisi yanlıştır?"
+      "options": [
+        "3 aşamada yapılır.",
+        "1. aşamada yaşamı tehdit eden durum varlığı kontrol edilir.",
+        "2. aşamada vücut kontrolü yapılır.",
+        "3. aşamada hastanın hikayesi öğrenilir.",
+        "1. aşamada hastanın tüm vücudu değerlendirilir."
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Ani olarak ortaya çıkan hastalık veya yaralanma durumunda; kişinin hayatını korumak, sağlık durumunun kötüleşmesini önlemek ve iyileşmesine destek olmak amacıyla olay yerindeki imkanları uygulanan hızlı ve etkili müdahalelere ne denir?"
+      "options": [
+        "İlk yardım.",
+        "Turnike.",
+        "Sürükleme.",
+        "Kalp masajı.",
+        "Suni solunum."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hangisi ilk yardımın amacı değildir?"
+      "options": [
+        "Hayatı korumak.",
+        "Kötüleşmeyi önlemek.",
+        "İyileşmeye destek olmak.",
+        "Hastanın sağlık kuruluşuna gitmesine yardımcı olmak.",
+        "Hastanın değerli eşyalarını korumak."
+      ],
+      "answer": 4
+    },
+    {
+      "question": "İlk yardımda hangisi ilk yardımcının dikkat etmesi gerekenlerden değildir?"
+      "options": [
+        "112'nin arandığından emin olmak.",
+        "Hastanın stresli olduğunu düşünerek, bağırarak ve emir vererek konuşmak.",
+        "Hastanın ismi ile hitap etmek.",
+        "Solunum yoksa temel yaşam desteği uygulamak.",
+        "Bilinci olmayan ve solunumu olan hastaya derleme pozisyonu vermek."
+      ],
+      "answer": 4
+    }
+  ],  
+  "2": [
+    {
+      "question": "Vücutta oksijen taşıyan hücreler hangileridir?",
+      "options": [
+        "Akyuvarlar",
+        "Trombositler",
+        "Alyuvarlar",
+        "Sinir hücreleri",
+        "Kas hücreleri"
+      ],
+      "answer": 2
+    }
+  ]
+}
