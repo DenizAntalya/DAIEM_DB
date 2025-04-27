@@ -12,7 +12,7 @@
       "answer": 0
     },
     {
-      "question": "Acil durumda hasta/yaralı değerlendirme ile ilgili hangisi yanlıştır?"
+      "question": "Acil durumda hasta/yaralı değerlendirme ile ilgili hangisi yanlıştır?",
       "options": [
         "3 aşamada yapılır.",
         "1. aşamada yaşamı tehdit eden durum varlığı kontrol edilir.",
@@ -23,7 +23,7 @@
       "answer": 4
     },
     {
-      "question": "Ani olarak ortaya çıkan hastalık veya yaralanma durumunda; kişinin hayatını korumak, sağlık durumunun kötüleşmesini önlemek ve iyileşmesine destek olmak amacıyla olay yerindeki imkanları uygulanan hızlı ve etkili müdahalelere ne denir?"
+      "question": "Ani olarak ortaya çıkan hastalık veya yaralanma durumunda; kişinin hayatını korumak, sağlık durumunun kötüleşmesini önlemek ve iyileşmesine destek olmak amacıyla olay yerindeki imkanları uygulanan hızlı ve etkili müdahalelere ne denir?",
       "options": [
         "İlk yardım.",
         "Turnike.",
@@ -34,7 +34,7 @@
       "answer": 0
     },
     {
-      "question": "Hangisi ilk yardımın amacı değildir?"
+      "question": "Hangisi ilk yardımın amacı değildir?",
       "options": [
         "Hayatı korumak.",
         "Kötüleşmeyi önlemek.",
@@ -45,7 +45,7 @@
       "answer": 4
     },
     {
-      "question": "İlk yardımda hangisi ilk yardımcının dikkat etmesi gerekenlerden değildir?"
+      "question": "İlk yardımda hangisi ilk yardımcının dikkat etmesi gerekenlerden değildir?",
       "options": [
         "112'nin arandığından emin olmak.",
         "Hastanın stresli olduğunu düşünerek, bağırarak ve emir vererek konuşmak.",
