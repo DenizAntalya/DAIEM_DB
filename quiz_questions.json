@@ -140,5 +140,350 @@
         "answer": 0
       }
     ]
+  },
+  "3": {
+    "title": "Tasimalar",
+    "qlist": [
+      {
+        "question": "TAŞIMALARDA HANGİSİ YANLIŞTIR?",
+        "options": [
+          "EN AZ 6 NOKTADAN DESTEKLENİR",
+          "BAŞA GEÇEN KİŞİ  KOMUT VERİR",
+          "HASTAYA YAKIN MESAFE ÇALIŞILIR",
+          "UZUN VE GÜÇLÜ KASLAR KULLANILIR",
+          "HASTANIN ÖNCE AYAK KISMI ÇIKARTILIR"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "BAŞ BOYUN OMURGA YARALANMALARINDA , HANGİ TAŞIMA YÖNTEMİ KULLANILIR?",
+        "options": [
+          "KÜTÜK YUVARLAMA",
+          "SÜRÜKLEME",
+          "OMUZDA TAŞIMA",
+          "KUCAKTA TAŞIMA",
+          "RENTEC MANEVRASI"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "KİLOLU,İRİ YAPILI HASTADA VE DAR BASIK ALANDA HASTA NASIL TAŞINIR?",
+        "options": [
+          "OMUZDA",
+          "SÜRÜKLENİR",
+          "RENTEC MANEVRASI ",
+          "KÜTÜK YUVARLAMA",
+          "KUCAKTA"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "RENTEC MANEVRASI HANGİ DURUMLARDA YAPILIR?",
+        "options": [
+          "HASTA ARACA SIKIŞMIŞSA",
+          "HASTA YÜRÜYEMİYORSA",
+          "HASTANIN AYAĞI KIRIKSA",
+          "HASTANIN BİLİNCİ KAPALI İSE",
+          "HASTANIN SOLUNUMU YOKSA YADA ARAÇTA YANGIN , PATLAMA GİBİ TEHLİKELİ DURUM VARSA"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "TEK KİŞİ İLE , YÜRÜYEMEYEN / BİLİNCİ KAPALI HASTA NASIL TAŞINIR?",
+        "options": [
+          "İTFAİYECİ (OMUZDA TAŞIMA)",
+          "KUCAKTA",
+          "SÜRÜKLEME",
+          "SIRTTA",
+          "KÜTÜK YUVARLAMA"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "SEDYE İLE HASTA TAŞINIRKEN BAŞ HANGİ YÖNDE OLMALIDIR?",
+        "options": [
+          "GİDİŞ YÖNÜNDE",
+          "BAŞ AŞAĞIDA",
+          "GELİŞ YÖNÜNDE",
+          "FARKETMEZ",
+          "BAŞ YUKARIDA"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ZAYIF YETİŞKİN YADA ÇOCUK HASTANIN TAŞINMASINDA HANGİ YÖNTEM KULLANILIR?",
+        "options": [
+          "ÖNDE BEŞİK(KUCAKTA)",
+          "SÜRÜKLEME",
+          "KÜTÜK YUVARLAMA",
+          "İTFAİYECİ",
+          "SIRTTA(DENK KAYIŞ)"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "4": {
+    "title": "OED KULLANIMI",
+    "qlist": [
+      {
+        "question": "OED  YETİŞKİN HASTADA  NEREYE TAKILIR?",
+        "options": [
+          "SAĞ KÖPRÜCÜK KEMİĞİ ALTINA VE SOL GÖĞÜS ALTINA",
+          "İKİ GÖĞSÜN ORTASINA",
+          "SOL KOLTUK ALTINA ",
+          "SAĞ GÖĞÜS ALTINA",
+          "KARIN BÖLGESİNE"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "OED KULLANIMI İLE İLGİLİ HANGİSİ YAPILMAZ?",
+        "options": [
+          "KİMSE YOKSA İLK YARDIMCI, OED KENDİ ALMAYA GİDER",
+          "GETİREN KULLANMAYI BİLİYORSA OED TAKAR, TYD YAPAN UYGULAMAYA DEVAM EDER",
+          "0-28 GÜN ARASI YENİDOĞANDA KULLANILMAZ",
+          "ISLAK ZEMİNDE KULLANILMAZ",
+          "GÖRÜNÜRDE METAL VARSA KULLANILMAZ"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "OED CİHAZI BEBEKLERDE HANGİ DÖNEMDE KULLANILIR?",
+        "options": [
+          "29 GÜN VE ÜZERİNDE",
+          "30 GÜN ÜZERİ",
+          "1 YAŞ ÜZERİ",
+          "40 GÜN ÜZERİ",
+          "KULLANILMAZ"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "OED CİHAZI KULLANIMI İLE İLGİLİ BİLGİLERDEN HANGİSİ DOĞRU DEĞİLDİR?",
+        "options": [
+          "OED GELİNCE HEMEN HASTAYA TAKILIR",
+          "YARI OTOMATİK İSE , ŞOK DÜĞMESİNE İLK YARDIMCI BASAR",
+          "ISLAK ZEMİNDE KULLANILMAZ",
+          "HASTANIN ÇIPLAK VUCÜDÜNA KULLANILIR",
+          "TAM OTOMATİK İSE , ŞOK VERMEK İÇİN İLK YARDIMCI ŞOK DÜĞMESİNE BASAR"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "OED KULLANIMINDA HANGİSİ YANLIŞTIR?",
+        "options": [
+          "YAĞMURDA KULLANILMAZ",
+          "GÖRÜNÜRDE METAL VARSA KULLANILMAZ",
+          "ORTAMDA GAZ VARSA KULLANILMAZ",
+          "HASTA  OKSİJEN TAKILIYSA KULLANILMAZ",
+          "KALP PİLİ VARSA KULLANILMAZ"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "İKİ İLK YARDIMCI VARSA OED NASIL KULLANILIR?",
+        "options": [
+          "İKİSİ BİRLİKTE OED TAKAR",
+          "OED ALMAYA BİRLİKTE GİDERLER",
+          "BİRİSİ İLK YARDIM YAPAR , DİĞERİ İZLER",
+          "BİRİSİ TEMEL YAŞAM DESTEĞİ VERİR, DİĞERİ YARDIM İSTER",
+          "OED’Yİ GETİREN TAKAR, DİĞERİ TEMEL YAŞAM DESTEĞİNE DEVAM EDER"
+        ],
+        "answer": 4
+      }
+    ]
+  },
+  "5": {
+    "title": "TEMEL YAŞAM DESTEĞİ-14 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "6": {
+    "title": "BOĞULMALAR-6 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "7": {
+    "title": "TIKANMALAR- 6 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "8": {
+    "title": "KANAMALAR- 7 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "9": {
+    "title": "ŞOK VE GÖĞÜS AĞRISI-4 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "10": {
+    "title": "YARALANMALAR-3 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "11": {
+    "title": "BİLİNÇ BOZUKLUKLARI-14 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "12": {
+    "title": "KIRIK-ÇIKIK-BURKULMA-ZORLANMA- 6 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "13": {
+    "title": "BÖCEK SOKMASI – HAYVAN ISIRMASI-4 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "14": {
+    "title": "YANIKLAR-3 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "15": {
+    "title": "ZEHİRLENMELER-4 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "16": {
+    "title": "GÖZ-KULAK-BURUN YABANCI CİSİM KAÇMASI-7 SORU",
+    "qlist": [
+      {
+        "question": " ?",
+        "options": [
+          " .",
+          " .",
+          " .",
+          " .",
+          " ."
+        ],
+        "answer": 0
+      }
+    ]
   }
 }
