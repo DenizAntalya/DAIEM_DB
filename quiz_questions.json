@@ -63,15 +63,81 @@
     "title": "Vücut Sistemleri",
     "qlist": [
       {
-        "question": "Vücutta oksijen taşıyan hücreler hangileridir?",
+        "question": "ANİDEN KALP DURMASI NIN SEBEBİ HANGİSİDİR?",
         "options": [
-          "Akyuvarlar",
-          "Trombositler",
-          "Alyuvarlar",
-          "Sinir hücreleri",
-          "Kas hücreleri"
+          "KALP KÖKENLİ SORUNLAR, KALP KRİZİ",
+          "SOLUNUM KÖKENLİ SORUNLAR",
+          "AŞIRI HEYECAN",
+          "BAYILMA",
+          "BİLİNÇ BOZUKLUĞU"
         ],
-        "answer": 2
+        "answer": 0
+      },
+      {
+        "question": "KAS İSKELET SİSTEMİNİN GÖREVİ NEDİR?",
+        "options": [
+          "HAREKETİ SAĞLAR/VÜCUT ŞEKLİNİ KORUR",
+          "OKSİJENİ TAŞIR",
+          "OMURGAYA ŞEKİL VERİR",
+          "SOLUNUMU SAĞLAR",
+          "TERLEMEYİ KONTROL EDER"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "YETİŞKİN BİR KİŞİNİN DAKİKADAKİ NABIZ SAYISI NEDİR?",
+        "options": [
+          "60-100",
+          "50-60",
+          "70-90",
+          "20-60",
+          "60-80"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "YETİŞKİN BİR KİŞİNİN DAKİKADAKİ SOLUNUM SAYISI NEDİR?",
+        "options": [
+          "12-20",
+          "10-25",
+          "20-30",
+          "5-10",
+          "10-30"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "YENİDOĞANIN DAKİKADAKİ SOLUNUM SAYISI KAÇTIR?",
+        "options": [
+          "30-40",
+          "20-30",
+          "15-20",
+          "30-50",
+          "10-20"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "BEYİN EN FAZLA KAÇ DAKİKA OKSİJENSİZ KALABİLİR?",
+        "options": [
+          "4-6",
+          "0-5",
+          "1-7",
+          "3-5",
+          "2-6"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "KALP VE KAN DAMARLARI İLE TAŞINAN , KANDAKİ OKSİJENİN , BESİN VE DİĞER GEREKLİ MADDELERİN HÜCRELERE ULAŞTIRILMASI,VE HÜCRELERİMİZDE OLUŞAN KARBONDİOKSİT VE ARTIK MADDELERİN UZAKLAŞTIRILMASINI SAĞLAYAN SİSTEM HANGİSİDİR?",
+        "options": [
+          "DOLAŞIM SİSTEMİ",
+          "SİNİR SİSTEMİ",
+          "CİLT",
+          "KAS İSKELET SİSTEMİ",
+          "SOLUNUM SİSTEMİ"
+        ],
+        "answer": 0
       }
     ]
   }
