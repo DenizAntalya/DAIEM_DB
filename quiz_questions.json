@@ -294,196 +294,923 @@
       }
     ]
   },
-  "5": {
-    "title": "TEMEL YAŞAM DESTEĞİ-14 SORU",
+   "5": {
+    "title": "Temel Yaşam Desteği",
     "qlist": [
       {
-        "question": " ?",
+        "question": "BEBEKTE TEMEL YAŞAM DESTEĞİ İLE İLGİLİ HANGİSİ YANLIŞ VERİLMİŞTİR?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "BİLİNÇ KONTROLÜ GÖZ TEMASI KURULARAK YAPILIR",
+          "NEFES VERİRKEN BURUN KAPATILMAZ",
+          "KALP MASAJI, İKİ PARMAKLA YADA İKİ BAŞPARMAK İLE YAPILIR",
+          "30 KALP MASAJI/2 SOLUNUM ŞEKLİNDE YAPILIR",
+          "TEMEL YAŞAM DESTEĞİNE BAŞLAMADAN ÖNCE, 5 NEFES VERİLİR"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "ERİŞKİN TEMEL YAŞAM DESTEĞİNDE , BASI DERİNLİĞİ NEKADAR OLMALI?",
+        "options": [
+          "1/5",
+          "1/4",
+          "3/5",
+          "2/3",
+          "1/3 ÖN ARKA ÇAPI"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "ERİŞKİN TYD ‘DE ,  DOĞRU KALP BASISI NEREYE YAPILIR?",
+        "options": [
+          "İMAN TAHTASININ ÜST KISMINA",
+          "İMAN TAHTASININ ½ ALT YARISI , İMAN TAHTASININ ALT UCUNDAKİ ÇIKINTIDAN UZAK  DURULAN NOKTAYA YAPILIR",
+          "İMAN TAHTASININ ORTASINA",
+          "İMAN TAHTASININ SOL TARAFINA",
+          "İMAN TAHTASININ SAĞ TARAFINA"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "SOLUNUM KONTROLÜ KAÇ SANİYE YAPILIR?",
+        "options": [
+          "10-15",
+          "5-10",
+          "10-15",
+          "5",
+          "10"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "TEMEL YAŞAM DESTEĞİ YAPARKEN DAKİKADAKİ KALP MASAJI HIZI NASIL OLMALI?",
+        "options": [
+          "100-120",
+          "100-110",
+          "100",
+          "120",
+          "50-100"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "8 AYLIK KAZAZEDE KALP BASISI NEREYE YAPILIR?",
+        "options": [
+          "İKİ MEME BAŞININ BİRLEŞTİRİLDİĞİ ÇİZGİNİN ORTA NOKTASININ BİR PARMAK ALTINA YAPILIR",
+          "İKİ GÖĞSÜN ORTASINA",
+          "GÖĞÜS KAFESİNİN ÜSTÜNE",
+          "SOL MEME ÜSTÜNE",
+          "SOL MEME ALTINA"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "TEMEL YAŞAM DESTEĞİ SIRASINDA , HANGİSİ YANLIŞTIR?",
+        "options": [
+          "HASTANIN İLK BİLİNCİNE BAKILIR",
+          "İLK YARDIMCI YALNIZSA 112 KENDİSİ ARAR",
+          "SOLUNUM 5-10 SN.KONTROL EDİLİR",
+          "ÖNCE SOLUNUMA BAKILIR , SONRA AĞIZ İÇİ KONTROL EDİLİR",
+          "HASTA 5 DÖNGÜDE BİR KONTROL EDİLİR"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "HANGİSİ YAŞAM ZİNCİRİ HALKASI DEĞİLDİR?",
+        "options": [
+          "112 ARANIR",
+          "DEFİBRASYON YAPILIR",
+          "TEMEL YAŞAM DESTEĞİNE BAŞLANIR",
+          "İYİLEŞME",
+          "ŞOK POZİSYONU VERİLİR"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "YETİŞKİNDE KALP BASISI NASIL YAPILIR?",
+        "options": [
+          "İKİ ELLE",
+          "TEK ELLE",
+          "İKİ PARMAKLA",
+          "İKİ BAŞPARMAKLA",
+          "DÖNÜŞÜMLÜ TEK ELLE"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "KALP MASAJI SIRSINDA GÖGÜS BASISI İLE İLGİLİ  VERİLEN BİLGİLERDEN HANGİSİ DOĞRUDUR?",
+        "options": [
+          "YETİŞKİNDE 5-6 CM ÇÖKERTİLİR",
+          "ÇOCUKTA 5 CM ÇÖKERTİLİR",
+          "BEBEKTE 4 CM ÇÖKERTİLİR",
+          "HASTANIN KİLOSUNA GÖRE ÇOCUKTA 5-6 CM OLABİLİR",
+          "HEPSİ DOĞRU"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "YAŞAM ZİNCİRİNİN İLK HALKASI NEDİR?",
+        "options": [
+          "112 ARANIR",
+          "HIZLI VE ETKİLİ GÖĞÜS BASISI",
+          "HIZLI DEFİBRİLASYON",
+          "GELİŞMİŞ İLERİ YAŞAM DESTEĞİ",
+          "CANLANDIRMA SONRASI BAKIM "
+        ],
+        "answer": 3
+      },
+      {
+        "question": "TEMEL YAŞAM DESTEĞİNİN İLK ADIMI NEDİR?",
+        "options": [
+          "112 ARA/ARAT",
+          "AĞIZ KONTROLU",
+          "SOLUNUM KONTROLÜ",
+          "KALP BASISI",
+          "SUNİ SOLUNUM"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "KURTARMA POZİSYONUNUN TANIMI NEDİR?",
+        "options": [
+          "BİLİNÇSİZ ANCAK NORMAL NEFES ALAN BİR HASTA/YARALININ VÜCUDUNUN YAN YATAR POZİSYONA GETİRİLMESİDİR.",
+          "HASTAYA  RAHAT POZİSYON VERİLMESİDİR",
+          "BACAKLARIN KALDIRILMASIDIR",
+          "HASTANIN OTURTULMASIDIR",
+          "HASTANIN YARI OTURTULMASIDIR"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "TEMEL YAŞAM DESTEĞİ SIRASINDA 112 NE ZAMAN ARANMALIDIR?",
+        "options": [
+          "BİLİNÇ KONTROLÜNDEN SONRA",
+          "HASTANIN YANINA GELİNCE HEMEN",
+          "SOLUNUM KONTROLÜNDEN SONRA",
+          "KALP MASJINDAN SONRA",
+          "HASTA TEPKİ VERİNCE"
         ],
         "answer": 0
       }
     ]
   },
   "6": {
-    "title": "BOĞULMALAR-6 SORU",
+    "title": "Boğulmalar",
     "qlist": [
       {
-        "question": " ?",
+        "question": "BOĞULMADA YAPILAN İLK YARDIM UYGULAMALARINDAN  HANGİSİ YANLIŞTIR?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "HASTAYA OKSİJEN VERİLMEZ",
+          "İLK YARDIMCI ÖNCE KENDİ GÜVENLİĞİNİ SAĞLAR",
+          "SUYUN İÇİNDE SUNİ SOLUNUM YAPARAK TEMEL YAŞAM DESTEĞİNE BAŞLANIR",
+          "HASTANIN ARKA TARAFINDAN MÜDAHALE EDİLİR",
+          "İLKYARDIMCI YÜZME BİLMİYORSA, SUYA GİRMEZ"
         ],
         "answer": 0
+      },
+      {
+        "question": "BOĞULMANIN EVRENSEL İŞARETİ NASILDIR?",
+        "options": [
+          "HASTA ELLERİNİ HAVAYA KALDIRIR",
+          "HASTA İKİ ELİNİ BOĞAZINA GÖTÜRÜR",
+          "HASTA ELLERİNİ KARNINA KOYAR",
+          "HASTA BİR ELİNİ HAVAYA KALDIRIR",
+          "HASTA BİR ELİNİ AŞAĞIYA İNDİRİR"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "SU /SIVIYA DALMA YADA BATMA NEDENİYLE SOLUNUM BOZUKLUĞU  YAŞANMASI VEYA ÖLÜM İLE SONUÇLANMASINA NE DENİR?",
+        "options": [
+          "KALP DURMASI",
+          "ŞOK",
+          "BOĞULMA",
+          "ZEHİRLENME",
+          "ALERJİ"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "BOĞULMADA YAPILMASI GEREKEN İLK MÜDAHALE NEDİR?",
+        "options": [
+          "112 ARAMAK",
+          "OKSİJEN VERMEK",
+          "TEMEL YAŞAM DESTEĞİNE BAŞLAMAK",
+          "GÜVENLİĞİ SAĞLAMAK",
+          "İZİN ALMAK"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "BOĞULMADAKİ RİSK FAKTÖRLERİNDEN HANGİSİ EN TEHLİKELİDİR?",
+        "options": [
+          "ALKOL",
+          "DÜŞÜK SOSYO EKONOMİK DÜZEY",
+          "EĞİTİM SEVİYESİNDE DÜŞÜKLÜK",
+          "ERKEK CİNSİYET",
+          "14 YAŞ ALTI"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "HANGİLERİ BOĞULMA BELİRTİSİDİR?",
+        "options": [
+          "AĞIZ VE BURUNDAN KÖPÜK GELMESİ",
+          "GÜRÜLTÜLÜ, HIZLI VE DERİN NEFES ALIP VERME",
+          "SOĞUK VE SOLUK CİLT",
+          "KULAK, BURUN, DUDAK VE TIRNAK GİBİ VÜCUDUN UÇ KISIMLARINDA MORARMADIR",
+          "HEPSİ"
+        ],
+        "answer": 4
       }
     ]
   },
   "7": {
-    "title": "TIKANMALAR- 6 SORU",
+    "title": "Tıkanmalar",
     "qlist": [
       {
-        "question": " ?",
+        "question": "BEBEKTE TAM TIKANMADA HANGİSİ YAPILMAZ?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "AĞIZ KONTROLÜ YAPILIR",
+          "SIRTA 5 VURU YAPILIR",
+          "GÖĞSE 5 BASI YAPILIR",
+          "BEBEĞİN BAŞI AŞAĞIDA TUTULUR",
+          "KARIN  BASISI "
+        ],
+        "answer": 4
+      },
+      {
+        "question": "TAM TIKANMADA BEBEKTE HEMLİK NASIL YAPILIR?",
+        "options": [
+          "SIRTA 5 VURU , GÖĞSE 5 BASI",
+          "KARNA 5 BASI",
+          "SADECE SIRTA VURU",
+          "SIRTA PARMAKLA BASI",
+          "GÖGSE VURU"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "HAMİLE  VE OBEZLERDE TAM TIKANMADA HEMLİCK NASIL OLMALI?",
+        "options": [
+          "GÖĞÜS KEMİĞİNİN ALT YARISINA , GÖĞÜS BASISI YAPILIR",
+          "GÖBEĞİN ALTINA",
+          "UYGULAMA YAPILMAZ",
+          "SADECE SIRTA VURU YAPILIR",
+          "AĞIZ KONTROLÜ YAPILIR"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "HEMLİCK MANEVRASI YAPILMASI SIRASINDA , SOLUNUM TAMAMEN DURURSA NE YAPILIR?",
+        "options": [
+          "HASTA TEMİZ HAVAYA ÇIKARTILIR",
+          "KARNA BASI YAPMAYA DEVAM EDİLİR",
+          "SIRTA VURUYA DEVAM EDİLİR",
+          "HASTA YERE YATIRILIR , TEMEL YAŞAM DESTEĞİNE BAŞLANIR",
+          "112 ‘NİN GELMESİ BEKLENİR"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "TIKANMALARLA İLGİLİ HANGİSİ YANLIŞTIR?",
+        "options": [
+          "YETİŞKİNDE TAM TIKANMADA KARNA BASI/SIRTA VURU ŞEKLİNDE YAPILIR",
+          "BEBEKTE TAM TIKANMADA SIRTA VURU/GÖĞSE VURU ŞEKLİNDE YAPILIR",
+          "HAMİLE VE OBEZLERDE GÖĞÜS BASISI YAPILIR",
+          "ÇOCUKTA TAM TIKANMADA YETİŞKİNLE AYNI İŞLEM YAPILIR(KARNA BASI/SIRTA VURU ŞEKLİNDE YAPILIR)",
+          "TAM TIKANMADA 112 HER ZAMAN ARANMAZ"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "TAM TIKANMANIN EN AYIRT EDİCİ ÖZELLİĞİ NEDİR?",
+        "options": [
+          "TAM TIKANMADA NEFES ALIMI OLMAZ",
+          "TAM TIKANMADA HASTA ÖKSÜRÜR",
+          "TAM TIKANMADA HASTA SESLER ÇIKARTILIR",
+          "TAM TIKANMADA AZ DA OLSA NEFES ALIR",
+          "TAM TIKANMADA KISMİ NEFES ALINIR ,KISMİ TIKANMADA HASTA NEFES ALAMAZ"
         ],
         "answer": 0
       }
     ]
   },
   "8": {
-    "title": "KANAMALAR- 7 SORU",
+    "title": "Kanamalar",
     "qlist": [
       {
-        "question": " ?",
+        "question": "İÇ KANAMALARDA HANGİSİ OLMAZ?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "HUZURSUZLUK VE ENDİŞE",
+          "KARIN VEYA GÖĞÜS AĞRISI",
+          "KARINDA VEYA GÖĞÜSTE ŞİŞLİK",
+          "BİLİNÇ DEĞİŞİKLİĞİ VE UYKU HALİDİR",
+          "YÜKSEK TANSİYON"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "KANAMALARDA HANGİSİ YAPILMAZ?",
+        "options": [
+          "KANAMA KÜÇÜKSE İKİ PARMAKLA BASILIR",
+          "KANMA BÜYÜKSE ELLE BASILIR",
+          "BASKILI BANDAJLA DURMAYAN KANAMAYA , TURNİKE YAPILIR",
+          "KANAYAN YERİ GÖRMEK İÇİN , KIYAFET AÇILIR",
+          "KANAYAN YER YIKANIR"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "UZUV KOPMALARINDA İLK YARDIMDA HANGİSİ YAPILMAMALI?",
+        "options": [
+          "VARSA TEMİZ BEZE SARILIR,POŞETE KONARAK AĞZI KAPATILIR,İÇİNDE BUZ OLAN İKİNCİ BİR KABA ALINIR",
+          "KOPAN UZUV SUYLA YIKANIR",
+          "6 SAAT İÇİNDE SAĞLIK KURULUŞUNA ULAŞTIRILIR",
+          "HASTA ŞOK YÖNÜNDEN TAKİP EDİLİR",
+          "HASTANIN ALNINA T HARFİ YAZILIR"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "TURNİKE UYGULAMADA HANGİSİ YANLIŞTIR?",
+        "options": [
+          "TEK KEMİK OLAN YERE YAPILIR",
+          "UZUV KOPMALARINDA , ÖN KOL VE ÖN BACAĞA YAPILIR",
+          "TURNİKE KANAMA DURANA KADAR SIKILIR",
+          "TURNİKE UYGULANAN YER DIŞARDA KALACAK ŞEKİLDE HASTANIN ÜSTÜ ÖRTÜLÜR",
+          "SADECE DAMAR OLAN YERE YAPILIR"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "KANAMALARLA İLGİLİ AŞAĞIDAKİ BİLGİLERDEN HANGİSİ YANLIŞTIR?",
+        "options": [
+          "ATARDAMARIN BASINCI FAZLADIR",
+          "ATARDAMAR TEMİZ KAN TAŞIR",
+          "ATARDAMAR KESİK KESİK FIŞKIRARAK KANAR",
+          "ATARDAMAR KANAMASI , TOPLARDAMARDAN DAHA AZ TEHLİKELİR",
+          "TOPLARDAMAR OKSİJENDEN FAKİRDİR, KİRLİ KAN TAŞIR"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "DIŞ KANAMALARDA KANAMAYI DURDURMAK İLK İÇİN NE YAPILIR?",
+        "options": [
+          "TURNİKE",
+          "BASKILI BANDAJ",
+          "KANAMA DURDURUCU BANDAJ",
+          "SOĞUTMA İŞLEMİ",
+          "KANAYAN YERE TEMİZ BİR BEZLE BASKI YAPILIR"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "KANAMALARDA HANGİ UYGULAMA DOĞRUDUR?",
+        "options": [
+          "BASI YAPILAN BEZ ISLANDIYSA , KALDIRILMADAN ÜSTÜNE TEMİZ BEZ KONUR , BASIYA DEVAM EDİLİR",
+          "KANAYAN YER İYİCE YIKANIR",
+          "KANAYAN YERİN ÜZERİ ÖRTÜYLE GÖRÜNMEYECEK ŞEKİLDE ÖRTÜLÜR",
+          "KANAYAN YER SALLANARAK RAHATLATILIR",
+          "KAYBEDİLEN SIVIYI YERİNE KOYMAK İÇİN AĞIZDAN SIVI VERİLİR"
         ],
         "answer": 0
       }
     ]
   },
   "9": {
-    "title": "ŞOK VE GÖĞÜS AĞRISI-4 SORU",
+    "title": "Şok ve Göğüs Ağrısı",
     "qlist": [
       {
-        "question": " ?",
+        "question": "HANGİSİ ŞOK BELİRTİSİ DEĞİLDİR?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "KAN BASINCINDA YÜKSELME",
+          "SOĞUK ,SOLUK  NEMLİ CİLT",
+          "HIZLI YÜZEYSEL NABIZ",
+          "CİLTTE MORARMA,RENK DEĞİŞİKLİĞİ",
+          "BİLİNÇ BOZUKLUĞU"
         ],
         "answer": 0
+      },
+      {
+        "question": "ŞOK POZİSYONU VERİLMESİNDE HANGİSİ YAPILMAZ?",
+        "options": [
+          "HASTA SIRT ÜSTÜ YATIRILIR",
+          "AYAKLAR 30-60 DERECE YÜKSELTİLİR",
+          "BACAKLARDA AĞRI OLUYORSA , YÜKSELTME İŞLEMİ YAPILMAZ",
+          "HASTANIN ÜZERİ ÖRTÜLÜR",
+          "HASTA SERİN BİR ALANA TAŞINIR"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "DOKULARIN İHTİYACI OLAN OKSİJEN VE DİĞER TEMEL GEREKSİNİMLERİNİN DOLAŞIM BOZUKLUĞU NEDENİYLE  SAĞLANAMAMASINA NEDENİR?",
+        "options": [
+          "BAYILMA",
+          "ŞOK",
+          "BAYILAYAZMA",
+          "İNME",
+          "BİLİNÇ BOZUKLUĞU"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "GÖĞÜS AĞRISI OLAN HASTA HANGİSİ YAPILMAZ?",
+        "options": [
+          "HASTA OTURTULUR",
+          "İLACI VARSA VERİLİR",
+          "SIKAN GİYSİLER GEVŞETİLİR",
+          "ODA HAVALANDIRILIR",
+          "HASTA YÜZ ÜSTÜ YATIRILIR-"
+        ],
+        "answer": 4
       }
     ]
   },
   "10": {
-    "title": "YARALANMALAR-3 SORU",
+    "title": "Yaralanmalar",
     "qlist": [
       {
-        "question": " ?",
+        "question": "DİŞ KOPMASINDA HANGİSİ YANLIŞTIR?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "DİŞ ALKOL İLE  DEZENFEKTE EDİLİR",
+          "DİŞ KÖKÜNDEN TUTULMAZ",
+          "VARSA YAĞLI İNEK SÜTÜNDE SAKLANIR",
+          "VARSA YUMURTA AKINDA SAKLANIR",
+          "HASTANIN KENDİ TÜKRÜĞÜNDE MUHAFAZA EDİLİR"
         ],
         "answer": 0
+      },
+      {
+        "question": "YARALANMALARDA YAPILAN UYGULAMALARDAN HANGİSİ DOĞRU DEĞİLDİR?",
+        "options": [
+          "KOPAN DİŞ KÖKÜNDEN TUTULMAMALI",
+          "BAŞ YARALANMASINDA ,BİLİNÇ AÇIKSA OMURGADA YARALANMA ŞÜPHESİ YOKSA ,SIRT ÜSTÜ RAHAT EDEBİLECEĞİ BİR POZİSYONDA BAŞ VE OMUZLARI HAFİF YÜKSELTİLİR",
+          "BOYUN VE OMURGA YARALANMASINDA ,BİLİNÇ AÇIKSA YARALININ BAŞ VE BOYNU SABİT TUTULUR",
+          "EZİLME YARALANMASINDA , BÖLGENİN DOLAŞIMINI SAĞLAMAK İÇİN HASTA HAREKET ETTİRİLİR",
+          "YARALIYA BOYUNLUK TAKILMAZ"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "GÖĞÜS YARALANMASINDA HANGİSİ YAPILMAZ?",
+        "options": [
+          "HASTAYA OTURUR POZİSYON VERİLİR",
+          "HASTA YARANIN OLDUĞU TARAFA YAN OTURTULUR",
+          "EMİCİ GÖĞÜS YARALANMASINDA , ÜÇ TARAFI KAPALI  ALT TARAFI AÇIK TAMPON YAPILIR",
+          "BATMIŞ CİSİM VARSA ÇIKARTILIR",
+          "HASTANIN BİLİNCİ KAPANIRSA , YARANIN OLDUĞU TARAFA KURTARMA POZİSYONU VERİLİR"
+        ],
+        "answer": 3
       }
     ]
   },
   "11": {
-    "title": "BİLİNÇ BOZUKLUKLARI-14 SORU",
+    "title": "Bilinç Bozuklukları",
     "qlist": [
       {
-        "question": " ?",
+        "question": "BİLİNÇ BOZUKLUĞU İLE İLGİLİ AŞAĞIDAKİLERDEN HANGİSİ YANLIŞTIR?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "HASTAYA ŞOK POZİSYONU VERİLİR",
+          "HASTAYA KURTARMA POZİSYONU VERİLİR",
+          "USAY YÖNTEMİ İLE KONTROL EDİLİR",
+          "112 GELENE KADAR 3-5DK.ARAYLA NABIZ KONTROLU YAPILIR",
+          "İLK YARDIMCI HASTANIN YANINDA BEKLER"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "KOAH ‘TA İLK YARDIMDA HANGİSİ YAPILMAZ?",
+        "options": [
+          "HASTA SIRT ÜSTÜ YATIRILIR",
+          "İLACI VARSA ALMASI SAĞLANIR",
+          "İLACINI ALINCA RAHATLAMAZ İSE 112 ARANIR",
+          "HASTA  OTURMA POZİSYONUNA GETİRİLİR",
+          "HASTANIN BİLİNCİ KAPANIR , FAKAT NEFES ALIYORSA KURTARMA POZİSYONU VERİLİR"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ALLERJİK REAKSİYONDA HANGİSİNİN YAPILMASI DOĞRU DEĞİLDİR?",
+        "options": [
+          "HASTANIN YANINDA REÇETELİ OTOMATİK ENJEKTÖRLÜ İLACI VARSA YAPMASI SAĞLANIR",
+          "HASTA RAHAT POZİSTONDA OTURTULUR",
+          "ARI SOKMASI İLE  GELİŞEN ALLERJİLERDE  ARININ İĞNESİ GÖRÜNÜYOR İSE , İĞNE  ÇIKARTILMAZ",
+          "HASTA RAHATLAMAZ İSE 112 ARANIR/ARATILIR",
+          "HASTANIN BİLİNCİ KAPANIR,SOLUNUMU VARSA KURTARMA POZİSYONU VERİLİR"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "HASTANIN BİLİNCİ TAMAMEN KAPALI, HİÇBİR UYARANA CEVAP VERMİYORSA BİLİNÇ NASILDIR?",
+        "options": [
+          "YANITSIZ",
+          "YARI AÇIK",
+          "YARI KAPALI",
+          "UYANIK",
+          "YARI UYANIK"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "SICAK ÇARPMASINDA HANGİSİ OLMAZ?",
+        "options": [
+          "UYKUYA MEYİL",
+          "PARLAK , CANLI SOĞUK DERİ ",
+          "KASLARDA HASSASİYET , KRAMP",
+          "GÖRME BOZUKLUĞU",
+          "ÇARPINTI"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "AŞAĞIDAKİLEERDEN HANGİSİ İNME BELİRTİSİDİR?",
+        "options": [
+          "ANİ UYUŞMA",
+          "BAŞ AĞRISI",
+          "KONUŞMADA BOZUKLUK",
+          "GÖRMEDE BULANIKLIK",
+          "HEPSİ"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "İNME DEĞERLENDİRMEDE KULLANILAN (FAST) AÇILIMI NEDİR?",
+        "options": [
+          "YÜZ KONTROLÜ",
+          "KOL KONTROLÜ",
+          "TRANSFER",
+          "KONUŞMA KONTROLÜ",
+          "YÜZ,KOL,KONUŞMA,TRANSFER"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "HANGİSİ SICAK YORGUNLUĞU BELİRTİSİ DEĞİLDİR?",
+        "options": [
+          "AŞIRI TERLEME",
+          "KAS KRAMPLARI",
+          "UYKUYA MEYİL",
+          "HIZLI VE DOLGUN NABIZ",
+          "SOLGUNLUK"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "BİLİNCİ KAPALI , SOLUNUMU VE NABZI OLAN HASTAYA HANGİ POZİSYON VERİLİR?",
+        "options": [
+          "ŞOK",
+          "OTURTULUR",
+          "KURTARMA, DERLEME,İYİLEŞME",
+          "YARI OTURTULUR",
+          "YAN OTURTULUR"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "BİLİNÇ KONTROLÜ HANGİ YÖNTEMLE YAPILIR?",
+        "options": [
+          "USAY",
+          "FAST",
+          "US",
+          "AY",
+          "GÖZ TEMASI"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "KOAH ‘TA NE YAPILMAMALI?",
+        "options": [
+          "HASTA OTURTULUR",
+          "İLACI VARSA ALMASI SAĞLANIR",
+          "HASTA RAHATLAMAZ İSE 112 ARANIR",
+          "HASTA SIRT ÜSTÜ YATIRILIR",
+          "BİLİÇ KAPANIRSA , KURTARMA POZİSYONU VERİLİR"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "ÇOCUKLUK ÇAĞI ATEŞİNDE HANGİ UYGULAMA YANLIŞTIR?",
+        "options": [
+          "ÇOCUĞUN KIYAFETLERİ ÜŞÜMEYİ ÖNLEMEK İÇİN ÇIKARTILMAZ",
+          "SOĞUK UYGULAMA YAPILIR",
+          "ÇOCUĞUN ETRAFI GÜVENLİ HALE GETİRİLİR",
+          "ÇOCUĞA KURTARMA POZİSYONU VERİLİR",
+          "BİLİNCİ AÇILMIYORSA 112 ARANIR"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "HANGİSİ İNME BELİRTİSİ DEĞİLDİR?",
+        "options": [
+          "KONUŞMA BOZUKLUĞU",
+          "BAŞ AĞRISI",
+          "YÜZDE ŞEKİL BOZUKLUĞU",
+          "KOLLARDA  HAREKET BOZUKLUĞU",
+          "HIZLI NEFES ALMA"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "KAN ŞEKERİ DÜŞÜKLÜĞÜNDE NE YAPILIR?",
+        "options": [
+          "BİLİNÇ AÇIKSA OTURTULUR, ŞEKER VERİLİR",
+          "ŞOK POZİSYONU VERİLİR",
+          "KURTARMA POZİSYONU VERİLİR",
+          "YARI OTURTULUR",
+          "SIRT ÜSTÜ YATIRILIR"
         ],
         "answer": 0
       }
     ]
   },
   "12": {
-    "title": "KIRIK-ÇIKIK-BURKULMA-ZORLANMA- 6 SORU",
+    "title": "Kırık-Çıkık-Burkulma-Zorlanma",
     "qlist": [
       {
-        "question": " ?",
+        "question": "HANGİSİ ÇIKIK SEBEBİDİR?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "DÜŞME , YARALANMA,TRAFİK KAZASI",
+          "KANAMA",
+          "ŞOK",
+          "HAYVAN ISIRMASI",
+          "KALP DURMASI"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "HANGİSİ ÇIKIK BELİRTİSİ DEĞİLDİR?",
+        "options": [
+          "ŞEKİL BOZUKLUĞU",
+          "AĞRI",
+          "ÖDEM",
+          "KAŞINTI,DÖKÜNTÜ",
+          "SICAKLIK,MORARMA"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "ZORLAMA VE BURKULMALARDA YAPILAN UYGULAMALARDAN  HANGİSİ YANLIŞTIR?",
+        "options": [
+          "SOĞUK UYGULAMA YAPILIR",
+          "BASKILI BANDAJ YAPILMAZ",
+          "MASAJ YAPILIR",
+          "HASTA HAREKET ETTİRİLMEZ",
+          "HASTANIN DİNLENMESİ SAĞLANIR"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "AŞAĞIDAKİLERDEN HANGİSİ KIRIK BELİRTİSİ DEĞİLDİR?",
+        "options": [
+          "AĞRI",
+          "ŞEKİL BOZUKLUĞU",
+          "ŞİŞME",
+          "KANAMA",
+          "ENFEKSİYON"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "BURKULMALARDA HANGİSİ YANLIŞTIR?",
+        "options": [
+          "SOĞUK UYGLAMA YAPILIR",
+          "SICAK UYGULAMA YAPILIR",
+          "BASKILI BADAJ YAPILMAZ",
+          "MASAJ YAPILMAZ",
+          "İSTİRAHAT ETTİRİLİR"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "EKLEMİ OLUŞTURAN KEMİKLERİN YER DEĞİŞTİRMESİ NEDENİ İLE, EKLEM YÜZEYLERİNİN ARTIK BİRBİRLERİ İLE TEMAS ETMEYECEK ŞEKİLDE TAMAMEN BOZULMASINA NEDENDİR?",
+        "options": [
+          "ÇIKIK",
+          "BURKULMA",
+          "ZORLAMA",
+          "KIRIK",
+          "LİF KOPMASI"
         ],
         "answer": 0
       }
     ]
   },
   "13": {
-    "title": "BÖCEK SOKMASI – HAYVAN ISIRMASI-4 SORU",
+    "title": "Böcek Sokması- Hayvan Isırması",
     "qlist": [
       {
-        "question": " ?",
+        "question": "KENE ISIRMALARINDA İLK YARDIMDA HANGİSİ DOĞRUDUR?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "ÇIPLAK ELLE MÜDALE EDİLİR",
+          "KENE EZİLİR",
+          "CİLT SIKILARAK KENE ÇIKARTILIR",
+          "PARMAKLA İYİCE KAVRANARAK ÇIKARTILIR",
+          "CIMBIZLA , KENENİN ÇENESİ VE BAŞI SIKICA KAVRANIR VE PARÇALANMADAN ÇIKARTILIR"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "ÖRÜMCEK ISIRMASINDA HANGİSİ YAPILMAMALI?",
+        "options": [
+          "SOĞUK UYGULAMA",
+          "SICAK UYGULAMA",
+          "SU VE SABUNLA YIKANIR",
+          "DOLAŞIMI ENGELLEMEYEN BANDAJ YAPILIR",
+          "DOLAŞIMI ENGELLEMEYEN BANDAJ YAPILIR"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "BÖCEK SOKMASINDA HANGİSİ LOKAL (YEREL)BELİRTİ DEĞİLDİR?",
+        "options": [
+          "BAYILMA",
+          "AĞRI",
+          "ŞİŞME",
+          "KIZARIKLIK",
+          "KAŞINTI,KABARIKLIK"
         ],
         "answer": 0
+      },
+      {
+        "question": "BÖCEK ISIRMALARI VE SOKMALARINDA HANGİSİ YAPILMAZ?",
+        "options": [
+          "YILAN SOKMASINDA SOĞUK SU UYGULANMAZ",
+          "DENİZANASI SOKMASINDA TATLI SU İLE MÜDAHALE EDİLMEZ",
+          "KENE ISIRMASINDA , ATEŞ, BENZİN , VAZELİN VB..İLE MÜDAHALE EDİLMEZ",
+          "SOKULAN YER KESİLİR,EMİLİR,KANATILIR",
+          "AKREP SOKMASINDA VARSA AĞRI KESİCİ VERİLİR"
+        ],
+        "answer": 4
       }
     ]
   },
   "14": {
-    "title": "YANIKLAR-3 SORU",
+    "title": "Yanıklar",
     "qlist": [
       {
-        "question": " ?",
+        "question": "SU TOPLAMIŞ YANIKTA HANGİSİNİN YAPILMASI DOĞRUDUR?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "BÜLLER PATLATILIR",
+          "YANIK MERHEMİ SÜRÜLÜR",
+          "YANIK OLAN YERE BANDAJ YAPILIR",
+          "BİLİNÇ KONTROLÜ",
+          "HEPSİ"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "YANIKLAR KAÇ DERECEDİR?",
+        "options": [
+          "5",
+          "3",
+          "2",
+          "4",
+          "1"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "YANIKLARDA HANGİSİ YANLIŞTIR?",
+        "options": [
+          "BÜLLER PATLATILIR",
+          "SIKI BANDAJ YAPILMAZ",
+          "KOLLAR VE AYAKLARDA YANIK  VARSA , 24-48 SAAT YUKARDA TUTULUR",
+          "KIYAFET , SOĞUTMA İŞLEMİNDEN SONRA ÇIKARTILIR",
+          "YANIK PARMKLARDA İSE , TEK TEK SARMA İŞLEMİ YAPILIR"
         ],
         "answer": 0
       }
     ]
   },
   "15": {
-    "title": "ZEHİRLENMELER-4 SORU",
+    "title": "Zehirlenmeler",
     "qlist": [
       {
-        "question": " ?",
+        "question": "SOLUNUM YOLU ZEHİRLENMESİNİN EN AYIRT EDİCİ ÖZELLİĞİ NEDİR?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "BİLİNÇ KAYBI",
+          "MİDE BULANTISI",
+          "KİRAZ KIRMIZI DUDAKLAR",
+          "ŞİŞKİNLİK",
+          "KUSMA"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "AŞAĞIDAKİLERDENH HANGİSİ ALKOL ZEHİRLENMESİNİN BELİRTİSİ DEĞİLDİR?",
+        "options": [
+          "KAN ŞEKERİ YÜKSEKLİĞİ",
+          "KIZARIK NEMLİ YÜZ",
+          "VÜCUT SICAKLIĞINDA DÜŞME",
+          "BİLİNÇ KAYBI",
+          "DERİN , GÜRÜLTÜLÜ SOLUNUM"
         ],
         "answer": 0
+      },
+      {
+        "question": "ZEHİRLENMELERDE İLK YARDIMCININ İLK YAPMASI GEREKEN NEDİR?",
+        "options": [
+          "İLK YARDIMCI ÖNCE KENDİ GÜVENLİĞİNİ SAĞLAR",
+          "ÇEVRE GÜVENLİĞİNİ SAĞLAR",
+          "ORTAMI HAVALANDIRIR",
+          "CİLDİ SUYLA BOLCA YIKAR",
+          "HASTANIN KIYAFETLERİNİ ÇIKARTIR"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "EN SIK RASTLANAN ZEHİRLENME HANGİSİDİR?",
+        "options": [
+          "SOLUNUM YOLU ZEHİRLENMESİ",
+          "SİNDİRİM YOLU ZEHİRLENMESİ",
+          "CİLT YOLU ZEHİRLENMESİ",
+          "GÖZ ZEHİRLENMESİ",
+          "ENJEKSİYON YOLU ZEHİRLENMESİ"
+        ],
+        "answer": 1
       }
     ]
   },
   "16": {
-    "title": "GÖZ-KULAK-BURUN YABANCI CİSİM KAÇMASI-7 SORU",
+    "title": "Göz,Kulak,Burun Yabancı Cisim Kaçması",
     "qlist": [
       {
-        "question": " ?",
+        "question": "YABANCI CİSİM YUTMASINDA HANGİSİ YAPILMAZ?",
         "options": [
-          " .",
-          " .",
-          " .",
-          " .",
-          " ."
+          "AĞIZDAN YİYECEK İÇECEK VERİLMEZ",
+          "HASTA KUSTURULARAK RAHATLATILIR",
+          "HASTA TAKİP EDİLİR",
+          "DURUMU DÜZELMEZ İSE , 112 ARANIR/ARATILIR",
+          "BİLİÇ KAPANIR İSE KURTARMA POZİSYONU VERİLİR"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "KULAĞA YABANCI CİSİM KAÇMASINDA HANGİSİ OLMAZ?",
+        "options": [
+          "YÜZDE ŞEKİL BOZUKLUĞU",
+          "KANAMA",
+          "İŞİTME SORUNU",
+          "KAŞINTI",
+          "AĞRI"
         ],
         "answer": 0
+      },
+      {
+        "question": "GÖZE CİSİM KAÇMASINDA NE YAPILIR?",
+        "options": [
+          "GÖZ BOL SUYLA YIKANIR",
+          "GÖZ KAPAĞI HAREKETLERİ YAPTIRILIR",
+          "BİR KABIN İÇİNE SU KONARAK GÖZ SUYUN İÇİNDE AÇIP KAPATILIR",
+          "TEMİZ BEZLE İÇTEN DIŞA ALMAYA ÇALIŞILIR",
+          "HEPSİ DOĞRU"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "HANGİSİ KULAĞA YABANCI CİSİM KAÇMASININ BELİTİSİ DEĞİLDİR?",
+        "options": [
+          "KULAKTA AĞRI",
+          "KANAMA",
+          "KAŞINTI",
+          "GÖRME BOZUKLUĞU",
+          "HIŞIRTILI SES DUYMA"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "BURNA YABANCI CİSİM KAÇMASINDA NE OLMAZ?",
+        "options": [
+          "ŞEKİL BOZUKLUĞU VE ŞİŞLİK",
+          "BURUN KANAMASI",
+          "GÖZLERDE YAŞARMA ",
+          "ZOR VE GÜRÜLTÜLÜ SOLUNUM ",
+          "BAŞ  AĞRISI"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "KULAĞA YABANCI CİSİM KAÇMASINDA NE YAPILMAZ?",
+        "options": [
+          "KİŞİNİN SAKİNLEŞMESİNİ SAĞLAYIN",
+          "YABANCI CİSİM TAMAMEN DIŞARDA GÖRÜNÜYORSA VE ALABİLECEĞİNİZDEN EMİNSENİZ İÇE İLERLETMEDEN ALMAYA ÇALIŞIN",
+          "KULAKTA BÖCEK VARSA ETKİLENEN KULAĞI ÜST KISIMDA TUTARAK KULAĞA ILIK SU DÖKÜN",
+          "KULAKTAKİ YABANCI CİSİM ÇIKARTILAMIYORSA YA DA BÖCEK ÇIKMIYORSA HASTAYI BİR SAĞLIK KURULUŞUNA YÖNLENDİRİN",
+          "KULAKTAKİ CİSİM ZORLA ÇIKARTILMAYA ÇALIŞILIR"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "GÖZE YABANCI CİSİM KAÇMASINDA HANGİSİ YANLIŞTIR?",
+        "options": [
+          "HASTA/YARALIYI EN YAKIN SAĞLIK KURULUŞUNA YÖNLENDİRİN",
+          "GÖZÜ İNCE BİR GAZLI BEZ VEYA KAĞIT BARDAK İLE KAPATIN",
+          "GÖZE BATMIŞ BİR YABANCI CİSME DOKUNULMAZ VE ÇIKARILMAYA ÇALIŞILMAZ",
+          "KAŞIYARAK RAHATLATILIR",
+          "GÖZ ASLA OVALANMAZ "
+        ],
+        "answer": 3
       }
     ]
   }
 }
+
