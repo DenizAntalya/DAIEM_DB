@@ -404,7 +404,7 @@
       }
     ]
   },
-   "2": {
+  "2": {
     "title": "Temel Eğitim Teori Sınav Soruları-2",
     "qlist": [
        {
@@ -810,1074 +810,3573 @@
     ]
   },
   "3": {
-    "title": "Tasimalar",
+    "title": "Temel Eğitim Teori Sınav Soruları-3",
     "qlist": [
       {
-        "question": "TAŞIMALARDA HANGİSİ YANLIŞTIR?",
-        "options": [
-          "EN AZ 6 NOKTADAN DESTEKLENİR",
-          "BAŞA GEÇEN KİŞİ  KOMUT VERİR",
-          "HASTAYA YAKIN MESAFE ÇALIŞILIR",
-          "UZUN VE GÜÇLÜ KASLAR KULLANILIR",
-          "HASTANIN ÖNCE AYAK KISMI ÇIKARTILIR"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "BAŞ BOYUN OMURGA YARALANMALARINDA , HANGİ TAŞIMA YÖNTEMİ KULLANILIR?",
-        "options": [
-          "KÜTÜK YUVARLAMA",
-          "SÜRÜKLEME",
-          "OMUZDA TAŞIMA",
-          "KUCAKTA TAŞIMA",
-          "RENTEC MANEVRASI"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "KİLOLU,İRİ YAPILI HASTADA VE DAR BASIK ALANDA HASTA NASIL TAŞINIR?",
-        "options": [
-          "OMUZDA",
-          "SÜRÜKLENİR",
-          "RENTEC MANEVRASI ",
-          "KÜTÜK YUVARLAMA",
-          "KUCAKTA"
-        ],
-        "answer": 1
-      },
-      {
-        "question": "RENTEC MANEVRASI HANGİ DURUMLARDA YAPILIR?",
-        "options": [
-          "HASTA ARACA SIKIŞMIŞSA",
-          "HASTA YÜRÜYEMİYORSA",
-          "HASTANIN AYAĞI KIRIKSA",
-          "HASTANIN BİLİNCİ KAPALI İSE",
-          "HASTANIN SOLUNUMU YOKSA YADA ARAÇTA YANGIN , PATLAMA GİBİ TEHLİKELİ DURUM VARSA"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "TEK KİŞİ İLE , YÜRÜYEMEYEN / BİLİNCİ KAPALI HASTA NASIL TAŞINIR?",
-        "options": [
-          "İTFAİYECİ (OMUZDA TAŞIMA)",
-          "KUCAKTA",
-          "SÜRÜKLEME",
-          "SIRTTA",
-          "KÜTÜK YUVARLAMA"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "SEDYE İLE HASTA TAŞINIRKEN BAŞ HANGİ YÖNDE OLMALIDIR?",
-        "options": [
-          "GİDİŞ YÖNÜNDE",
-          "BAŞ AŞAĞIDA",
-          "GELİŞ YÖNÜNDE",
-          "FARKETMEZ",
-          "BAŞ YUKARIDA"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "ZAYIF YETİŞKİN YADA ÇOCUK HASTANIN TAŞINMASINDA HANGİ YÖNTEM KULLANILIR?",
-        "options": [
-          "ÖNDE BEŞİK(KUCAKTA)",
-          "SÜRÜKLEME",
-          "KÜTÜK YUVARLAMA",
-          "İTFAİYECİ",
-          "SIRTTA(DENK KAYIŞ)"
-        ],
-        "answer": 0
-      }
-    ]
+    "question": "Göğüs ağrısı olan bir kişiye uygulanacak ilkyardım aşağıdakilerden hangisi değildir?",
+    "options": [
+      "Rahat edebileceği bir pozisyonda tutulur",
+      "Kendi ilaçlarını kullanmasına yardım edilir",
+      "Aspirini var ise çiğneyip bir miktar su ile içmesi istenir",
+      "Hemen kalp masajına başlanır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Başının döneceğini hisseden birisine ilkyardımda ne yapılır?",
+    "options": [
+      "Her iki el birbirine kenetlenir ve kollar zıt yönlere var gücü ile çekilir",
+      "Elinde bir nesne olsun ya da olmasın var gücü ile sıkılır",
+      "Boyun öne doğru eğilir ve çene göğse değdirilmeye çalışılır",
+      "Hepsi yapılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi solunum değerlendirmesi ile ilgili olarak yanlıştır?",
+    "options": [
+      "Hastanın solunumu 10 saniye süre ile değerlendirilir",
+      "Solunumu hastanın ağız ve burnuna kulağımızı yaklaştırarak dinleriz",
+      "Solunum için hastanın nabzına bakılır",
+      "Kişi yanağıyla nefesi hissetmeye çalışır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ilkyardımın öncelikli amaçlarından birisi değildir?",
+    "options": [
+      "Hayati tehlikeyi ortadan kaldırmak",
+      "Uygun pozisyonda taşımak",
+      "İyileştirmeyi kolaylaştırmak",
+      "Durumunun kötüye gitmesini önlemek"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kavga sırasında bıçaklandığını ve nefes almakta zorlandığını söyleyen bir kişinin yaranın olduğu yerden nefes alıyor görüntüsü vermesi durumunda ne düşünülmelidir?",
+    "options": [
+      "Delici karın yaralanması",
+      "İç kanama",
+      "Delici göğüs yaralanması",
+      "Solunum yetmezliği"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Rentek manevrası için aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Uygulamadan önce bilinç kontrolü yapılır",
+      "Omuriliğe zarar verilmemesi çok önemlidir",
+      "İlkyardımcı kendi güvenliğini göz önünde bulundurur",
+      "Hastanın rahat oturması için yapılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Kedi-köpek gibi hayvan ısırmalarında hangisi yapılmaz?",
+    "options": [
+      "Yaralı bölge oksijenli suyla kapatılır",
+      "Yara 10-15 dakika sabunlu suyla yıkanır",
+      "Kanama varsa bası uygulanır",
+      "Kuduz ve tetanos aşısı için uyarılır"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Suda boğulmalarda ilkyardım ile ilgili hangisi yanlıştır?",
+    "options": [
+      "Yaşamsal bulgular değerlendirilir",
+      "Gerekirse TYD uygulanır",
+      "112 aranır",
+      "Karnına basılarak su çıkarılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ezilme yaralanmalarında belirti değildir?",
+    "options": [
+      "Uykuya meyil",
+      "İdrar miktarında azalma",
+      "Halsizlik",
+      "Vücuttan dışarı çıkan organlar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hiperventilasyonda ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Yavaş nefes alıp vermesi sağlanır",
+      "Sakin bir yere oturtulur",
+      "Güven verilir",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdaki durumlardan hangisinde OED kullanılmaz?",
+    "options": [
+      "Gebeler ve kalp pili olanlar",
+      "Metal ve ıslak zeminde olanlar",
+      "6 aydan küçük bebekler",
+      "Çocuk pedleri yoksa çocuklarda"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kapalı göğüs yaralanmalarında ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Yarı oturur pozisyon verilir",
+      "Sakinleştirilir",
+      "Solunum izlenir",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Kırıklarda atelleme uygulamasının amacı nedir?",
+    "options": [
+      "Yeni kırık oluşturmak",
+      "Çevre dokuların zarar görmesini engellemek",
+      "Taşıma sırasında düşmeyi engellemek",
+      "Şoku önlemek"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kulağa yabancı cisim kaçmasında hangisi yanlıştır?",
+    "options": [
+      "Görünüyorsa dikkatlice alınır",
+      "Düğme pil varsa çıkarılmaz",
+      "Böcek varsa ılık su dökülür",
+      "Kişi sakinleştirilir"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Arı sokmasında ilkyardımda hangisi yanlıştır?",
+    "options": [
+      "İğne varsa çıkarılır",
+      "Alerjisi olanlarda tıbbi yardım istenir",
+      "Su ve sabunla yıkanır",
+      "Sıcak uygulama yapılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi boyun ve omurga yaralanmalarında yapılmaz?",
+    "options": [
+      "Burun veya kulak kanaması durdurulmaz",
+      "Boyunluk takılır",
+      "Tehlike yoksa hareket ettirilmez",
+      "Saplanmış cisim çıkarılmaz"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "OED ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sadece sağlık personeli kullanır",
+      "Kalbe şok verilmesini sağlar",
+      "Sadece solunumu değerlendirir",
+      "Pedler temas etmelidir"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Delici karın yaralanmalarında hangisi yanlıştır?",
+    "options": [
+      "Organlar içeri sokulur",
+      "Bacaklar bükülerek yatırılır",
+      "Isı kaybı önlenir",
+      "Yaşam bulguları kontrol edilir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Olay yerinde ilaçsız yapılan hayat kurtarıcı müdahaleye ne denir?",
+    "options": [
+      "Acil tedavi",
+      "Acil müdahale",
+      "İlkyardım",
+      "Temel yaşam desteği"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Yaralanmalarda ilkyardım olarak hangisi yanlıştır?",
+    "options": [
+      "Kanama kontrolü yapılır",
+      "Yaşam bulguları izlenir",
+      "Saplanmış cisim çıkarılır",
+      "112 aranır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Derlenme pozisyonu hangi durumda verilir?",
+    "options": [
+      "Hafif yanıkta",
+      "Olayı anlatabiliyorsa",
+      "Kol kanıyorsa",
+      "Bilinci yok solunumu varsa"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Turnike hangi durumda uygulanır?",
+    "options": [
+      "Yılan sokması",
+      "Yanık",
+      "Donma",
+      "Uzuv kopması"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Yara yerinde yabancı cisim varsa ne yapılmalıdır?",
+    "options": [
+      "Çıkarılır",
+      "Yara kapatılır",
+      "Bol suyla yıkanır",
+      "Simit sargı ile sabitlenir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ilkyardım uygulaması değildir?",
+    "options": [
+      "Suni solunum",
+      "Bası uygulamak",
+      "Hastaneye ulaştırmak",
+      "Kırığı sabitlemek"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Beyinde damar tıkanması veya kanamasına bağlı gelişen hastalık nedir?",
+    "options": [
+      "Epilepsi",
+      "İnme",
+      "Astım",
+      "KOAH"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sıcak yorgunluğunda ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Derlenme pozisyonu verilir",
+      "Üzeri örtülür",
+      "Serin yere alınır ve sıvı verilir",
+      "Öne eğilip şekerli su verilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kan şekeri düşüklüğünde yanlış uygulama hangisidir?",
+    "options": [
+      "Şekerli içecek verilir",
+      "Geçmezse yardım çağrılır",
+      "İnsülin yapılır",
+      "Bilinci kapalıysa derlenme pozisyonu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kimyasal yanıklarda hangisi doğrudur?",
+    "options": [
+      "Toz kimyasal önce temizlenir sonra yıkanır",
+      "Asitte buzlu su uygulanır",
+      "Çimentoda pomat sürülür",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sindirim yoluyla zehirlenmede hangisi yanlıştır?",
+    "options": [
+      "Bilinç kontrol edilir",
+      "112 aranır",
+      "Yoğurt yedirilip kusturulur",
+      "114 aranır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Komadaki hastada hangisi kaybolur?",
+    "options": [
+      "Bilinç",
+      "Solunum",
+      "Dolaşım",
+      "Nabız"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Karbon monoksit zehirlenmesinde hangisi görülmez?",
+    "options": [
+      "Kiraz kırmızısı renk",
+      "Morarma",
+      "Bulantı",
+      "Ödem"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Kırık olan bölgeye hangisi yapılmaz?",
+    "options": [
+      "Hareket ettirilmez",
+      "Yiyecek verilmez",
+      "Kırık uçlar birleştirilir",
+      "Basınçlı bandaj uygulanır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Zehirlenmelerde hangisi yanlıştır?",
+    "options": [
+      "Cilt zehirlenmesinde yıkama",
+      "Göze sıçrayınca yıkama",
+      "İğne çıkarılmaz",
+      "UZEM aranır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solunum yoluyla zehirlenmede hangi pozisyon verilir?",
+    "options": [
+      "Derlenme",
+      "Şok",
+      "Rahat pozisyon",
+      "Hiçbiri"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hangisi yanık çeşitlerinden değildir?",
+    "options": [
+      "Termal",
+      "Kimyasal",
+      "Sıcak çarpması",
+      "Elektrik"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kulak kanaması olan bilinçsiz hastaya hangi pozisyon verilir?",
+    "options": [
+      "Kanayan kulak altta",
+      "Derlenme",
+      "Yarı oturur",
+      "Şok"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kan şekeri yükselmiş hastaya ilkyardımda ne yapılır?",
+    "options": [
+      "Şeker verilir",
+      "Kalp masajı",
+      "Şekerli içecek",
+      "Su içmesi sağlanır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Çocuklarda dış kalp masajı nasıl yapılır?",
+    "options": [
+      "İki parmak",
+      "Bir elin topuğu",
+      "İki elin topuğu",
+      "Tek parmak"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Elektrik çarpmalarında ilkyardımda hangisi yapılır?",
+    "options": [
+      "Su dökülür",
+      "Açık bırakılır",
+      "Elektrik kesilir",
+      "Su toplar patlatılır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hasta/Yaralı değerlendirme aşamalarından hangisi değildir?",
+    "options": [
+      "Birincil kontrol",
+      "Tüm vücut değerlendirmesi",
+      "Olay yerini güvende tutmak",
+      "Hikâye alma"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi akrep sokmalarında ilkyardım uygulamaları için doğrudur?",
+    "options": [
+      "Sokulan bölgeye sıcak uygulama yapılır",
+      "Akrebin soktuğu yere kesi uygulanır",
+      "Sokulan bölgeden zehir emilir",
+      "Sokmanın olduğu bölge hareket ettirilmez"
+    ],
+    "answer": 3
+  }
+]
   },
   "4": {
-    "title": "OED KULLANIMI",
+    "title": "Temel Eğitim Teori Sınav Soruları-4",
     "qlist": [
       {
-        "question": "OED  YETİŞKİN HASTADA  NEREYE TAKILIR?",
-        "options": [
-          "SAĞ KÖPRÜCÜK KEMİĞİ ALTINA VE SOL GÖĞÜS ALTINA",
-          "İKİ GÖĞSÜN ORTASINA",
-          "SOL KOLTUK ALTINA ",
-          "SAĞ GÖĞÜS ALTINA",
-          "KARIN BÖLGESİNE"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "OED KULLANIMI İLE İLGİLİ HANGİSİ YAPILMAZ?",
-        "options": [
-          "KİMSE YOKSA İLK YARDIMCI, OED KENDİ ALMAYA GİDER",
-          "GETİREN KULLANMAYI BİLİYORSA OED TAKAR, TYD YAPAN UYGULAMAYA DEVAM EDER",
-          "0-28 GÜN ARASI YENİDOĞANDA KULLANILMAZ",
-          "ISLAK ZEMİNDE KULLANILMAZ",
-          "GÖRÜNÜRDE METAL VARSA KULLANILMAZ"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "OED CİHAZI BEBEKLERDE HANGİ DÖNEMDE KULLANILIR?",
-        "options": [
-          "29 GÜN VE ÜZERİNDE",
-          "30 GÜN ÜZERİ",
-          "1 YAŞ ÜZERİ",
-          "40 GÜN ÜZERİ",
-          "KULLANILMAZ"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "OED CİHAZI KULLANIMI İLE İLGİLİ BİLGİLERDEN HANGİSİ DOĞRU DEĞİLDİR?",
-        "options": [
-          "OED GELİNCE HEMEN HASTAYA TAKILIR",
-          "YARI OTOMATİK İSE , ŞOK DÜĞMESİNE İLK YARDIMCI BASAR",
-          "ISLAK ZEMİNDE KULLANILMAZ",
-          "HASTANIN ÇIPLAK VUCÜDÜNA KULLANILIR",
-          "TAM OTOMATİK İSE , ŞOK VERMEK İÇİN İLK YARDIMCI ŞOK DÜĞMESİNE BASAR"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "OED KULLANIMINDA HANGİSİ YANLIŞTIR?",
-        "options": [
-          "YAĞMURDA KULLANILMAZ",
-          "GÖRÜNÜRDE METAL VARSA KULLANILMAZ",
-          "ORTAMDA GAZ VARSA KULLANILMAZ",
-          "HASTA  OKSİJEN TAKILIYSA KULLANILMAZ",
-          "KALP PİLİ VARSA KULLANILMAZ"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "İKİ İLK YARDIMCI VARSA OED NASIL KULLANILIR?",
-        "options": [
-          "İKİSİ BİRLİKTE OED TAKAR",
-          "OED ALMAYA BİRLİKTE GİDERLER",
-          "BİRİSİ İLK YARDIM YAPAR , DİĞERİ İZLER",
-          "BİRİSİ TEMEL YAŞAM DESTEĞİ VERİR, DİĞERİ YARDIM İSTER",
-          "OED’Yİ GETİREN TAKAR, DİĞERİ TEMEL YAŞAM DESTEĞİNE DEVAM EDER"
-        ],
-        "answer": 4
-      }
+    "question": "Göğüs ağrısı olan bir kişiye uygulanacak ilkyardım aşağıdakilerden hangisi değildir?",
+    "options": [
+      "Rahat edebileceği bir pozisyonda tutulur",
+      "Kendi ilaçlarını kullanmasına yardım edilir",
+      "Aspirini var ise çiğneyip su ile içmesi istenir",
+      "Hemen kalp masajına başlanır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Başının döneceğini hisseden birisine ilkyardımda ne yapılır?",
+    "options": [
+      "Her iki el kenetlenip kollar zıt yönde çekilir",
+      "Elinde nesne olsun ya da olmasın sıkılır",
+      "Boyun öne eğilip çene göğse yaklaştırılır",
+      "Hepsi yapılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi solunum değerlendirmesi ile ilgili yanlıştır?",
+    "options": [
+      "Solunum 10 saniye değerlendirilir",
+      "Ağız ve burundan dinlenir",
+      "Solunum için nabız kontrol edilir",
+      "Nefes yanağıyla hissedilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ilkyardımın öncelikli amaçlarından değildir?",
+    "options": [
+      "Hayati tehlikeyi ortadan kaldırmak",
+      "Uygun pozisyonda taşımak",
+      "İyileşmeyi kolaylaştırmak",
+      "Durumun kötüleşmesini önlemek"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bıçaklanmış ve yarasından nefes alıyor gibi görünen kişide ne düşünülmelidir?",
+    "options": [
+      "Delici karın yaralanması",
+      "İç kanama",
+      "Delici göğüs yaralanması",
+      "Solunum yetmezliği"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Rentek manevrası ile ilgili hangisi yanlıştır?",
+    "options": [
+      "Bilinç kontrolü yapılır",
+      "Omurilik korunur",
+      "İlkyardımcı kendi güvenliğini sağlar",
+      "Hastayı rahat ettirmek için yapılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Kedi-köpek ısırmalarında hangisi yapılmaz?",
+    "options": [
+      "Yara oksijenli suyla kapatılır",
+      "Sabunlu suyla yıkanır",
+      "Kanama varsa bası uygulanır",
+      "Kuduz ve tetanos için yönlendirilir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Suda boğulmalarda ilkyardımda hangisi yanlıştır?",
+    "options": [
+      "Yaşamsal bulgular kontrol edilir",
+      "TYD uygulanır",
+      "112 aranır",
+      "Karnına bastırılarak su çıkarılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Ezilme yaralanmalarında hangisi belirti değildir?",
+    "options": [
+      "Uykuya eğilim",
+      "İdrar azalması",
+      "Halsizlik",
+      "Dışarı çıkan organlar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hiperventilasyonda ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Yavaş nefes aldırılır",
+      "Sakin yere alınır",
+      "Güven verilir",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "OED hangi durumda kullanılmaz?",
+    "options": [
+      "Kalp pili olanlarda",
+      "Islak ve metal zeminde",
+      "Gebelerde",
+      "Yaşlılarda"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kapalı göğüs yaralanmalarında ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Yarı oturur pozisyon",
+      "Sakinleştirme",
+      "Solunumun izlenmesi",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Kırıklarda atellemenin amacı nedir?",
+    "options": [
+      "Yeni kırık oluşturmak",
+      "Çevre dokuyu korumak",
+      "Taşımayı kolaylaştırmak",
+      "Ağrıyı tamamen yok etmek"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kulağa yabancı cisim kaçmasında hangisi yanlıştır?",
+    "options": [
+      "Görünüyorsa alınır",
+      "Düğme pil varsa çıkarılmaz",
+      "Böcek varsa ılık su dökülür",
+      "Kişi sakinleştirilir"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Arı sokmasında hangisi yanlıştır?",
+    "options": [
+      "İğne çıkarılır",
+      "Alerjide tıbbi yardım istenir",
+      "Sabunlu suyla yıkanır",
+      "Sıcak uygulama yapılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Boyun ve omurga yaralanmalarında hangisi yapılmaz?",
+    "options": [
+      "Saplanmış cisim çıkarılmaz",
+      "Hareket ettirilmez",
+      "Boyunluk takılır",
+      "Burun kanaması durdurulur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Delici karın yaralanmalarında hangisi yanlıştır?",
+    "options": [
+      "Organlar içeri sokulur",
+      "Bacaklar bükülür",
+      "Isı kaybı önlenir",
+      "Yaşam bulguları izlenir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Olay yerinde ilaçsız yapılan hayat kurtarıcı müdahale nedir?",
+    "options": [
+      "Acil tedavi",
+      "Acil müdahale",
+      "İlkyardım",
+      "Temel yaşam desteği"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Derlenme pozisyonu hangi durumda verilir?",
+    "options": [
+      "Yanıkta",
+      "Bilinci açıkken",
+      "Kanama varken",
+      "Bilinci kapalı solunumu varsa"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Turnike hangi durumda uygulanır?",
+    "options": [
+      "Yanık",
+      "Yılan sokması",
+      "Donma",
+      "Uzuv kopması"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Yarada yabancı cisim varsa ne yapılır?",
+    "options": [
+      "Çıkarılır",
+      "Bol suyla yıkanır",
+      "Simit sargı ile sabitlenir",
+      "Üzeri kapatılır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "İnme (felç) değerlendirme yöntemi hangisidir?",
+    "options": ["FAST", "FATS", "ATFS", "SAFT"],
+    "answer": 0
+  },
+  {
+    "question": "Sinirlerin zarar gördüğü, ağrısız yanık kaçıncı derecedir?",
+    "options": ["1", "2", "3", "4"],
+    "answer": 2
+  },
+  {
+    "question": "Sara krizinde hangisi yanlıştır?",
+    "options": [
+      "Hasta bağlanmaz",
+      "Kendine zarar vermesi engellenir",
+      "Sıkı giysiler gevşetilir",
+      "Çene zorla açılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Kırıkta hangisi yapılmaz?",
+    "options": [
+      "Hareket ettirilmez",
+      "Yiyecek verilmez",
+      "Kırık uçlar düzeltilir",
+      "Kanama varsa bası uygulanır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kan şekeri düşüklüğünde hangisi doğrudur?",
+    "options": [
+      "Bilinci kapalıysa şeker verilir",
+      "Bilinci açıksa şekerli içecek verilir",
+      "İnsülin yapılır",
+      "Hiç müdahale edilmez"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kimyasal yanıklarda hangisi doğrudur?",
+    "options": [
+      "Toz kimyasal temizlenir sonra yıkanır",
+      "Buz uygulanır",
+      "Pomat sürülür",
+      "Hepsi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sindirim yoluyla zehirlenmede hangisi yanlıştır?",
+    "options": [
+      "112 aranır",
+      "114 UZEM aranır",
+      "Yoğurt yedirilip kusturulur",
+      "Bilinç kontrol edilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Komada hangisi kaybolur?",
+    "options": ["Bilinç", "Solunum", "Nabız", "Dolaşım"],
+    "answer": 0
+  },
+  {
+    "question": "Karbon monoksit zehirlenmesinde hangisi görülmez?",
+    "options": [
+      "Kiraz kırmızısı renk",
+      "Morarma",
+      "Bulantı",
+      "Ödem"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Elektrik çarpmasında ilk ne yapılır?",
+    "options": [
+      "Su dökülür",
+      "Hasta çekilir",
+      "Elektrik kesilir",
+      "Kalp masajı yapılır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hasta/Yaralı değerlendirme aşamalarından hangisi değildir?",
+    "options": [
+      "Birincil değerlendirme",
+      "Tüm vücut değerlendirmesi",
+      "Olay yerini güvende tutmak",
+      "Hikâye alma"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi akrep sokmalarında ilkyardım için doğrudur?",
+    "options": [
+      "Sıcak uygulama yapılır",
+      "Kesi yapılır",
+      "Zehir emilir",
+      "Sokulan bölge hareket ettirilmez"
+    ],
+    "answer": 3
+  }
     ]
   },
    "5": {
-    "title": "Temel Yaşam Desteği",
+    "title": "Temel Eğitim Teori Sınav Soruları-5",
     "qlist": [
       {
-        "question": "BEBEKTE TEMEL YAŞAM DESTEĞİ İLE İLGİLİ HANGİSİ YANLIŞ VERİLMİŞTİR?",
-        "options": [
-          "BİLİNÇ KONTROLÜ GÖZ TEMASI KURULARAK YAPILIR",
-          "NEFES VERİRKEN BURUN KAPATILMAZ",
-          "KALP MASAJI, İKİ PARMAKLA YADA İKİ BAŞPARMAK İLE YAPILIR",
-          "30 KALP MASAJI/2 SOLUNUM ŞEKLİNDE YAPILIR",
-          "TEMEL YAŞAM DESTEĞİNE BAŞLAMADAN ÖNCE, 5 NEFES VERİLİR"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "ERİŞKİN TEMEL YAŞAM DESTEĞİNDE , BASI DERİNLİĞİ NEKADAR OLMALI?",
-        "options": [
-          "1/5",
-          "1/4",
-          "3/5",
-          "2/3",
-          "1/3 ÖN ARKA ÇAPI"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "ERİŞKİN TYD ‘DE ,  DOĞRU KALP BASISI NEREYE YAPILIR?",
-        "options": [
-          "İMAN TAHTASININ ÜST KISMINA",
-          "İMAN TAHTASININ ½ ALT YARISI , İMAN TAHTASININ ALT UCUNDAKİ ÇIKINTIDAN UZAK  DURULAN NOKTAYA YAPILIR",
-          "İMAN TAHTASININ ORTASINA",
-          "İMAN TAHTASININ SOL TARAFINA",
-          "İMAN TAHTASININ SAĞ TARAFINA"
-        ],
-        "answer": 1
-      },
-      {
-        "question": "SOLUNUM KONTROLÜ KAÇ SANİYE YAPILIR?",
-        "options": [
-          "10-15",
-          "5-10",
-          "10-15",
-          "5",
-          "10"
-        ],
-        "answer": 1
-      },
-      {
-        "question": "TEMEL YAŞAM DESTEĞİ YAPARKEN DAKİKADAKİ KALP MASAJI HIZI NASIL OLMALI?",
-        "options": [
-          "100-120",
-          "100-110",
-          "100",
-          "120",
-          "50-100"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "8 AYLIK KAZAZEDE KALP BASISI NEREYE YAPILIR?",
-        "options": [
-          "İKİ MEME BAŞININ BİRLEŞTİRİLDİĞİ ÇİZGİNİN ORTA NOKTASININ BİR PARMAK ALTINA YAPILIR",
-          "İKİ GÖĞSÜN ORTASINA",
-          "GÖĞÜS KAFESİNİN ÜSTÜNE",
-          "SOL MEME ÜSTÜNE",
-          "SOL MEME ALTINA"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "TEMEL YAŞAM DESTEĞİ SIRASINDA , HANGİSİ YANLIŞTIR?",
-        "options": [
-          "HASTANIN İLK BİLİNCİNE BAKILIR",
-          "İLK YARDIMCI YALNIZSA 112 KENDİSİ ARAR",
-          "SOLUNUM 5-10 SN.KONTROL EDİLİR",
-          "ÖNCE SOLUNUMA BAKILIR , SONRA AĞIZ İÇİ KONTROL EDİLİR",
-          "HASTA 5 DÖNGÜDE BİR KONTROL EDİLİR"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "HANGİSİ YAŞAM ZİNCİRİ HALKASI DEĞİLDİR?",
-        "options": [
-          "112 ARANIR",
-          "DEFİBRASYON YAPILIR",
-          "TEMEL YAŞAM DESTEĞİNE BAŞLANIR",
-          "İYİLEŞME",
-          "ŞOK POZİSYONU VERİLİR"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "YETİŞKİNDE KALP BASISI NASIL YAPILIR?",
-        "options": [
-          "İKİ ELLE",
-          "TEK ELLE",
-          "İKİ PARMAKLA",
-          "İKİ BAŞPARMAKLA",
-          "DÖNÜŞÜMLÜ TEK ELLE"
-        ],
-        "answer": 2
-      },
-      {
-        "question": "KALP MASAJI SIRSINDA GÖGÜS BASISI İLE İLGİLİ  VERİLEN BİLGİLERDEN HANGİSİ DOĞRUDUR?",
-        "options": [
-          "YETİŞKİNDE 5-6 CM ÇÖKERTİLİR",
-          "ÇOCUKTA 5 CM ÇÖKERTİLİR",
-          "BEBEKTE 4 CM ÇÖKERTİLİR",
-          "HASTANIN KİLOSUNA GÖRE ÇOCUKTA 5-6 CM OLABİLİR",
-          "HEPSİ DOĞRU"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "YAŞAM ZİNCİRİNİN İLK HALKASI NEDİR?",
-        "options": [
-          "112 ARANIR",
-          "HIZLI VE ETKİLİ GÖĞÜS BASISI",
-          "HIZLI DEFİBRİLASYON",
-          "GELİŞMİŞ İLERİ YAŞAM DESTEĞİ",
-          "CANLANDIRMA SONRASI BAKIM "
-        ],
-        "answer": 3
-      },
-      {
-        "question": "TEMEL YAŞAM DESTEĞİNİN İLK ADIMI NEDİR?",
-        "options": [
-          "112 ARA/ARAT",
-          "AĞIZ KONTROLU",
-          "SOLUNUM KONTROLÜ",
-          "KALP BASISI",
-          "SUNİ SOLUNUM"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "KURTARMA POZİSYONUNUN TANIMI NEDİR?",
-        "options": [
-          "BİLİNÇSİZ ANCAK NORMAL NEFES ALAN BİR HASTA/YARALININ VÜCUDUNUN YAN YATAR POZİSYONA GETİRİLMESİDİR.",
-          "HASTAYA  RAHAT POZİSYON VERİLMESİDİR",
-          "BACAKLARIN KALDIRILMASIDIR",
-          "HASTANIN OTURTULMASIDIR",
-          "HASTANIN YARI OTURTULMASIDIR"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "TEMEL YAŞAM DESTEĞİ SIRASINDA 112 NE ZAMAN ARANMALIDIR?",
-        "options": [
-          "BİLİNÇ KONTROLÜNDEN SONRA",
-          "HASTANIN YANINA GELİNCE HEMEN",
-          "SOLUNUM KONTROLÜNDEN SONRA",
-          "KALP MASJINDAN SONRA",
-          "HASTA TEPKİ VERİNCE"
-        ],
-        "answer": 0
-      }
+    "question": "İlkyardımla ilgili yazılanlerden doğru olan hangisidir?",
+    "options": [
+      "İlkyardım esnasında ilaç kullanılır.",
+      "İlkyardım eldeki mevcut araç gereçlerle yapılır.",
+      "İlkyardım acil tedavi ünitelerinde yapılır.",
+      "İlkyardım sadece doktor ve sağlık personeli tarafından yapılır."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hayat kurtarma zincirinin hangi halkası ilkyardımcının görevidir?",
+    "options": [
+      "Olay yerinde yapılan temel yaşam desteği",
+      "Sağlık ekiplerince yapılan müdahaleler",
+      "Hastane acil servislerinde yapılan müdahaleler",
+      "Ambulans içinde yapılan girişimler"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "İlkyardım ve acil tedavi arasındaki fark nedir?",
+    "options": [
+      "Acil tedavi, bu konuda ehliyetli kişilerce yapılan, ilkyardım ise eğitim almış herkesin yaptığı hayat kurtarıcı müdahaledir.",
+      "Acil tedavi, olayın olduğu yerde bulunabilen malzemeler kullanılarak yapılan müdahaledir.",
+      "Acil tedavi olay yerinde, ilkyardım hastanede yapılır.",
+      "İlkyardım sadece bu konuda eğitim almış sağlık personeli tarafından yapılır."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Hangisi hasta/yaralının ilk değerlendirme aşamalarından değildir?",
+    "options": [
+      "Havayolu açıklığının değerlendirilmesi",
+      "Vücut sıcaklığının değerlendirilmesi",
+      "Solunumun değerlendirilmesi",
+      "Dolaşımın değerlendirilmesi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aşağıdakilerden hangisinde temel yaşam desteği uygulaması sırasında yapılan dış kalp masajı basısı şekli doğru olarak verilmiştir?",
+    "options": [
+      "Yetişkinlerde tek elle",
+      "Çocuklarda tek elle",
+      "Çocuklarda iki parmakla",
+      "Bebeklerde tek elle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "İlkyardımcının yaralıya müdahale ederken yapması yanlış olan davranış hangisidir?",
+    "options": [
+      "Kırıklara yerinde müdahale etmek",
+      "Yaralıyı hareket ettirmeden müdahale yapmak",
+      "Yaralının korku ve endişelerini gidermek",
+      "Hastanın yeri değiştirilir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trafik kazasında bilinci açık, görünür bir kanaması ve kırığı olmayan bir hastaya ilkyardımda ne yapılmalıdır?",
+    "options": [
+      "Koma/kurtarma pozisyonu verilir",
+      "Sağlık ekipleri gelene kadar hastanın yanında kalıp endişeleri giderilir",
+      "Suni solunum ve dış kalp masajı yapılır",
+      "Hasta en yakın hastaneye taşınır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kaza yapmış bir aracın yanına gelindiğinde ilk yapılması gerekenlerden biri hangisidir?",
+    "options": [
+      "Çekilmişse el freni indirilmeli",
+      "Aracın kontağı kapatılmalı",
+      "Hemen 110 aranmalı",
+      "Araç ters dönmüşse düzeltilmeli"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Yetişkin bir insanın dakikadaki solunum sayısı normalde ne kadardır?",
+    "options": [
+      "12-20",
+      "8-12",
+      "20-25",
+      "25-30"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "İlk değerlendirmede; bilinci kapalı, solunumu olan bir yaralıda daha sonra yapılması gereken nedir?",
+    "options": [
+      "Kalp masajı yapılır",
+      "İkinci değerlendirme yapılır",
+      "Suni solunum yapılır",
+      "Nabız kontrolü yapılır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tek kişi ile yetişkin bir hastada temel yaşam desteği uygulaması sırasında verilmesi gereken soluk ile kalp masajı sayısı ne olmalıdır?",
+    "options": [
+      "1 kalp masajı-5 soluk",
+      "30 kalp masajı-2 soluk",
+      "30 kalp masajı-1 soluk",
+      "15 kalp masajı-2 soluk"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aşağıdaki şıklardan hangisinde temel yaşam desteği uygulaması sırasında yapılan dış kalp masajı basısı şekli doğru olarak verilmiştir?",
+    "options": [
+      "Yetişkin hastaya tek el, çocuklara iki parmak, bebeklere çift elle",
+      "Yetişkin hastaya çift el, çocuklara iki parmak, bebeklere tek elle",
+      "Yetişkin hastaya çift el, çocuklara tek el, bebeklere iki parmakla",
+      "Yetişkin hastaya iki parmak, çocuklara çift el ile, bebeklere tek elle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Bebeklerde başa pozisyon verirken hangisine dikkat edilmelidir?",
+    "options": [
+      "Başa arkaya doğru hafif bir eğim verilmelidir",
+      "Baş öne doğru eğilmelidir",
+      "Baş yan çevrilmelidir",
+      "Burun kapatılmalıdır"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Tıbbi malzeme kullanmadan hava yolu açıklığı, solunum ve dolaşımın sağlanması ve sürdürülmesi işlemine ne ad verilir?",
+    "options": [
+      "Temel yaşam desteği",
+      "İleri yaşam desteği",
+      "Suni solunum",
+      "Dış kalp masajı"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dış kalp masajı ve yapay solunuma ne zaman son verilebilir?",
+    "options": [
+      "10 dakika yapıldıktan sonra",
+      "Sağlık ekibi gelince",
+      "30 dakika yapıldıktan sonra",
+      "Polis gelince"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bebeklerde temel yaşam desteği ile ilgili verilen şıklardan hangisi yanlıştır?",
+    "options": [
+      "Bebeklerde bilinç kontrolü ayak tabanına vurularak yapılır",
+      "Bebeklerde hava yolunu açmak için başın altına havlu koymak yeterlidir",
+      "Bebeklerde ağız içi kontrolünde kör dalış yapılmaz",
+      "2 soluk verildikten sonra 30 dış kalp masajı 2 solunum olarak uygulanır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bebeklerde yapay solunum yapılırken nereye hava üflenir?",
+    "options": [
+      "Sadece ağıza",
+      "Sadece burnuna",
+      "Ağzına ve burnuna birlikte",
+      "Hiçbiri"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hayat kurtarmak amacı ile hava yolu açıklığı sağlandıktan sonra, solunumu ve kalbi durmuş kişiye yapay solunum ile akciğerlerine oksijen gitmesini, dış kalp masajı ile de kalpten kan pompalanmasını sağlamak üzere ilaçsız müdahaleye ne isim verilir?",
+    "options": [
+      "İleri yaşam desteği",
+      "Suni solunum",
+      "Temel yaşam desteği",
+      "Dış kalp masajı"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "İlkyardım uygulaması sırasında çocuk kimlere diyoruz?",
+    "options": [
+      "1-2 yaş arasına",
+      "2-5 yaş arasına",
+      "1-8 yaş arasına",
+      "1-12 yaş arasına"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hava yolunun, solunumu gerçekleştirmek için gerekli havanın geçmesine engel olacak şekilde tıkanmasına ne isim verilir?",
+    "options": [
+      "Kalp durması",
+      "Kalp krizi",
+      "Hava yolu tıkanıklığı",
+      "Hava embolisi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "İç kanamalarda ilkyardımda aşağıdakilerden hangisinin uygulanması sakıncalıdır?",
+    "options": [
+      "Ağızdan sıvı verilerek kayıp önlenir",
+      "Şok pozisyonu verilir",
+      "Üzeri örtülerek sıcak tutulur",
+      "Hareket ettirilmez"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kanamayı durdurmak için ilkyardımcının ilk yapması gereken aşağıdakilerden hangisidir?",
+    "options": [
+      "Baskı noktalarına baskı uygulanır",
+      "Kanamalı bölgenin üzerine turnike uygulanır",
+      "Kanamalı bölge su ile yıkanır",
+      "Kanamalı bölgenin üzeri temiz bir bezle kapatılarak yaraya baskı uygulanır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hangisi kanamalarda vücutta baskı uygulanabilecek noktalardan birisidir?",
+    "options": [
+      "Köprücük kemiği üzeri",
+      "Kulakların arkası",
+      "Göğüs kemiğinin alt ucu",
+      "Ayak tabanının orta noktası"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kanaması durdurulamayan bir hastada turnike uygulaması için en uygun malzeme hangisidir?",
+    "options": [
+      "Uzun bir ip",
+      "Uzun bir tel",
+      "Serum lastiği",
+      "Geniş bir sargı bezi ve tahta parçası"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "El ve ayak kopmalarında kopan parça ne yapılmalıdır?",
+    "options": [
+      "Hasta ile birlikte en geç 6 saat içinde sağlık kuruluşuna gönderilmelidir",
+      "Savcı gelene kadar olay yerinde bırakılmalıdır",
+      "Soğuk su dolu bir kabın içine koyulmalıdır",
+      "Kopan parça bir torbanın içine koyulup polislere verilmelidir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kanamanın ciddiyetinin değerlendirilmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kanamanın hızına bağlıdır",
+      "Kanamanın miktarına bağlıdır",
+      "Vücutta kanın aktığı bölgeye bağlıdır",
+      "Kişinin fiziksel durumu ve yaşına bağlı değildir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Kanama kontrolünde aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kanama noktasına koyulan ilk tampon yetersiz gelirse; üzerine yeni tampon konur, ilk tampon atılmaz",
+      "Kanayan yere en yakın basınç noktasına baskı uygulanır",
+      "Kanaması olan kişiye hemen turnike uygulanır",
+      "Kanayan bölge yukarı kaldırılır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "İç kanaması olan hastada aşağıdaki uygulamalardan hangisi yanlıştır?",
+    "options": [
+      "Hasta/yaralının bilinci ve ABC’si değerlendirilir",
+      "Hasta/yaralıya içecek verilerek sıvı kaybı önlenir",
+      "Hasta/yaralı sıcak tutulmaya çalışılır",
+      "Hasta/yaralıya şok pozisyonu verilir"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hangi yaranın mikrop kapma ihtimali daha yüksektir?",
+    "options": [
+      "Kenarları muntazam olan yaralar",
+      "Dikiş atılmış yaralar",
+      "Derin olmayan yaralar",
+      "Isırma ve sokma ile oluşan yaralar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Bir travma sonucu deri ya da mukozanın bütünlüğünün bozulmasına ne isim verilir?",
+    "options": [
+      "Kanama",
+      "Burkulma",
+      "Yara",
+      "Şok"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hangisi ciddi bir yaralanmadır?",
+    "options": [
+      "Kenarları birleşmeyen yaralar",
+      "Delici aletlerle olan yaralar",
+      "Kanaması durdurulamayan yaralar",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Delici karın yaralanmalarında ilkyardımda aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Isı kaybını önlemek için hastanın üzeri örtülür",
+      "Ağızdan hiçbir şey verilmez",
+      "Yaşam bulguları sık sık değerlendirilir",
+      "Dışarı çıkan organlar içeri sokularak üzeri örtülür"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Kafatası ve omurga yaralanmalarında ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Bilinci açıksa yürütülerek hastaneye götürülebilir",
+      "Herhangi bir tehlike söz konusu ise kucakta taşıma tekniğiyle taşınır",
+      "Yardım geldiğinde sedyeye baş-boyun-gövde ekseni bozulmadan alınmalı",
+      "Boyun kırığı varsa boyun düzeltilmelidir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Bıçak, çakı, cam gibi kesici aletlerle oluşmuş, genellikle basit, derinlikleri kolay belirlenen yaralar ne çeşit yaralardır?",
+    "options": [
+      "Parçalı yaralar",
+      "Enfekte yaralar",
+      "Kesik yaralar",
+      "Ezikli yaralar"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Taş, yumruk ya da sopa gibi etkenlerle oluşan, kenarları ezik, çok fazla kanaması olmayan yaralar ne çeşit yaralardır?",
+    "options": [
+      "Ezikli yaralar",
+      "Kokuşmuş yaralar",
+      "Enfekte yaralar",
+      "Parçalı yaralar"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bir trafik kazası sonucu oluşan yaralanmaya müdahale edilirken, hangi durumda yaralıyı araçtan çıkarmalıyız?",
+    "options": [
+      "Yaralı sıkışmamış ise ve bir tehlike yoksa",
+      "Yaralının kol ve bacağında kırık varsa",
+      "Yaralının ön kolunda kontrol edilebilir bir kanama varsa",
+      "Yaralının solunumu ve kalbi durmuşsa"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Delici göğüs yaralanmaları için doğru olan aşağıdakilerden hangisidir?",
+    "options": [
+      "Yarada metal cisim varsa çıkarılır",
+      "Sigara içerek rahatlatılmaya çalışılır",
+      "Hasta/yaralının bilinci açık ise yarı oturur pozisyonda tutup, yaralanma yerine konan poşetli bezin bir ucu yapıştırılmaz açık bırakılır",
+      "Nefes açıcı ilaçlar verilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kafatası ve omurga yaralanmaları hangi durumlarda görülür?",
+    "options": [
+      "Yüksekten düşme",
+      "Motorlu taşıt kazaları",
+      "İş kazaları",
+      "Hepsinde görülebilir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi genel zehirlenme belirtilerinden birisi değildir ?",
+    "options": [
+      "Bulantı",
+      "İshal",
+      "Nefes darlığı",
+      "Deride içi su dolu kabarcıklar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solunum yoluyla oluşan zehirlenmelerde hasta hangi pozisyonda tutulmalıdır?",
+    "options": [
+      "Yüzü koyun",
+      "Şok pozisyonu",
+      "Yarı oturur pozisyon",
+      "Sırt üstü pozisyon"
+    ],
+    "answer": 2
+  }
     ]
   },
   "6": {
-    "title": "Boğulmalar",
+    "title": "Temel Eğitim Teori Sınav Soruları-6",
     "qlist": [
       {
-        "question": "BOĞULMADA YAPILAN İLK YARDIM UYGULAMALARINDAN  HANGİSİ YANLIŞTIR?",
-        "options": [
-          "HASTAYA OKSİJEN VERİLMEZ",
-          "İLK YARDIMCI ÖNCE KENDİ GÜVENLİĞİNİ SAĞLAR",
-          "SUYUN İÇİNDE SUNİ SOLUNUM YAPARAK TEMEL YAŞAM DESTEĞİNE BAŞLANIR",
-          "HASTANIN ARKA TARAFINDAN MÜDAHALE EDİLİR",
-          "İLKYARDIMCI YÜZME BİLMİYORSA, SUYA GİRMEZ"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "BOĞULMANIN EVRENSEL İŞARETİ NASILDIR?",
-        "options": [
-          "HASTA ELLERİNİ HAVAYA KALDIRIR",
-          "HASTA İKİ ELİNİ BOĞAZINA GÖTÜRÜR",
-          "HASTA ELLERİNİ KARNINA KOYAR",
-          "HASTA BİR ELİNİ HAVAYA KALDIRIR",
-          "HASTA BİR ELİNİ AŞAĞIYA İNDİRİR"
-        ],
-        "answer": 1
-      },
-      {
-        "question": "SU /SIVIYA DALMA YADA BATMA NEDENİYLE SOLUNUM BOZUKLUĞU  YAŞANMASI VEYA ÖLÜM İLE SONUÇLANMASINA NE DENİR?",
-        "options": [
-          "KALP DURMASI",
-          "ŞOK",
-          "BOĞULMA",
-          "ZEHİRLENME",
-          "ALERJİ"
-        ],
-        "answer": 2
-      },
-      {
-        "question": "BOĞULMADA YAPILMASI GEREKEN İLK MÜDAHALE NEDİR?",
-        "options": [
-          "112 ARAMAK",
-          "OKSİJEN VERMEK",
-          "TEMEL YAŞAM DESTEĞİNE BAŞLAMAK",
-          "GÜVENLİĞİ SAĞLAMAK",
-          "İZİN ALMAK"
-        ],
-        "answer": 2
-      },
-      {
-        "question": "BOĞULMADAKİ RİSK FAKTÖRLERİNDEN HANGİSİ EN TEHLİKELİDİR?",
-        "options": [
-          "ALKOL",
-          "DÜŞÜK SOSYO EKONOMİK DÜZEY",
-          "EĞİTİM SEVİYESİNDE DÜŞÜKLÜK",
-          "ERKEK CİNSİYET",
-          "14 YAŞ ALTI"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "HANGİLERİ BOĞULMA BELİRTİSİDİR?",
-        "options": [
-          "AĞIZ VE BURUNDAN KÖPÜK GELMESİ",
-          "GÜRÜLTÜLÜ, HIZLI VE DERİN NEFES ALIP VERME",
-          "SOĞUK VE SOLUK CİLT",
-          "KULAK, BURUN, DUDAK VE TIRNAK GİBİ VÜCUDUN UÇ KISIMLARINDA MORARMADIR",
-          "HEPSİ"
-        ],
-        "answer": 4
-      }
+    "question": "Aşağıdaki kanamalı Hasta/Yaralıya hangisinde turnike uygulanır?",
+    "options": [
+      "Çok sayıda yararı varsa ilkyardımcı tek ise",
+      "Yaralının güç koşullarda bir yere taşınması gerekiyorsa",
+      "Uzuv kopması durumunda",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Acil tedavi gerektiren bir durumda Türkiye’de aranması gereken numara hangisidir?",
+    "options": [
+      "112",
+      "110",
+      "118",
+      "155"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Solunum olduğu halde, sözlü ve gürültülü uyarılara tepki vermeyen hastalara hangi pozisyon verilir?",
+    "options": [
+      "Hiçbir şey yapmadan ambulans beklenir.",
+      "Hastaya yarı oturur pozisyon verilir.",
+      "Koma/Kurtarma pozisyonu verilir",
+      "Hastaya şok pozisyonu verilir."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trafik kazalarında yaralı gerekli hallerde araçtan hangi yöntem ile çıkarılır?",
+    "options": [
+      "Rentek manevrası ile",
+      "Şok pozisyonu ile",
+      "Koma pozisyonu ile",
+      "Hiçbiri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kalp masajı dakikada kaç kez olacak şekilde olmalıdır?",
+    "options": [
+      "65",
+      "100",
+      "75",
+      "80"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aşağıdakilerden hangisi hastanın değerlendirilmesinin amaçlarından değildir?",
+    "options": [
+      "İlkyardımın önceliklerini belirlemek",
+      "Yapılacak ilkyardım yöntemini belirlemek",
+      "Güvenli bir müdahale yapmak",
+      "Ortamın güvenliğini sağlamak"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ikinci değerlendirmenin içinde yer almaz?",
+    "options": [
+      "Baş-çene pozisyonunu vermek",
+      "Kol ve bacak muayenesi",
+      "Boyun muayenesi",
+      "Baş muayenesi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Solunumun değerlendirilmesi ne kadar süre ile yapılmalıdır?",
+    "options": [
+      "10 sn",
+      "15 sn",
+      "1 dk",
+      "20 sn"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "1.derece yanıkta aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "Deride içi su dolu kabarcıklar",
+      "Deride kızarıklık",
+      "Yanık bölgede şişlik (ödem)",
+      "Ağrı"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "İlkyardıma nerde başlanır?",
+    "options": [
+      "Hastane acil servislerinde",
+      "Ambulanta",
+      "Olay yerinde",
+      "Sağlık ocağında"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi sindirim sistemine ait değildir?",
+    "options": [
+      "Böbrek",
+      "Mide",
+      "Pankreas",
+      "Dil ve dişler"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Temel yaşam desteği sağlanması gereken yetişkin hastada “kalp masajı/solunum sayısı” oranı aşağıdakilerden hangisidir?",
+    "options": [
+      "5:2",
+      "10:2",
+      "30:2",
+      "10:1"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kalp masajında göğüs kemiği basısı ile kaburgalar ne kadar çöktürülür?",
+    "options": [
+      "Göğüs yüksekliğinin 2/3 ü",
+      "Göğüs yüksekliğinin 2/4 ü",
+      "Göğüs yüksekliğinin 1/3 ü",
+      "Göğüs yüksekliğinin 1/4 ü"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "İlkyardım için aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Sağlık görevlisi yardımı sağlayıncaya kadar yapılır",
+      "Hayatın kurtarılması yada durumun kötüleşmesini engellemek amacı ile yapılır",
+      "Gerekirse ilaç kullanılır",
+      "Herhangi bir kaza durumunda yada yaşamı tehlikeye düşüren durumlarda yapılır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "İlkyardımcı için hangi özellik yanlıştır?",
+    "options": [
+      "İnsan vücudu ile ilgili temel bilgilere sahip olmalıdır",
+      "Sakin olmalıdır",
+      "Gerektiğinde kendini tehlikeye atmalıdır",
+      "Çevredeki kişileri organize edebilmelidir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi dolaşım sistemine aittir?",
+    "options": [
+      "Böbrek",
+      "Kan damarları",
+      "Akciğerler",
+      "Karaciğer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aşağıdakilerden hangisi temel yaşamda ilk önce yapılmalıdır?",
+    "options": [
+      "Hava yolunun açılması",
+      "Suni solunum",
+      "Kalp masajı",
+      "Kanama kontrolü"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aşağıdakilerden hangisi hayvan ısırmalarındaki ilkyardım uygulaması değildir?",
+    "options": [
+      "Hafif ısırıklar önce 5 dakika soğuk sabunlu suyla yıkanır",
+      "Yaranın üzeri temiz bir bezle kapanır",
+      "Hastaya hemen tetanos ve kuduz aşısı yapılır",
+      "Ciddi bir yaralanma ve kanama varsa yaraya temiz bezle baskı uygulayarak, kanama durdurulur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hasta yaralının değerlendirilmesinde ilk yapılması gereken nedir?",
+    "options": [
+      "Bilinç kontrolü yapılır",
+      "Solunum yolu açıklığı sağlanır",
+      "Solunum kontrolü yapılır",
+      "Kalp masajı yapılır"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kanamanın ciddiyeti hangi duruma bağlıdır?",
+    "options": [
+      "Kanamanın hızına",
+      "Vücuttaki kanın aktığı bölgeye",
+      "Kanamanın miktarına",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ilkyardımın öncelikli amaçlarından değildir?",
+    "options": [
+      "Hayati tehlikeyi ortadan kaldırmak",
+      "Hasta ya da yaralının durumunun kötüleşmesini önlemek",
+      "Hastaya derhal ilaç temin edip, ilaç vermek",
+      "İyileşmeyi kolaylaştırmak"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Bebeklerde dış kalp masajı yaparken aşağıdaki tekniklerin hangisi kullanılır?",
+    "options": [
+      "Bir elin topuğu ile",
+      "4 parmak ile",
+      "2 elle",
+      "2 parmak ile"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Kanamalarda yapılacak ilk işlem aşağıdakilerden hangisidir?",
+    "options": [
+      "Ağızdan sıvı verilerek kayıp önlenir",
+      "Koma pozisyonu verilir",
+      "Elle ya da temiz bir bezle kanayan yere baskı uygulanır",
+      "Basınç noktalarına basınç uygulanır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kalp kasılmasına bağlı olarak kesik kesik fışkırır tarzda görülen kanama aşağıdakilerden hangi damar tipine özgüdür?",
+    "options": [
+      "Toplardamar",
+      "Atardamar",
+      "Kılcal damar",
+      "Hepsi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "112 acil aranması ile ilgili hangisi yanlıştır?",
+    "options": [
+      "Sakin olmalı ya da sakin olan birinin aranması sağlanmalı",
+      "112 arayan kimse adını ve telefon numarasını tam olarak vermelidir",
+      "Vakit kaybı olmasın diye 112 merkezinden sorulan sorulara tam ve net cevap verilmez",
+      "Hasta sayısı ve durumları iyice bildirilmelidir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Çamaşır suyu içen birisi için uygulanacak ilk işlem ne olmalıdır?",
+    "options": [
+      "Kusturulmalıdır",
+      "Kusturulmalı ve bol su içilmelidir",
+      "Kusturulmadan hızlı bir şekilde hastaneye sevk edilmelidir",
+      "Çamaşır suyu içen kimse yatırılarak kendi kendine iyileşmesi beklenir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi bağırsakları açığa çıkaran karın yaralanmalarında ilkyardım uygulamalarındandır?",
+    "options": [
+      "Bağırsaklar dışarıda ise hemen yerine itilmelidir",
+      "Ağızdan sıvı verilerek sıvı ihtiyacının giderilmesi",
+      "Bağırsaklara dokunmadan nemli bir bezle üzeri örtülmesi",
+      "Yaralıya yan yatar pozisyon verilmesi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Göğüs ağrısı olan hastaya hangi pozisyon verilir?",
+    "options": [
+      "Şok pozisyonu",
+      "Koma pozisyonu",
+      "Sırt üstü yatar pozisyonu",
+      "Yarı oturur pozisyon"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Göze metal gibi yabancı cisim kaçmasında ilkyardımda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Göz bol su ile yıkanır",
+      "Temiz bir bezle alınır",
+      "Her zaman sadece yaralı göz kapatılarak sevk edilir",
+      "Cisim batmışsa çıkarılmaz"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hava yolu açıklığının değerlendirilmesi ile ilgili hangisi yanlıştır?",
+    "options": [
+      "Havayolunu tıkayan yabancı cisim parmakla çıkarılır",
+      "Ağız kontrolü önce göz ile yapılır",
+      "Tüm bu hareketler yumuşak şekilde yapılmalıdır",
+      "Önce baş-çene pozisyonu verilir daha sonra ağız içi kontrol edilir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi çıkıklarda yapılan ilkyardım uygulamalarındandır?",
+    "options": [
+      "Çıkık olan bölge bulunduğu gibi tespit edilir",
+      "Çıkık yerine oturtulur",
+      "Ağrı kesici verilerek ağrı dindirilir",
+      "Hepsi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Hangisi ilkyardım uygulaması değildir?",
+    "options": [
+      "Suni solunum yapmak",
+      "Kanayan bölgeye baskı yapmak",
+      "Kırıkları sabitlemek",
+      "Pansuman yapmak"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi dış kanamalardaki ilkyardım uygulamalarından değildir?",
+    "options": [
+      "Gerekirse bası noktasına bası yapılır",
+      "Kanayan yere temiz bir bezle bastırılır",
+      "Kanayan bölge yukarı kaldırılır",
+      "Kanama yavaşlasın diye kanayan yere buz konur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sara krizinde ilkyardımda aşağıdakilerden hangisi yanlış bir uygulamadır?",
+    "options": [
+      "Kriz kendi sürecini tamamlamaya bırakılmalıdır",
+      "Olayla, ilgili güvenlik önlemleri alınır",
+      "Kilitlenmiş çene açılmaya çalışılır",
+      "Kolonya, soğan vb. koklatılmaz"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaz ile oluşan solunum yolu zehirlenmelerinde ilkönce aşağıdaki ilkyardım uygulamalarından hangisi yapılır?",
+    "options": [
+      "Hasta temiz havaya çıkarılır ya da ortam havalandırılır",
+      "Hemen suni solunum ve kalp masajı uygulanır",
+      "Yarı oturur pozisyonda tutulur",
+      "Hepsi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Isı ile oluşan yanıklarda aşağıdakilerden hangisi yapılmaz?",
+    "options": [
+      "Yaşam bulguları değerlendirilir",
+      "Yanık üzerine hiçbir madde sürülmez",
+      "Oluşan kabarcıklar patlatılır",
+      "Yanıklı bölgelere bandaj yapılmaz"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi sıcak çarpmalarında ilkyardım kurallarından biri değildir?",
+    "options": [
+      "Hasta serin bir yere alınır",
+      "112 aranıp yardım istenir",
+      "Bilinci açık dahi olsa ağızdan hiçbir şey verilmez",
+      "Kusma varsa başı yan çevrilip yatırılır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Olay yeri kaza mahallinde hangisi yapılmaz?",
+    "options": [
+      "Gerekirse ortam havalandırılır",
+      "Hasta bilgi sahibi olsun diye yarası gösterilir",
+      "Hastanın ısı kaybını önlemek için hasta sıcak tutulur",
+      "Yardım ekibi gelene kadar olay yerinde beklenir"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Acil tedavi için hangisi yanlıştır?",
+    "options": [
+      "Bu konuda ehliyetli kişiler yapar",
+      "Acil tedavi genelde ilkyardımdan sonra yapılır",
+      "İlkyardım eğitimi görmüş herkes yapabilir",
+      "Tıbbi araç gereç ve ilaç kullanılır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solunumun değerlendirilmesi nasıl yapılır?",
+    "options": [
+      "Sadece göğüs hareketleri izlenir",
+      "Islak bir parmak hasta/yaralının ağız ve burnuna yaklaştırılır",
+      "Kulağımızı hasta/ yaralının göğsüne dayayıp dinlenir",
+      "Bak-dinle hisset yöntemi ile"
+    ],
+    "answer": 3
+  }
     ]
   },
   "7": {
-    "title": "Tıkanmalar",
+    "title": "Temel Eğitim Teori Sınav Soruları-7",
     "qlist": [
       {
-        "question": "BEBEKTE TAM TIKANMADA HANGİSİ YAPILMAZ?",
-        "options": [
-          "AĞIZ KONTROLÜ YAPILIR",
-          "SIRTA 5 VURU YAPILIR",
-          "GÖĞSE 5 BASI YAPILIR",
-          "BEBEĞİN BAŞI AŞAĞIDA TUTULUR",
-          "KARIN  BASISI "
-        ],
-        "answer": 4
-      },
-      {
-        "question": "TAM TIKANMADA BEBEKTE HEMLİK NASIL YAPILIR?",
-        "options": [
-          "SIRTA 5 VURU , GÖĞSE 5 BASI",
-          "KARNA 5 BASI",
-          "SADECE SIRTA VURU",
-          "SIRTA PARMAKLA BASI",
-          "GÖGSE VURU"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "HAMİLE  VE OBEZLERDE TAM TIKANMADA HEMLİCK NASIL OLMALI?",
-        "options": [
-          "GÖĞÜS KEMİĞİNİN ALT YARISINA , GÖĞÜS BASISI YAPILIR",
-          "GÖBEĞİN ALTINA",
-          "UYGULAMA YAPILMAZ",
-          "SADECE SIRTA VURU YAPILIR",
-          "AĞIZ KONTROLÜ YAPILIR"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "HEMLİCK MANEVRASI YAPILMASI SIRASINDA , SOLUNUM TAMAMEN DURURSA NE YAPILIR?",
-        "options": [
-          "HASTA TEMİZ HAVAYA ÇIKARTILIR",
-          "KARNA BASI YAPMAYA DEVAM EDİLİR",
-          "SIRTA VURUYA DEVAM EDİLİR",
-          "HASTA YERE YATIRILIR , TEMEL YAŞAM DESTEĞİNE BAŞLANIR",
-          "112 ‘NİN GELMESİ BEKLENİR"
-        ],
-        "answer": 3
-      },
-      {
-        "question": "TIKANMALARLA İLGİLİ HANGİSİ YANLIŞTIR?",
-        "options": [
-          "YETİŞKİNDE TAM TIKANMADA KARNA BASI/SIRTA VURU ŞEKLİNDE YAPILIR",
-          "BEBEKTE TAM TIKANMADA SIRTA VURU/GÖĞSE VURU ŞEKLİNDE YAPILIR",
-          "HAMİLE VE OBEZLERDE GÖĞÜS BASISI YAPILIR",
-          "ÇOCUKTA TAM TIKANMADA YETİŞKİNLE AYNI İŞLEM YAPILIR(KARNA BASI/SIRTA VURU ŞEKLİNDE YAPILIR)",
-          "TAM TIKANMADA 112 HER ZAMAN ARANMAZ"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "TAM TIKANMANIN EN AYIRT EDİCİ ÖZELLİĞİ NEDİR?",
-        "options": [
-          "TAM TIKANMADA NEFES ALIMI OLMAZ",
-          "TAM TIKANMADA HASTA ÖKSÜRÜR",
-          "TAM TIKANMADA HASTA SESLER ÇIKARTILIR",
-          "TAM TIKANMADA AZ DA OLSA NEFES ALIR",
-          "TAM TIKANMADA KISMİ NEFES ALINIR ,KISMİ TIKANMADA HASTA NEFES ALAMAZ"
-        ],
-        "answer": 0
-      }
+    "question": "İlk yardım ile ilgili aşağıda verilenlerden hangisi doğrudur?",
+    "options": [
+      "Acil serviste yapılan müdahaledir.",
+      "Yoğun bakımda yapılan müdahaledir.",
+      "Ambulansta hekim tarafından yapılan ilk müdahaledir.",
+      "Olay yerindeki mevcut imkânlarla yapılan hızlı ve etkili müdahaledir."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi “sağlık, yaşam, mülk veya çevre için risk oluşturan acil müdahale gerektiren durumlar” olarak tanımlanır?",
+    "options": [
+      "Müdahale",
+      "Acil durum",
+      "Kurtarma",
+      "İlkyardım"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "I. İlk yardımın sağlanması II. Olay yerinin güvenli hale getirilmesi III. 112 acil yardım numarasının aranması IV. Hasta/yaralı durumunun değerlendirilmesi. Acil durum ile başa çıkabilme uygulamaları hangisinde doğru olarak sıralanmıştır?",
+    "options": [
+      "II-IV-III-I",
+      "I-II-III-IV",
+      "IV-II-III-I",
+      "III-IV-I-II"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "İlk yardımcı trafik kazasına müdahale ediyorsa olay yeri güvenliği açısından aşağıdakilerden hangisini yapması doğru değildir?",
+    "options": [
+      "Tüm müdahaleler trafik kurallarına uyularak yapılır",
+      "Trafikteki sürücü ve yayalar uyarılır.",
+      "Şehir içi 150 metre mesafeye uyarı işareti yerleştirilir",
+      "Aracın motoru kapatılır ve el freni çekilir."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi hasta/yaralının birincil kontrolünün gerçekleştirilmesi aşamalarından değildir?",
+    "options": [
+      "Hasta mı yaralı mı olduğuna bakılır.",
+      "Yanıt verme durumu değerlendirilir.",
+      "Kanama belirtileri değerlendirilir.",
+      "Tansiyonu değerlendirilir."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yaralanmanın ciddi olduğunu düşündüren durumlardan değildir?",
+    "options": [
+      "Kişinin boyunun üç katından daha yüksekten düşmesi",
+      "Baş yaralanması",
+      "Küçük yanık yarası",
+      "Aracın yayalara çarpması"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Bilinci kapalı olan ve normal solunum yapabilen hasta/yaralıya aşağıdaki ilk yardım pozisyonlarından hangisi uygulanır?",
+    "options": [
+      "Şok",
+      "Derlenme",
+      "Sırtüstü yatış",
+      "Yarı oturur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hasta/yaralıların taşınması sırasında dikkat edilmesi gereken kurallarla ilgili aşağıdakilerden hangisi doğru değildir?",
+    "options": [
+      "Hasta/yaralıya yakın mesafede çalışılması",
+      "Taşıyan kişinin sırtının gerginliğini korumak için kalkarken dizlerini bükmesi",
+      "Hasta/yaralının mümkün olduğunca az hareket ettirilmesi",
+      "Taşımaya hasta/yaralının ayak hizasında duran kişinin komutuyla başlanması"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "I. Solunumu durmuş olan hasta/yaralının omuriliğine zarar vermeden araç içinden çıkarmak amacıyla kullanılır. II. Ortamda yangın veya patlama riski olduğunda uygulanır. (Verilenler aşağıdaki taşıma tekniklerinden hangisini tanımlamaktadır?)",
+    "options": [
+      "Omuzda taşıma",
+      "Kucakta taşıma",
+      "Altın Beşik",
+      "Rentek manevrası"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Omurga yaralanması olan hasta/yaralının sedyeye aktarılmasında aşağıdaki tekniklerden hangisinin uygulanması doğrudur?",
+    "options": [
+      "Kütük yuvarlama",
+      "Kucakta taşıma",
+      "Omuzda taşıma",
+      "Altın beşik"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "I. Kalp ritim analizi yaparken hasta/yaralıya dokunulmasında sakınca yoktur. II. Hasta/yaralının solunumunu değerlendirmez. III. Gebelerde ve kalp pili olan kişilerde kullanılabilir. IV. Şok cihazı uygulamasından sonra yaşam belirtisi gösteren hastalarda cihaz kapatılır. (OED/Şok cihazı uygulaması ile ilgili verilenlerden hangileri doğrudur?)",
+    "options": [
+      "I ve II",
+      "II ve III",
+      "II ve IV",
+      "III ve IV"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "I. Güvenlik II. 112’nin aranması III. Ağız içi kontrolü IV. Yanıt değerlendirilmesi V. Hava yolu açıklığının sağlanması VI. Solunum kontrolü (Temel yaşam desteğine karar vermeden önce yapılacaklar hangi seçenekte doğru sıralanmıştır?)",
+    "options": [
+      "I- II- IV- III- VI- V",
+      "III-IV-V- VI- II- I",
+      "I- IV- II- III- V- VI",
+      "III- IV- VI- II- I- V"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıda çocuklarda temel yaşam desteği uygulaması ile ilgili verilenlerden hangisi yanlıştır?",
+    "options": [
+      "Çocuklarda tek ilk yardımcı 30 göğüs basısı 2 solunum uygulamalıdır.",
+      "Dakikada 100-120 göğüs basısı olacak şekilde uygulanır.",
+      "5 döngü sonunda çocuk kontrol edilir.",
+      "Göğüs kafesi 4 cm çökecek şekilde göğüs basısı uygulanır."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "İki ilk yardımcı ile erişkinde temel yaşam desteği uygulanırken göğüs basısı ve solunum desteği döngüsü nasıl olmalıdır?",
+    "options": [
+      "15:5 ve 2 döngü olacak şekilde iki dakikada bir değiştirilir.",
+      "15:2 ve 5 döngü olacak şekilde iki dakikada bir değiştirilir.",
+      "30:2 ve 5 döngü olacak şekilde iki dakikada bir değiştirilir.",
+      "30:2 ve 10 döngü olacak şekilde iki dakikada bir değiştirilir."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi bebeklere yönelik temel yaşam desteğinde göğüs basısının uygulanma şeklidir?",
+    "options": [
+      "Bir elin topuğuyla",
+      "Dört parmakla",
+      "İki elle",
+      "İki parmakla"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hava yolu kısmi tıkanan hasta/yaralıya ilk yardım olarak aşağıdakilerden hangisinin yapılması doğrudur?",
+    "options": [
+      "Heimlich manevrası yapılması",
+      "Kürek kemikleri arasına vurulması",
+      "Öksürmeye teşvik edilmesi",
+      "Kusturulmaya çalışılması"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi hava yolu tam tıkanan hasta/yaralıda görülen belirtilerden değildir?",
+    "options": [
+      "Öksürebilir.",
+      "Konuşamaz.",
+      "Rengi morarır.",
+      "Nefes alamaz."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aşağıdakilerden hangisi bayılma belirtilerinden değildir?",
+    "options": [
+      "Baş dönmesi",
+      "Öksürük",
+      "Terleme",
+      "Bulanık görme"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aşağıdakilerden hangisi beyindeki bir damarın aniden tıkanması ya da kanamasına bağlı olarak ortaya çıkan durumu tanımlar?",
+    "options": [
+      "Havale",
+      "Sara (epilepsi) krizi",
+      "İnme (felç)",
+      "Kan şekeri düşüklüğü"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sara (epilepsi) krizi geçiren hastaya aşağıdaki ilk yardım uygulamalarından hangisi yapılmalıdır?",
+    "options": [
+      "Kriz sürecinin kendiliğinden tamamlanması beklenmeli",
+      "Hastanın kendisine zarar vermesini önlemek için elleri ve ayakları tutulmalı",
+      "Hastanın dişlerinin arasına bir cisim yerleştirilmeli",
+      "Hastanın yüzüne su dökülmeli"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "İlk yardımcı kan şekeri düşen ve bilinci açık olan hasta/yaralıya aşağıdakilerden hangisini yapmalıdır?",
+    "options": [
+      "Ağızdan şeker veya şekerli içecekler vermeli",
+      "Kusturmaya çalışmalı",
+      "Yüzüstü yatmasını sağlamalı",
+      "Belirtiler düzelirse tekrar şeker verilmemeli"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dış kanaması olan hasta/yaralıya ilk yardım olarak aşağıdakilerden hangisinin uygulanması doğru değildir?",
+    "options": [
+      "Kanayan yer üzerine temiz bir bezle bastırılması",
+      "Kanayan yerdeki ıslanan ilk bez kaldırılarak yerine temiz bezin konulması",
+      "Kanayan bölgeye basınçlı bandaj uygulanması",
+      "Kanama durmazsa turnike uygulanması"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Uzuv kopmalarında “kopan parçaya” yönelik aşağıdakilerden hangisinin yapılması doğrudur?",
+    "options": [
+      "Polis gelene kadar olay yerinde bırakılması",
+      "Ilık su dolu bir kabın içine koyulması",
+      "Su geçirmez plastik torbaya yerleştirilmesi",
+      "Alkolle yıkanarak temizlenmesi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "İç kanama belirtileri olan hasta/yaralıya ilk yardım olarak aşağıdakilerden hangisinin uygulanması doğru değildir?",
+    "options": [
+      "Ağızdan sıvı verilmesi",
+      "Şok belirtileri varsa şok pozisyonu verilmesi",
+      "Sıcak tutmak için üzerinin örtülmesi",
+      "Yaşamsal bulgularının takip edilmesi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Turnike (boğucu sargı) aşağıdakilerden hangisinde uygulanmaz?",
+    "options": [
+      "Doğrudan bası ile durdurulabilen kanamalarda",
+      "Çok sayıda hasta/yaralının bulunduğu ortamda tek ilk yardımcı varsa",
+      "Uzuv kopmalarında",
+      "Basınçlı bandaj ile durdurulamayan kanamalarda"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Burun kanaması olan hasta/yaralıya ilk yardımcının aşağıdakilerden hangisini uygulaması doğru değildir?",
+    "options": [
+      "Oturur pozisyon vermesi",
+      "Başını hafifçe öne eğerek 10-15 dakika süreyle burun kanatlarına basınç uygulaması",
+      "Hasta/yaralının burnuna tampon yapması",
+      "Kanama durmazsa sağlık kuruluşuna yönlendirmesi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "“Şok pozisyonu” aşağıdakilerden hangisinde doğru olarak tanımlanmıştır?",
+    "options": [
+      "Hasta/yaralının sırtüstü yatırılıp ayaklarının 30-60 cm yükseltilmesidir.",
+      "Hasta/yaralının başı aşağıda olacak şekilde yatırılıp ayaklarının 20 cm yükseltilmesidir.",
+      "Hasta/yaralının başı yukarıda olacak şekilde yatırılıp ayaklarının düz uzatılmasıdır.",
+      "Hasta/yaralının yarı yüzükoyun yatırılarak üstteki bacağının kıvrılmasıdır."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "İlk yardımcının kalp krizinden şüphe edilen hasta/yaralıya aşağıdakilerden hangisini yapması doğru değildir?",
+    "options": [
+      "Rahat bir pozisyon vermesi",
+      "Yaşamsal bulgularını kontrol etmesi",
+      "Hasta/yaralıyı yürütmeye çalışması",
+      "Kullandığı aspirin varsa almasına izin vermesi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Baş ve omurga yaralanmalarında ilk yardım ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "options": [
+      "Yaralı bölgeye bastırılmamalı",
+      "Yaralıya boyunluk takılmamalı",
+      "Yaralının baş-boyun-gövde ekseni korunmalı",
+      "Bilinci açıksa yaralının hareket etmesi sağlanmalı"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Delici karın yaralanmalarında organları dışarı çıkan hasta/yaralıya ilk yardım olarak aşağıdakilerden hangisi uygulanmalıdır?",
+    "options": [
+      "Dışarı çıkan organlar içeri sokulmalı",
+      "Dışarı çıkan organların üzeri nemli bezle örtülmeli",
+      "Hasta/yaralı yüzükoyun pozisyonda yatırılmalı",
+      "Hasta/yaralıya ağızdan bol sıvı verilmeli"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kırık durumlarında hasta/yaralıya aşağıdaki ilk yardım uygulamalarından hangisi yapılmalıdır?",
+    "options": [
+      "Tespitte düğüm kırık üzerine gelmeli",
+      "Kırık düzeltilmeye çalışılmalı",
+      "Yiyecek ve su verilmeli",
+      "Kırık bölge atel ile hareketsiz hale getirilmeli"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Çıkıklarda ilk yardım ile ilgili aşağıda verilenlerden hangisi doğru değildir?",
+    "options": [
+      "Buz uygulaması 20 dakikadan fazla yapılmamalı",
+      "Çıkan eklem hareket ettirilmeli",
+      "Çıkan eklem yerine oturtulmaya çalışılmamalı",
+      "Çıkan eklem sabit pozisyonunda tutulmalı"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kedi, köpek ısırmasıyla oluşan hafif yaralanmalararda ilk yardım olarak aşağıdakilerden hangisinin uygulanması doğrudur?",
+    "options": [
+      "Yaralı bölgenin 10-15 dakika süre ile sabun ve soğuk suyla yıkanması",
+      "Yara üzerine tentürdiyotlu bezle bası yapılması",
+      "Süratle yaraya dikiş atılması",
+      "Kanama varsa turnike uygulanması"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Arı sokmalarında hasta/yaralıya ilk yardım olarak aşağıdakilerden hangisinin yapılması doğru değildir?",
+    "options": [
+      "Yaralı bölgenin yıkanması",
+      "Sıcak uygulama yapılması",
+      "Ağızdan sokma durumunda buz emdirilmesi",
+      "Derinin üzerinden görülebiliyorsa arının iğnesinin çıkarılması"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Akrep ve yılan sokmalarında hasta/yaralıya ilk yardım olarak aşağıdakilerden hangisinin yapılması doğrudur?",
+    "options": [
+      "Sokulan yerin dikey olarak kesilip emilmesi",
+      "Sokulan bölgeye sıcak uygulama yapılması",
+      "Hasta/yaralının hareket ettirilmemesi",
+      "Isırılan bölgenin üzerine turnike uygulanması"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sindirim yoluyla meydana gelen zehirlenmelerde hasta/yaralıya ilk yardım olarak aşağıdakilerden hangisinin yapılması doğru değildir?",
+    "options": [
+      "Yaşam bulgularının değerlendirilmesi",
+      "Hasta/yaralının kusturulmaya çalışılması",
+      "Bilinci kapalı ise derlenme pozisyonu verilmesi",
+      "112 Acil Çağrı Merkezinin aranması"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "I. Grip belirtileri, baş ağrısı ve aşırı yorgunluk görülür. II. Hasta ortamdan uzaklaştırılır ve temiz bir alana götürülür. III. Hastanın kıyafetleri gevşetilerek rahat nefes alması sağlanır. IV. Kapalı alana girmeden önce güvenlik önlemleri alınır. V. Karbonmonoksit genellikle çukurlarda bulunur. (Yukarıda karbonmonoksit zehirlenmesi ile ilgili verilenlerden hangileri doğrudur?)",
+    "options": [
+      "I ve II",
+      "I, III, IV, V",
+      "I, II, III, IV, V",
+      "I, II, IV, V"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Termal yanıklarda hasta/yaralıya ilk yardım olarak aşağıdakilerden hangisinin uygulanması doğru değildir?",
+    "options": [
+      "Yaşam belirtilerinin değerlendirilmesi",
+      "Ödem oluşabileceği için yüzük, bilezik vb. çıkarılması",
+      "Yanık üzerine yanık merhemi sürülmesi",
+      "Yanan bölgedeki giysilerin kesilerek çıkarılması"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Donma durumlarında bilinci açık olan hasta/yaralıya ilk yardım olarak aşağıdakilerden hangisinin uygulanması doğru değildir?",
+    "options": [
+      "Donmuş bölge ovulmalı",
+      "Ağızdan sıcak içecekler verilmeli",
+      "Hareket ettirmekten kaçınılmalı",
+      "Yaralı uzuvlar yukarı kaldırılmalı"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Göze yabancı cisim kaçması durumunda hasta/yaralıya aşağıdaki ilk yardım uygulamalarından hangisinin yapılması doğrudur?",
+    "options": [
+      "Cisim olan göze baskı uygulanır.",
+      "Cisim çıkarılmaya çalışılmaz.",
+      "Göz temiz su içinde kapatılıp açılarak yıkanır.",
+      "Göz dairesel hareketlerle ovulur."
+    ],
+    "answer": 2
+  }
     ]
   },
   "8": {
-    "title": "Kanamalar",
+    "title": "Temel Eğitim Teori Sınav Soruları-8",
     "qlist": [
       {
-        "question": "İÇ KANAMALARDA HANGİSİ OLMAZ?",
-        "options": [
-          "HUZURSUZLUK VE ENDİŞE",
-          "KARIN VEYA GÖĞÜS AĞRISI",
-          "KARINDA VEYA GÖĞÜSTE ŞİŞLİK",
-          "BİLİNÇ DEĞİŞİKLİĞİ VE UYKU HALİDİR",
-          "YÜKSEK TANSİYON"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "KANAMALARDA HANGİSİ YAPILMAZ?",
-        "options": [
-          "KANAMA KÜÇÜKSE İKİ PARMAKLA BASILIR",
-          "KANMA BÜYÜKSE ELLE BASILIR",
-          "BASKILI BANDAJLA DURMAYAN KANAMAYA , TURNİKE YAPILIR",
-          "KANAYAN YERİ GÖRMEK İÇİN , KIYAFET AÇILIR",
-          "KANAYAN YER YIKANIR"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "UZUV KOPMALARINDA İLK YARDIMDA HANGİSİ YAPILMAMALI?",
-        "options": [
-          "VARSA TEMİZ BEZE SARILIR,POŞETE KONARAK AĞZI KAPATILIR,İÇİNDE BUZ OLAN İKİNCİ BİR KABA ALINIR",
-          "KOPAN UZUV SUYLA YIKANIR",
-          "6 SAAT İÇİNDE SAĞLIK KURULUŞUNA ULAŞTIRILIR",
-          "HASTA ŞOK YÖNÜNDEN TAKİP EDİLİR",
-          "HASTANIN ALNINA T HARFİ YAZILIR"
-        ],
-        "answer": 1
-      },
-      {
-        "question": "TURNİKE UYGULAMADA HANGİSİ YANLIŞTIR?",
-        "options": [
-          "TEK KEMİK OLAN YERE YAPILIR",
-          "UZUV KOPMALARINDA , ÖN KOL VE ÖN BACAĞA YAPILIR",
-          "TURNİKE KANAMA DURANA KADAR SIKILIR",
-          "TURNİKE UYGULANAN YER DIŞARDA KALACAK ŞEKİLDE HASTANIN ÜSTÜ ÖRTÜLÜR",
-          "SADECE DAMAR OLAN YERE YAPILIR"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "KANAMALARLA İLGİLİ AŞAĞIDAKİ BİLGİLERDEN HANGİSİ YANLIŞTIR?",
-        "options": [
-          "ATARDAMARIN BASINCI FAZLADIR",
-          "ATARDAMAR TEMİZ KAN TAŞIR",
-          "ATARDAMAR KESİK KESİK FIŞKIRARAK KANAR",
-          "ATARDAMAR KANAMASI , TOPLARDAMARDAN DAHA AZ TEHLİKELİR",
-          "TOPLARDAMAR OKSİJENDEN FAKİRDİR, KİRLİ KAN TAŞIR"
-        ],
-        "answer": 3
-      },
-      {
-        "question": "DIŞ KANAMALARDA KANAMAYI DURDURMAK İLK İÇİN NE YAPILIR?",
-        "options": [
-          "TURNİKE",
-          "BASKILI BANDAJ",
-          "KANAMA DURDURUCU BANDAJ",
-          "SOĞUTMA İŞLEMİ",
-          "KANAYAN YERE TEMİZ BİR BEZLE BASKI YAPILIR"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "KANAMALARDA HANGİ UYGULAMA DOĞRUDUR?",
-        "options": [
-          "BASI YAPILAN BEZ ISLANDIYSA , KALDIRILMADAN ÜSTÜNE TEMİZ BEZ KONUR , BASIYA DEVAM EDİLİR",
-          "KANAYAN YER İYİCE YIKANIR",
-          "KANAYAN YERİN ÜZERİ ÖRTÜYLE GÖRÜNMEYECEK ŞEKİLDE ÖRTÜLÜR",
-          "KANAYAN YER SALLANARAK RAHATLATILIR",
-          "KAYBEDİLEN SIVIYI YERİNE KOYMAK İÇİN AĞIZDAN SIVI VERİLİR"
-        ],
-        "answer": 0
-      }
+    "question": "1- Bilinç bozukluğunun değerlendirilmesi basamaklarını aşağıdakilerden hangisi ifade eder?",
+    "options": [
+      "USYA",
+      "USAY",
+      "SAYU",
+      "ASYU"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2- Aşağıdakilerden hangisi kırık belirti ve bulgularından biri değildir?",
+    "options": [
+      "Hareket ettirme sırasında artan ağrı ve hareketlerde zorlanma",
+      "Kan basıncında düşme",
+      "Uzuvda kısalma",
+      "Şekil bozukluğu, şişme ve morarma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "3- Hasta/yaralının ilk değerlendirmesinde ilk önce aşağıdakilerden hangisi kontrol edilmelidir?",
+    "options": [
+      "Solunum yolu açıklığı",
+      "Bilinç durumu",
+      "Solunum durumu",
+      "Kanama kontrolü"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "4- İnme (Felç) değerlendirme basamakları hangileridir?",
+    "options": [
+      "FAST",
+      "FATS",
+      "ATFS",
+      "TAFS"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "5- Hipotermi nedir?",
+    "options": [
+      "Vücut sıcaklığının 36 °C’ nin üstünde olması",
+      "Vücut sıcaklığının 35 °C’ nin altında olması",
+      "Vücut sıcaklığının 35 °C - 36 °C arasında olması",
+      "Hiçbiri"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "6- I. Hastanın cildinin kuru olmasına, boynunda mevcut takılarının çıkarılmış olmasına II. Zeminin kuru ve metal bir malzemeden yapılmamış olmasına III. Pedlerin hastada kalp pili varsa veya hamile ise 2-2,5 cm daha uzağına yerleştirilmesine Yukarıda verilen bilgilere göre OED cihazını hasta/yaralıya uygularken dikkat edilecek hususlardan hangisi doğrudur?",
+    "options": [
+      "I ve III",
+      "II ve III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7- Göğsünde kuvvetli bir ağrısı olan hasta hangi pozisyona alınmalıdır?",
+    "options": [
+      "Yarı oturur veya sırt üstü yatar pozisyon",
+      "Şok pozisyonu",
+      "Kurtarma / Derlenme pozisyonu",
+      "Yüzükoyun yatar pozisyon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "8- Bilinç kaybı olan kimselerde hava yolu açıklığı nasıl sağlanır?",
+    "options": [
+      "2 kurtarıcı soluk vererek",
+      "Bak-Dinle-Hisset metoduyla",
+      "Baş-Çene pozisyonu vererek",
+      "Ağız içi körlemesine temizlenerek"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "9- Gaz ile oluşan solunum yolu zehirlenmelerinde aşağıdaki ilkyardım uygulamalarından hangisi yanlıştır?",
+    "options": [
+      "Hasta temiz havaya çıkarılır yada ortam havalandırılır",
+      "Göğüs basısı uygulanır",
+      "Bilinci açıksa rahat nefes aldığı pozisyonda kalmasını sağlayın",
+      "Yaşamsal bulguları yoksa 112’yi arayın veya aratın ve TYD başlayın."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10- Sinirlerin zarar gördüğü, ağrının olmadığı görünüşü kuru/sert/beyaz yada kahverengi olan yanık kaçıncı derecedir?",
+    "options": [
+      "Birinci Derece",
+      "İkinci Derece",
+      "Üçüncü Derece",
+      "Dördüncü derece"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "11- Aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Bayılma; beyne giden kan akışının geçici süre ile azalmasından kaynaklı kısmi veya tam bilinç kaybıdır",
+      "Koma; kişinin iç ve dış uyaranlardan haberdar olmadığı gözlerinin kapalı olduğu, uykuya benzeyen ancak uyandırılmanın mümkün olmadığı durumdur",
+      "Hastanın bilinci varsa kan şekeri düşmesinde hastaya ağızdan kesinlikle bir şey verilmez",
+      "İnme (Felç); beyindeki bir damarın aniden tıkanması ya da kanamasına bağlı olarak meydana gelen durumdur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "12- Aşağıdaki durumların hangisinde OED cihazı kullanılmaz?",
+    "options": [
+      "Gebeler ve kalp pili olan hastalar",
+      "Metal ve ıslak zeminde olan hastalar",
+      "6 ayda küçük bebekle",
+      "OED’nin çocuklar için uygun petleri bulunmuyorsa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13- Solunumu değerlendirilen ve solunumu olmadığı anlaşılan yetişkin bir hastaya ilk olarak ne yapılmalıdır?",
+    "options": [
+      "2 kurtarıcı soluk verilir",
+      "30 defa göğüs basısı uygulanır",
+      "Başa pozisyon verilmelidir",
+      "Hasta derlenme pozisyonuna getirilmelidir"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "14- Solunum yolu tam olarak tıkanmış bir kişide aşağıdakilerden hangisi görülür?",
+    "options": [
+      "Kişi kuvvetlice öksürebilir",
+      "Nefes alırken ıslık sesi duyulabilir",
+      "Kişi konuşabilir",
+      "Konuşamaz, sorulara baş hareketiyle cevap verebilir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "15- Hayat kurtarma amacı ile hava yolu açıklığı sağlandıktan sonra, solunum ve/veya kalbi durmuş kişiye yapay solunum ile akciğerlerine oksijen gitmesini, dış kalp masajı ile de kalpten kan pompalanmasını sağlamak üzere yapılan ilaçsız müdahalelere ne denir?",
+    "options": [
+      "İleri yaşam desteği",
+      "Acil tedavi",
+      "Temel yaşam desteği",
+      "Suni solunum"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "16- I. Sakin, kendine güvenen ve pratik olmalı II. Öncelikle bebek ve çocuklara yardım etmeli III. İnsan vücudu hakkında temel bilgilere sahip olmalı Yukarıda verilen bilgilerden hangisi ilkyardımcının özelliklerinden değildir?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve III",
+      "I ve II"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17- Beyne giden kan akışının geçici bir süre ile azalmasından kaynaklanan kısmi veya tam bilinç kaybına ne denir?",
+    "options": [
+      "Koma",
+      "Bayılma",
+      "Baş dönmesi",
+      "Sıcak çarpması"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "18- Hava yolu tam tıkanık olan bir hastaya hangi ilkyardım uygulaması yapılmalıdır?",
+    "options": [
+      "Karına bası-sırta vuru yapılır",
+      "Sırta vuru-karına bası",
+      "Temel yaşam desteğine başlanır",
+      "Rentek manevrası yapılır"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "19- Kaza geçirmiş ve araç içinde olan bir yaralıyı eğer bir tehlike söz konusu ise omuriliğine zarar vermeden çıkarmak için kullanılan taşıma tekniği hangisidir?",
+    "options": [
+      "Rentek manevrası",
+      "Ayaklarından tutarak sürükleme",
+      "Kucakta taşıma",
+      "Hemlich manevrası"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "20- Donmuş olan bir hastaya ilkyardım uygulamalarında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Bilinci yerindeyse ılık içecekler verilir",
+      "Kuru giysiler giydirilir",
+      "Donmuş bölge ovularak ısıtılır",
+      "Göğüs kafesi koltuk altları ve kasık bölgelerine ılık su paketi koyulur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "21- Uzuv kopmalarında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Kopan parçanın buz ile direk teması sağlanır",
+      "Kopmuş uzuv parçası, su geçirmeyen plastik bir torbaya konur",
+      "Uzuv parçasının konduğu plastik torba buzlu su dolu başka bir torbaya konur",
+      "Sahibine ait kimlik bilgileri ile en geç 6 saat içerisinde sağlık kuruluşuna sevki sağlanır"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "22- Kanamanın ciddiyeti aşağıdaki durumlardan hangisine bağlı değildir?",
+    "options": [
+      "Kanamanın hızına",
+      "Vücutta kanın aktığı bölgeye",
+      "Kan grubuna",
+      "Kanamanın miktarına"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "23- Aşağıdakilerden hangisi Denizanası sokmalarında ilkyardım uygulamalarından değildir?",
+    "options": [
+      "Kişinin sokma bölgesini ovmasını önlemek",
+      "Sokulan bölgeyi tatlı su ile yıkamak",
+      "Denizanasının dokunaçlarını düzgün bir nesne ile çıkarmak",
+      "Sokulan bölgeyi deniz suyu ile iyice durulamak"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "24- Solunum yolu tam olarak tıkanmış bir kişide aşağıdakilerden hangisi görülür?",
+    "options": [
+      "Öksürür",
+      "Derin nefes alır",
+      "Konuşabilir",
+      "Konuşamaz"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "25- Kalp masajı hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Dakikada 100-120 bası olacak şekilde yapılmalıdır",
+      "Kalp masajı ve solunum oranı 30/2 olmalıdır",
+      "Göğüs kafesinin 1/3 ü kadar çökertilmelidir",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "26- Aşağıda OED ile ilgili verilenlerden hangisi doğrudur?",
+    "options": [
+      "Sadece sağlık çalışanları tarafından kullanılır",
+      "OED, ani kalp durması sırasında göğse yapıştırılan petler (elektrotlar) vasıtası ile kalbe şok verilmesini sağlayan bir cihazdır",
+      "OED cihazları sadece hastaların kalp ve solunumunu değerlendirirler",
+      "OED petlerinin birbirine temas etmesine dikkat edilmelidir."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "27- Şofbenden zehirlenme olan bir odaya girildiğinde ilk yapılması gereken aşağıdakilerden hangisidir?",
+    "options": [
+      "Hastanın ABC’ si değerlendirilmelidir",
+      "Hasta yaralı yerinden oynatılmamalıdır",
+      "Hasta ortandan uzaklaştırılır ve ortamın havalanması sağlanır",
+      "Hastaya suni solunum uygulanmalıdır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "28- Derlenme pozisyonu hangisidir?",
+    "options": [
+      "Yarı-yüzükoyun yan pozisyon",
+      "Yarı oturur -yan pozisyon",
+      "Yarı sırt üstü-yan yatar pozisyon",
+      "Yüzükoyun-yan yata pozisyon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "29- Kanamayı durdurmak için ilkyardımcının ilk yapması gereken aşağıdakilerden hangisidir?",
+    "options": [
+      "Basınçlı bandaj uygulaması yapılır",
+      "Kanamalı bölgenin üzerine turnike uygulanır",
+      "Kanamalı bölge su ile yıkanır",
+      "Kanamalı bölgenin üzeri temiz bir bez ile kapatılarak yaraya doğrudan bası uygulanır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "30- Öksürürken kan geliyorsa ve omurga yaralanması yoksa hasta hangi pozisyona alınır?",
+    "options": [
+      "Yere düz yatırılır ve ayakları 30 derece kaldırılır",
+      "Yere düz yatırılır ve başı sağa doğru çevrilir",
+      "Hasta yarı oturur veya oturur pozisyona getirilir",
+      "Yere düz yatırılır ve başı sola doğru çevrilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "31- Bilinci kapalı, solunumu var olan bir hastaya hangi pozisyon verilir?",
+    "options": [
+      "Yüz üstü yatar pozisyon",
+      "Sırt üstü yatar pozisyon",
+      "Kurtarma / derlenme pozisyonu",
+      "Yarı oturur pozisyon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "32- Hangi durumda turnike uygulanmaz?",
+    "options": [
+      "Çok sayıda yaralının bulunduğu ortamda tek ilkyardımcı var ise",
+      "Yaralı güç koşullarda bir yerden bir yere taşınacak ise",
+      "Yaralının ön kolunda kontrol edilebilir bir kanama var ise",
+      "Uzuv kopması var ise ve bası noktalarına baskı uygulamak yeterli olmuyor ise"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "33- Kan şekeri düşmesinde ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Hastanın bilinci kapalı ise yaşamsal bulgular takip edilir",
+      "Hastanın bilinci yerinde ve kusmuyorsa ağızdan şekerli içecekler verilir",
+      "Hastanın bilinci kapalı ise kurtarma / derlenme pozisyonuna alınır",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34- 112’ nin aranmış sırasında yapılması yanlış olan hangisidir?",
+    "options": [
+      "Telefon hemen kapatılarak müdahale edilmelidir",
+      "Sakin olunmalıdır",
+      "Sorulan sorulara net cevaplar verilmelidir",
+      "Kesin yer ve adres bilgileri verilmedir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "35- Yara içinde yabancı cisim var ise ne yapılmalıdır?",
+    "options": [
+      "Çıkarılarak pansuman yapılmalıdır",
+      "Çıkarılarak yara üzeri örtülmelidir",
+      "Cismi sabit tutacak rulo sargı bezi veya simit sargı yerleştir",
+      "Cisim öylece bırakılır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "36- Çocuklarda egzersizle ilgili sıcak çarpmasında ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Hasta derlenme pozisyonuna getirilir ve ağızdan hiçbir şey verilmez",
+      "Hasta derlenme pozisyonuna getirilerek üstü örtülür",
+      "Hasta düz oturtularak öne doğru hafifçe eğilir ve ağızdan şekerli su verilir",
+      "Hasta serine ve havadar bir yere alınarak giysileri çıkarılır baş ve göğsünün üst kısmın dışarıda kalacak şekilde buzlu suya sokulur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "37- Kaza geçirmiş ve araç içinde olan bir yaralıyı eğer bir tehlike söz konusu ise omuriliğine zarar vermeden çıkarmak için kullanılan taşıma tekniği hangisidir?",
+    "options": [
+      "Rentek manevrası",
+      "Ayaklarından tutarak sürükleme",
+      "Kucakta taşıma",
+      "Hemlich manevrası"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "38- Karbon monoksit zehirlenmesinin belirtileri ile ilgili doğru olan yukarıdakilerden hangisidir? (I. Aşırı yorgunluk, huzursuzluk, grip benzeri durum II. Buluntu, baş dönmesi, koma III. Cilt ve tırnaklarda kiraz kırmızısı renk IV. Baş ağrısı, ödem ve titreme)",
+    "options": [
+      "I ve II",
+      "II ve III",
+      "I, II ve III",
+      "I, II, III ve IV"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "39- Temel yaşam desteğinde bebek ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Bebeklere dakikadaki bası sayısı 100-120 olmalıdır",
+      "Uygulamayı 2 dakika içinde 5(beş) kez tekrarladıktan sonra bebek kontrol edilmelidir",
+      "Göğüs kafesi 1 / 4 oranında çökertilmelidir",
+      "Bebek yalnız bırakılmamalı, durumu gözlemlenmeye devam edilmelidir."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "40- Temel yaşam desteğinde bebek ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Bebeklere dakikadaki bası sayısı 80 olmalıdır",
+      "Bebeğin yaşamsal refleksi yada tıbbı yardım gelene kadar temek yaşam desteğine devam edilir",
+      "Göğüs kafesi 1 / 4 oranında çökertilmelidir",
+      "Bebekte solunum yok ise temel yaşam desteğine 2 kurtarıcı nefes verilerek başlanır"
+    ],
+    "answer": 1
+  }
     ]
   },
   "9": {
-    "title": "Şok ve Göğüs Ağrısı",
+    "title": "Temel Eğitim Teori Sınav Soruları-9",
     "qlist": [
       {
-        "question": "HANGİSİ ŞOK BELİRTİSİ DEĞİLDİR?",
-        "options": [
-          "KAN BASINCINDA YÜKSELME",
-          "SOĞUK ,SOLUK  NEMLİ CİLT",
-          "HIZLI YÜZEYSEL NABIZ",
-          "CİLTTE MORARMA,RENK DEĞİŞİKLİĞİ",
-          "BİLİNÇ BOZUKLUĞU"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "ŞOK POZİSYONU VERİLMESİNDE HANGİSİ YAPILMAZ?",
-        "options": [
-          "HASTA SIRT ÜSTÜ YATIRILIR",
-          "AYAKLAR 30-60 DERECE YÜKSELTİLİR",
-          "BACAKLARDA AĞRI OLUYORSA , YÜKSELTME İŞLEMİ YAPILMAZ",
-          "HASTANIN ÜZERİ ÖRTÜLÜR",
-          "HASTA SERİN BİR ALANA TAŞINIR"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "DOKULARIN İHTİYACI OLAN OKSİJEN VE DİĞER TEMEL GEREKSİNİMLERİNİN DOLAŞIM BOZUKLUĞU NEDENİYLE  SAĞLANAMAMASINA NEDENİR?",
-        "options": [
-          "BAYILMA",
-          "ŞOK",
-          "BAYILAYAZMA",
-          "İNME",
-          "BİLİNÇ BOZUKLUĞU"
-        ],
-        "answer": 1
-      },
-      {
-        "question": "GÖĞÜS AĞRISI OLAN HASTA HANGİSİ YAPILMAZ?",
-        "options": [
-          "HASTA OTURTULUR",
-          "İLACI VARSA VERİLİR",
-          "SIKAN GİYSİLER GEVŞETİLİR",
-          "ODA HAVALANDIRILIR",
-          "HASTA YÜZ ÜSTÜ YATIRILIR-"
-        ],
-        "answer": 4
-      }
+    "question": "1- Hasta yaralı değerlendirilirken solunum yoksa ne yapılır?",
+    "options": [
+      "Hemen temel yaşam desteği uygulanır",
+      "Hemen bilinç kontrolü yapılır",
+      "Hemen 5 defa sırt vuruşu yapılır",
+      "Hemen rentek manevrası uygulanır"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "2- Olay yerinin değerlendirilmesinin amacı nedir?",
+    "options": [
+      "Olay yerinde tekrar kaza olma riskini arttırmak",
+      "Olay yerindeki delilleri korumak",
+      "Olay yerindeki ilkyardımcı sayısını belirlemek",
+      "Olay yerindeki hasta yaralı sayısını belirlemek"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3- Kazazedenin bilinci açık ve solunumu varsa ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Hasta derlenme pozisyonuna getirilir",
+      "Hasta yarı oturur pozisyona getirilir",
+      "Hasta şok pozisyonuna getirilir",
+      "Hasta sırt üstü yata pozisyonda bırakılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "4- Aşağıdakilerden hangisi ilkyardımda yaş sınırlandırılması doğru olarak verilmiştir?",
+    "options": [
+      "Yetişkin 18-65 yaş, çocuk 2-10 yaş, bebek 0-6 ay",
+      "Yetişkin 8 yaş üstü, çocuk 2-10 yaş, bebek 0-2 yaş",
+      "Yetişkin 1-65 yaş, çocuk 0-6 yaş, bebek 0-6 ay",
+      "Yetişkin 8 yaş üstü, çocuk 1-8 yaş, bebek 0-1 yaş"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "5- Delici göğüs yaralanmalarında ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Yara kesinlikle kapatılmamalıdır",
+      "Yaranın üzeri tamamen kapatılmalıdır",
+      "Yaranın üzerine kurumaması için nemlendirici krem sürülür",
+      "Yaranın üzeri üç tarafı kapalı bir tarafı açık olacak şekilde kapatılmalıdır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "6- İlkyardımcı trafik kazasına müdahale ederken şehir içi ve şehirler arası uyarı işaretlerini kaç metreye koymalıdır?",
+    "options": [
+      "30 - 100",
+      "40 - 150",
+      "30 - 150",
+      "40 - 100"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "7- Temel yaşam desteğinde bebek ile ilgili açıklamalardan hangisi doğrudur?",
+    "options": [
+      "Bebeklere dakikadaki bası sayısı 80 olmalıdır",
+      "Bebeğin yaşamsal refleksi ya da tıbbı yardım gelene kadar temek yaşam desteğine devam edilir",
+      "Göğüs kafesi 1 / 4 oranında çökertilmelidir",
+      "Bebekte solunum yok ise temel yaşam desteğine 2 kurtarıcı nefes verilerek başlanır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8- Delici karın yaralanmalarında ilkyardımda aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Isı kaybını önlemek için hastanın üzeri örtülür",
+      "Ağızdan hiçbir şey verilmez",
+      "Dışarı çıkan organlar içeri sokularak üzeri örtülür",
+      "Yaşam bulguları sık sık değerlendirilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "9- Bilinci kapalı olan hasta/yaralıyı taşımak gerekirse, aşağıdakilerden hangisi en uygun taşıma tekniğidir?",
+    "options": [
+      "İtfaiyeci yöntemi",
+      "Kollarından asılarak sürükleme",
+      "Hemlich yöntemiyle taşıma",
+      "Rentek yöntemiyle taşıma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "10- Göze yabancı cisim batması varsa yada metal parçası kaçmışsa ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Yumuşak ve nemli bir bezle çıkarılmaya çalışılmalıdır",
+      "Cımbız yardımıyla çıkarılmaya çalışılmalıdır",
+      "Göze dokunulmaz tıbbı yardım istenir",
+      "Hastaya gözünü kırpıştırması söylenir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "11- Aşağıdakilerden hangisi kafatası ve omurga yaralanmalarının belirtilerinden değildir?",
+    "options": [
+      "Yaralanma bölgesinde ağrı, hassasiyet",
+      "El ve ayaklarda uyuşma, karıncalanma hissi",
+      "Yaralanma bölgesinin aşağısında kuvvet artması",
+      "Yaralanma bölgesinin aşağısında duyu azalması ve kaybı"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "12- Aşağıdakilerden hangisi OED kullanımında dikkat edilmesi gerekenlerden biri değildir?",
+    "options": [
+      "Pedlerin yapıştırılacağı bölgenin kuru olması gerekir ıslaklık var ise göğüs kurulanmalıdır",
+      "Gebeler ve kalp pili olan hastalarda OED kullanılabilir ve ped kalp pili üzerine yapıştırılmalıdır",
+      "Pedlerin yapıştırılacağı bölgede açık yara var ise petler yara üzerine yapıştırılmamalıdır",
+      "OED cihazı kalp ritmi analizi yaparken ve şok verirken hasta / yaralıya dokunulmamalıdır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13- Deniz canlısı sokmalarında ilkyardım uygulamasında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Batan diken/dokunaçlar varsa ve görülüyorsa çıkarılır",
+      "Etkilenen bölge ovulmamalıdır",
+      "Yaralı bölge hareket ettirilerek kanlanması sağlanır",
+      "Yaralı bölge ılık deniz suyu ile yıkanır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "14- Çocukluk çağı nöbetinde doğru uygulama hangisidir?",
+    "options": [
+      "Hasta soğuk su dolan küvete sokulur",
+      "Üzeri örtülmelidir",
+      "Buzlu içecek verilir",
+      "Çocuğun üzerindeki giysiler çıkarılır, derlenme pozisyonu verilir ve oda sıcaklığındaki su ve temiz havlu ile ateş düşürülmeye çalışılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "15- Aşağıdakilerden hangisi akrep sokmalarında ilkyardım uygulamaları için doğrudur?",
+    "options": [
+      "Sokulan bölgeye sıcak uygulama yapılır",
+      "Akrep soktuğu yere kesi uygulaması yapılır",
+      "Sokulan bölgeden zehir emilerek uzaklaştırılır",
+      "Sokulan yeri su ve sabunla nazikçe yıkayın, 15 dakika soğuk uygulaması yapın, kan dolaşımını engellemeyecek şekilde bandaj uygulayın"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "16- Akrep ve yılan sokmalarında ilkyardım uygulamasında hangisi doğrudur?",
+    "options": [
+      "Sokulan yer dikey olarak kesilerek emilir",
+      "Sokulan bölge hareket ettirilmez",
+      "Sokulan bölgeye sıcak uygulama yapılır",
+      "Isırılan bölge üzerine turnike uygulanır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17- Kırıklarda ilkyardım uygulaması ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Eklemleri içine alacak şekilde atel yapmak",
+      "Eklemleri içine almadan atel yapmak",
+      "Şekil bozukluğunu düzeltip atel yapmak",
+      "Destek uygulamadan atel yapmak"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "18- Kırılarda ilkyardım uygulaması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Yaralı kısmı bir bandaj veya atel ile hareketsiz hale getirmek",
+      "Şiddeti bir kanama varsa, kanamanın üzerine bastırılır ya da basınçlı bandaj uygulaması yapılır",
+      "Yaralının bilinci kapalı ancak hala nefes almaya devam ediyorsa derlenme pozisyonu verilir",
+      "Kırıklar uçuca gelecek şekilde düzeltilip atellenir, sağlık kuruluşuna nakli sağlanır."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "19- Bir trafik kazası sonucu oluşan yaralanmaya müdahale edilirken, hangi durumda araçtan çıkarmalıyız?",
+    "options": [
+      "Yaralı sıkışmamışsa ve bir tehlikesi yoksa",
+      "Bilinci yerinde ve herhangi bir tehlike söz konusu değilse",
+      "Yaralının ön kolunda kontrol edilebilir bir kanama varsa",
+      "Yaralının solunumu yoksa"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "20- Sara krizi geçiren birisinde ilkyardım yapılırken aşağıdakilerden hangisi yapılmalıdır?",
+    "options": [
+      "Hasta sıkıca bağlanarak kendisine zarar vermesi önlenir",
+      "Hastanın çenesi açılarak arasına sert bir cisim yerleştirilir",
+      "Kriz kendi sürecini tamamlamaya bırakılır",
+      "Kolonya, soğan, eter vb. maddeler koklatılır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "21- Yara içinde yabancı bir cisim varsa ilkyardım müdahalesi nasıl olmalıdır?",
+    "options": [
+      "Cisim çıkartılarak pansuman yapılır",
+      "Yara üzeri sıkı bandajlandığından emin olunarak ağrı uyuşma hissedinceye kadar sarılmalıdır",
+      "Yabancı cisme dokunulmaz, simit sargı ile sabitlenerek sağlık kuruluşuna sevki sağlanır",
+      "Yabancı cisim çıkarılmaz, yara bol su ile yıkanır ve turnike uygulanır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "22- Aşağıdakilerden hangisi ilk yardımcı da bulunması gereken özelliklerden değildir?",
+    "options": [
+      "Önce kendi can güvenliğini sağlamalıdır",
+      "İnsan vücudu hakkında temel bilgilere sahip olmalıdır",
+      "Sakin, kendine güvenli ve pratik olmalıdır",
+      "İlkyardımcı kullanacağı malzemeleri yanında taşımalıdır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "23- Nefes almayı zorlaştıran havayolu tıkanıklığı aşağıdaki durumlardan hangisidir?",
+    "options": [
+      "Astım",
+      "Hiperventilasyon",
+      "KoAH",
+      "Tip1 Şeker"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "24- Sara krizinde ilkyardım uygulamalarında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Hasta sıkıca bağlanarak kendisine zarar vermesi önlenir b)",
+      "Hastanın çenesi açılmaya çalışılır",
+      "Başının çarpmasını engellemek için başının altına yumuşak bir malzeme konur",
+      "Üzerine su dökülerek rahatlatılmaya çalışılır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "25- Kan şekeri düşmesinde ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Hastanın yaşamsal bulguları değerlendirilir",
+      "Hastanın bilinci yerinde ve kusmuyorsa şekerli yiyecek içecek verilir",
+      "Belirtiler 15-20 dakikada geçmiyorsa 112 aranır",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "26- Çocuklarda egzersizle ilgili sıcak çarpmasında ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Hasta derlenme pozisyonuna getirilir ve ağızdan hiçbir şey verilmez",
+      "Hasta derlenme pozisyonuna getirilerek üstü örtülür",
+      "Hasta düz oturtularak öne doğru hafifçe eğilir ve ağızdan şekerli su verilir",
+      "Hasta serine ve havadar bir yere alınarak giysileri çıkarılır baş ve göğsünün üst kısmın dışarıda kalacak şekilde buzlu suya sokulur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "27- Bilinci açık olan bebekte havayolunda tam tıkanıklık varsa ilkyardımda ne yapılmalıdır?",
+    "options": [
+      "Kalp masajı yapılır",
+      "Derlenme pozisyonuna getirilir",
+      "5 kez sırta vuru, 5 kez göğüs kemiğine bası uygulanır",
+      "Hastaya dokunulmaz öksürmeye teşvik edilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "28- Çocuklarda temel yaşam desteği ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Göğüs basısı çocuğun durumuna göre tek el, yeteri gelmiyorsa iki el tekniği uygulanır",
+      "Göğüs kafesi 1/3 oranında 5 cm olacak şekilde çöktürülür",
+      "İki ilkyardımcı varlığında göğüs basısı suni solunum oranı 15:2 olacak şekilde uygulanır",
+      "Göğüs basısı iki başparmak veya iki parmak tekniği kullanılarak yapılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "29- Arı, Akrep, Örümcek ve deniz hayvanı sokması ile ilgili aşağıdakilerden hangisi doğru uygulamadır?",
+    "options": [
+      "Soğuk - Soğuk",
+      "Soğu - Sıcak",
+      "Sıcak - Sıcak",
+      "Sıcak - Soğuk"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30- Solunumu değerlendirildikten sonra solunumu olmayan yetişkin bir hastaya ilk olarak ne yapılır?",
+    "options": [
+      "Başa pozisyon verilir",
+      "2 defa kurtarıcı solunum verilir",
+      "Kalp masajı yapılır",
+      "Hasta derlenme pozisyonuna getirilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "31- Aşağıdakilerden hangisi ilkyardımın amaçlarından birisi değildir?",
+    "options": [
+      "Hayatı korumak",
+      "İyileşmesine destek olmak",
+      "Hastanın durumunun kötüleşmesine destek olmak",
+      "112’yi aramak veya aratmak"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "32- Aşağıdaki bilgilerden hangisi ilkyardımla ilgili doğru bilgidir?",
+    "options": [
+      "İlkyardım sırasında ilaç kullanılır",
+      "İlkyardım elde mevcut araç gereçlerle yapılır",
+      "İlkyardım acil tedavi ünitelerde yapılır",
+      "İlkyardım sadece doktor ve sağlık personeli tarafından yapılır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "33- Hangi durumda turnike uygulanabilir?",
+    "options": [
+      "Kanaması olan her hastada",
+      "Çok sayıda yaralının bulunduğu bir ortamda",
+      "Toplardamar kanamalarında",
+      "Baş yaralanmalarında"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "34- Aşağıdakilerden hangisi şok belirti ve bulgularından değildir?",
+    "options": [
+      "Yutma güçlüğü ve öksürük",
+      "Bulantı, kusma ve baş dönmesi",
+      "Hızlı ve yüzeysel solunum",
+      "Ciltte soğukluk ve solukluk ve nemlilik"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "35- Aşağıdakilerden hangisi şok durumunda yapılan uygulamalardan değildir?",
+    "options": [
+      "Dış kanama varsa kanama kontrol altına alınır",
+      "Hasta/yaralı mümkün olduğunda hareket ettirilmez",
+      "Hasta ve yaralı şok pozisyonuna getirilir",
+      "Hasta/yaralıya yiyecek içecek verilir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "36- 112 arandığında adres tarif edilirken nelere dikkat edilmelidir?",
+    "options": [
+      "Tahmini bir adres verilmelidir",
+      "Adres verilmeden sadece telefon numarası verilmelidir",
+      "Acele bir şekilde hızlı konuşulmalıdır",
+      "Olay yerine yakın, bilinen bir yerin adı verilmelidir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "37- Kaza yapmış bir aracın yanına gelindiğinde ilk yapılması gerekenlerden biri hangisidir?",
+    "options": [
+      "Çekilmişse el freni indirilmelidir",
+      "Aracın kontağı kapatılmalı",
+      "Hemen 110 aranmalı",
+      "Araç ters dönmüşse düzeltilmeli"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "38- Hasta/yaralının ilk değerlendirmesinde ilk önce aşağıdakilerden hangisi kontrol edilmelidir?",
+    "options": [
+      "Solunum yolu açıklığı",
+      "Solunum Durumu",
+      "Bilinç durumu",
+      "Dolaşım Durumu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "39- Bebeklerde tam havayolu tıkanıklığında aşağıdakilerden hangisi yapılır?",
+    "options": [
+      "Suni solunum yapılır",
+      "Dış kalp masajı yapılır",
+      "Hasta mümkün olduğunca hareket ettirilmez",
+      "Cisim çıkana kadar 5 defa sırt vuruşu , 5 defa göğüs basısı yapılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "40- Tek kişi ile yetişkin bir hastada kalp-akciğer canlandırması uygulaması sırasında verilmesi gereken soluk ile kalp masajı sayısı ne olmalıdır?",
+    "options": [
+      "1 Kalp masajı-5 Soluk",
+      "30 kalp masajı-2 Soluk",
+      "30 kalp masajı-1 soluk",
+      "15 kalp masajı-2 Soluk"
+    ],
+    "answer": 1
+  }
     ]
   },
   "10": {
-    "title": "Yaralanmalar",
+    "title": "Temel Eğitim Teori Sınav Soruları-10",
     "qlist": [
       {
-        "question": "DİŞ KOPMASINDA HANGİSİ YANLIŞTIR?",
-        "options": [
-          "DİŞ ALKOL İLE  DEZENFEKTE EDİLİR",
-          "DİŞ KÖKÜNDEN TUTULMAZ",
-          "VARSA YAĞLI İNEK SÜTÜNDE SAKLANIR",
-          "VARSA YUMURTA AKINDA SAKLANIR",
-          "HASTANIN KENDİ TÜKRÜĞÜNDE MUHAFAZA EDİLİR"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "YARALANMALARDA YAPILAN UYGULAMALARDAN HANGİSİ DOĞRU DEĞİLDİR?",
-        "options": [
-          "KOPAN DİŞ KÖKÜNDEN TUTULMAMALI",
-          "BAŞ YARALANMASINDA ,BİLİNÇ AÇIKSA OMURGADA YARALANMA ŞÜPHESİ YOKSA ,SIRT ÜSTÜ RAHAT EDEBİLECEĞİ BİR POZİSYONDA BAŞ VE OMUZLARI HAFİF YÜKSELTİLİR",
-          "BOYUN VE OMURGA YARALANMASINDA ,BİLİNÇ AÇIKSA YARALININ BAŞ VE BOYNU SABİT TUTULUR",
-          "EZİLME YARALANMASINDA , BÖLGENİN DOLAŞIMINI SAĞLAMAK İÇİN HASTA HAREKET ETTİRİLİR",
-          "YARALIYA BOYUNLUK TAKILMAZ"
-        ],
-        "answer": 3
-      },
-      {
-        "question": "GÖĞÜS YARALANMASINDA HANGİSİ YAPILMAZ?",
-        "options": [
-          "HASTAYA OTURUR POZİSYON VERİLİR",
-          "HASTA YARANIN OLDUĞU TARAFA YAN OTURTULUR",
-          "EMİCİ GÖĞÜS YARALANMASINDA , ÜÇ TARAFI KAPALI  ALT TARAFI AÇIK TAMPON YAPILIR",
-          "BATMIŞ CİSİM VARSA ÇIKARTILIR",
-          "HASTANIN BİLİNCİ KAPANIRSA , YARANIN OLDUĞU TARAFA KURTARMA POZİSYONU VERİLİR"
-        ],
-        "answer": 3
-      }
+    "question": "1- Hasta/yaralı bir kişide solunum nasıl değerlendirilir?",
+    "options": [
+      "Hastanın ağzına bakılarak",
+      "Göğüs hareketleri izlenerek",
+      "Şah damarından nabzına bakılarak",
+      "Ağız ve burnuna ayna tutularak"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2- Sıcak çarpmasında ilkyardımda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Hasta serin ve havadar bir ortama alınır",
+      "Hastaya sıcak içecekler verilir",
+      "Hastanın ısı kaybını önleme için üzeri örtülür",
+      "Bilinci kapalıysa su ve tuz kaybını önlemek için sıvı verilir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "3- Bebeklerde başa pozisyon verirken hangisine dikkat edilmelidir?",
+    "options": [
+      "Baş arkaya doğru hafif bir eğim verilmelidir",
+      "Baş öne doğru eğilmelidir",
+      "Baş yan çevrilmelidir",
+      "Burun kapatılmalıdır"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "4- Bebeklerde solunum olmadığı anlaşıldığında tek ilkyardımcıysanız temel yaşam desteği aşağıdakilerden hangisi ile başlar?",
+    "options": [
+      "Bilinç Kontrolü ile",
+      "İki Kurtarıcı solunum ile",
+      "Derlenme pozisyonuna getirilerek",
+      "30 Kalp Basısı yapılarak"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "5- Bilinci açık ve hava yolunda tam tıkanıklık olan yetişkin bir hastaya ilkyardımda ne yapılmalıdır?",
+    "options": [
+      "Kalp masajı yapılır",
+      "Derlenme pozisyonu verilir",
+      "5 defa karına bası, 5 defa sırta vuruş uygulanır",
+      "Hastaya dokunulmaz öksürmeye teşvik edilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6- Bir yaşın altındaki bebeklerde göğüs kemiğinde belirlenen noktaya dış kalp masajı aşağıdaki tekniklerden hangisiyle uygulanır?",
+    "options": [
+      "Bir elin topuğu ile",
+      "İki elin topuğu ile",
+      "İki parmak ile",
+      "Üç parmak ile"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "7- Delici göğüs yaralanmalarında ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Yara kesinlikle kapatılmamalıdır",
+      "Yaranın üzeri tamamen kapatılmalıdı",
+      "Yaranın üzeri kurumaması için nemlendirici krem sürülmelidir",
+      "Yaranın üzeri üç tarafı kapalı bir tarafı açık olacak şekilde kapatılmalıdır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "8- Dış kalp masajı ve yapay solunuma ne zaman son verilir?",
+    "options": [
+      "10 dakika yapıldıktan sonra",
+      "Sağlık ekibi gelince",
+      "30 dakika yapıldıktan sonra",
+      "Polis gelince"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "9- Kan şekeri düşüklüğünde ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Bilinci açıksa su içmeye teşvik edilir",
+      "Hastanın bilinci yerinde ve kusmuyorsa ağızdan şekerli içecekler verilir",
+      "Nöbet geçiriyorsa şekerli içecekler verilir ya da yanında insülini varsa yapılır",
+      "Hepsi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10- İç kanamalarda ilkyardım uygulamalarında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Tıbbi yardım istenir",
+      "Hasta/yaralının yaşam bulguları değerlendirilir",
+      "Hasta/yaralıya yiyecek içecek verilir",
+      "Hasta/yaralının üzeri örtülü ve şok pozisyonu verilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "11- Solunum yolu kısmi tıkanmış kişide aşağıdakilerden hangisi görülür?",
+    "options": [
+      "Öksürür",
+      "Nefes alamaz",
+      "Konuşamaz",
+      "Karın ağrısı olur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "12- Yetişkin temel yaşam desteğinde aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Hasta yarı oturur pozisyona getirilir",
+      "Dış kalp masajı yapılır",
+      "Ağızda yabancı kontrolü",
+      "Suni solunum yapılır"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "13- Şok pozisyonu hangi durumda uygulanır?",
+    "options": [
+      "Kafa-omurga yaralanması olanlarda",
+      "Göğüs yaralanması olanlarda",
+      "Kalça ve bacaklarda yaralanma veya yaralanma kanıtı yoksa",
+      "Kalp krizi geçirenlerde"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "14- Aşağıdakilerden hangisi atardamar kanamasının özelliğidir?",
+    "options": [
+      "Kesik kesik kalp atımı ile uyumlu",
+      "Sızıntı şeklinde",
+      "Koyu renkli",
+      "Kendiliğinden duran"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "15- Bir trafik kazası sonucu oluşan yaralıya müdahale edilirken hangi durumda yaralı araçtan çıkarmalıyız?",
+    "options": [
+      "Yaralı sıkışmamış ve bir tehlike yoksa",
+      "Bilinci yerinde ise",
+      "Araçta patlama ve yangın riski varsa",
+      "Yaralın kanaması varsa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "16- El ve ayak kopmalarında kopan parça ne yapılmalıdır?",
+    "options": [
+      "Buz dolu bir kabın içine konulmalıdır",
+      "Savcı gelene kadar olay yerinde bırakılmalıdır",
+      "Su ile temas ettirilmez, önce temiz bir beze sarıp kuru bir poiete daha sonra buzlu su karışımı olan ikinci bir poşete konularak en geç 6 saat içerisinde hasta ile birlikte sağlık kuruluşuna sevki sağlanmalıdır",
+      "Kopan parça bir poşete konur ve polislere teslim edilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "17- İç kanmalarda ilkyardımcı aşağıdakilerden hangisinin uygulanması sakıncalıdır?",
+    "options": [
+      "Ağızdan sıvı verilerek kayıp önlenir",
+      "Şok pozisyonu verilir",
+      "Üzeri örtülerek vücut ısısı korunur",
+      "Hareket ettirilmez"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "18- Bebek,Çocuk, Yetişkinde göğüs basısı derinliği ne kadar olmalıdır?",
+    "options": [
+      "4 / 5 / 5-6",
+      "3 / 4 / 5-6",
+      "4 / 5 / 7",
+      "2 / 3 / 4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "19- Kafatası ve omurga yaralanmalarında ilkyardım nasıl olmalıdır?",
+    "options": [
+      "Bilinci açıksa yürütülerek hastaneye götürülür",
+      "Herhangi bir tehlike söz konusu ise kucakta taşıma tekniği ile taşınır",
+      "Baş-boyun-gövde ekseni bozulmamalıdır",
+      "Boyun kırığı varsa boyun düzeltilmelidir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "20- Hangisi kimyasal yanıklara örnektir?",
+    "options": [
+      "Elektrik ile oluşan yanık",
+      "Isınma ile oluşan yanıklar",
+      "Donma sonucu oluşan yanıklar",
+      "Asit-Alkali yada petrol ürünlerinden oluşan yanıklar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "21- Kavga sırasında bıçaklanan yetişkin bir kişinin ilk değerlendirilmesinde , karın tahta gibi sert ve çok ağrılı ise aşağıdakilerden hangisi ilk akla gelmelidir?",
+    "options": [
+      "Künt yaralanma",
+      "Delici(penetran) karın yaralanma",
+      "İç Kanama",
+      "Solunum yetmezliği"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "22- Elektrik yanıklarında yapılması yanlış olan aşağıdakilerden hangisi dir?",
+    "options": [
+      "Yaralı hızlıca olay yerinden uzaklaştırılmalıdır",
+      "Hasar gören bölge üzerine su dökülmelidir",
+      "Yaralıya dokunmadan önce elektrik akımı kesildiğinden emin olunmalıdır",
+      "Su toplamış yerler patlatılmamalıdır"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "23- Kırık olan bir hastada aşağıdakilerden hangisinin yapılması doğrudur?",
+    "options": [
+      "Kırık yer kalp seviyesinin altında tutulur",
+      "Kırık düzeltilmeye çalışılır",
+      "Atel (tespit) uygulanır",
+      "Kırık sıcak tutulmaya çalışılır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "24- Burkulmalarda aşağıdakilerden hangisi uygulanmaz?",
+    "options": [
+      "Baskılı bandaj uygulanır",
+      "Buz uygulaması yapılır",
+      "Buz uygulaması en fazla 20 dakika yapılır",
+      "Burkulma yerine masaj yapılmaz"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "25- Deri bütünlüğünün olmadığı, kemik uçlarının göründüğü kırık çeşidi hangisidir?",
+    "options": [
+      "Kapalı kırık",
+      "Açık kırık",
+      "Çıkık",
+      "Burkulma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "26- Başının döndüğünü hisseden birisine ilkyardımda ne yapılır?",
+    "options": [
+      "Sıkan giysiler gevşetilir",
+      "Kişiye şok pozisyonu verilir",
+      "Kendisini iyi hissedinceye kadar dinlendirilir",
+      "Hepsi yapılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "27- Aşağıdakilerden hangisi birden fazla kişi ile yapılan tekniklerden değildir?",
+    "options": [
+      "Altın Beşik Yöntemi",
+      "İtfaiyeci Yöntemi İle Taşıma",
+      "Sandalye İle Taşıma",
+      "Omuzdan Destek Alarak Taşıma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28- Göğüs Ağrısında İlk Yardım Nasıl Olmalıdır?",
+    "options": [
+      "Şok Pozisyonuna Getirilir",
+      "Hasta Rahat Edeceği Pozisyona Dinlenmeye Alınır",
+      "Hasta Derleme Pozisyonuna Alınır",
+      "Hastaya Temel Yaşam Desteği Uygulanır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "29- Solunum Yolu İle Zehirlenmelerde İlk Yardım Nasıl Olmalıdır?",
+    "options": [
+      "Hasta Temiz Havaya Çıkarılır",
+      "Yaşamsal Belirtiler Değerlendirilir",
+      "112 Aranır Aratılır",
+      "Hepsi Yapılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "30- Yukarıda tarifi verilen kaçıncı derece yanık türüdür? (Cildin tüm tabakaları etkilenmiştir...)",
+    "options": [
+      "Birinci Derece",
+      "İkinci Derece",
+      "Üçüncü Derece",
+      "Dördüncü Derece"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "31- Cilt Yolu İle Olan Zehirlenmelerde Hangisinin Yapılması Yanlıştır?",
+    "options": [
+      "Yaşam Bulguları Değerlendirilmelidir",
+      "Cilt 15-20 Dakika Boyunca Bol Suyla Yıkanmalıdır",
+      "Zehir Bulaşmış Giysiler Çıkarılmamalıdır",
+      "Tıbbi Yardım İstenir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "32- Aşağıdakilerden hangisi Termal Yanıklarda İlk Yardım Uygulamalarından Değildir?",
+    "options": [
+      "Ödem Oluşabileceği İçin Yüzük Bilezik Gibi Eşyalar Çıkarılır.",
+      "Soğutma İşlemi Yaparken Yaralının Isı Kaybetmesini Engellemek İçin Battaniye İle Örtülür",
+      "Şişmeyi Engellemek İçin Kollar Ve Bacaklar Kalp Seviyesinde Aşağıda Tutulur",
+      "Alev Almış Ve Hala Yanmakta Olan Yaralının Koşması Engellenir Ve Yede Yuvarlanması Sağlanır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "33- Kanamalarda İlk Yardımda Aşağıdakilerden Hangisi Yanlıştır?",
+    "options": [
+      "Kanayan Bölge Oda Sıcaklığında 15 Dakika Boyunca Su İle Yıkanır",
+      "Kanayan Yere Doğrudan Bası Uygulanır",
+      "Doğrudan Bası Uygulamak Yeterli Olmuyorsa Basınçlı Bandaj Uygulanır",
+      "Uzuv Kopması Varsa Turnike Uygulanır."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "34- Aşağıdaki Zehirlenme Yollarından Hangisinde İlk Yardımda Hastaya Yoğurt Yedirilmesi Yeterlidir?",
+    "options": [
+      "Solunum Yoluyla",
+      "Cilt Yoluyla",
+      "Sindirim Yoluyla",
+      "Hiçbiri"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "35- Bu durumda aşağıdakilerden hangisi vücut sistemleri arasında yer almaz?",
+    "options": [
+      "Boşaltım Sistemi",
+      "Doku-Hücre Sistemi",
+      "Kas-İskelet Sistemi",
+      "Sinir Sistemi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "36- Akrep Ve Yılan Sokmalarında İlk Yardım Uygulamasında Hangisi Doğrudur?",
+    "options": [
+      "Sokulan Bölge Hareket Ettirilmez",
+      "Sokulan Yer Dikey Olarak Kesilir Ve Emilir",
+      "Sokulan Bölgeye Sıcak Uygulama Yapılır",
+      "Sokulan Bölge Üzerine Turnike Uygulanır"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "37- Karbon Monoksit Zehirlenmesi Belirtileri Nelerdir?",
+    "options": [
+      "Aşırı Yorgunluk, Huzursuzluk, Grip Benzeri Durum",
+      "Bulantı, Baş Dönmesi Ve Koma",
+      "Cilt Ve Tırnaklarda Kiraz Rengi Renk",
+      "Hepsi Doğru"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "38- Arı Sokmalarında İlk Yardım Nasıl Olmalı?",
+    "options": [
+      "Sıcak Uygulama Yapılır",
+      "Bölgeye Soğuk Uygulama Yapılır",
+      "Arının İğnesi Görünüyorsa Çıkarılmamalıdır",
+      "Sokulan Bölgenin Üstünden Turnike Uygulanır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "39- Taşıma Teknikleri Uygulanırken Uyulması Gereken Kurallardan Hangisi Doğrudur?",
+    "options": [
+      "Yakın Mesafe Çalışılmalıdır",
+      "Kısa Kas Gurupları Kullanılmalıdır",
+      "Diz Ve Kalçalar Düz Pozisyonda Olmalıdır",
+      "Hiçbiri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "40- Suda Boğulmalarda İlk Yardımda Aşağıdakilerden Hangisi Yapılmalıdır?",
+    "options": [
+      "Solunum Yok İse Bir Şey Yapılmamalıdır",
+      "Kişi Nefes Almıyorsa Hemen Temel Yaşam Desteğine Başlanmalıdır",
+      "Mideye Yoğun Baskı Yaparak Su Çıkışı Sağlanmalıdır",
+      "Tıbbi Yardım İstemeye Gerek Yoktur"
+    ],
+    "answer": 1
+  }
     ]
   },
   "11": {
-    "title": "Bilinç Bozuklukları",
+    "title": "Temel Eğitim Teori Sınav Soruları-11",
     "qlist": [
       {
-        "question": "BİLİNÇ BOZUKLUĞU İLE İLGİLİ AŞAĞIDAKİLERDEN HANGİSİ YANLIŞTIR?",
-        "options": [
-          "HASTAYA ŞOK POZİSYONU VERİLİR",
-          "HASTAYA KURTARMA POZİSYONU VERİLİR",
-          "USAY YÖNTEMİ İLE KONTROL EDİLİR",
-          "112 GELENE KADAR 3-5DK.ARAYLA NABIZ KONTROLU YAPILIR",
-          "İLK YARDIMCI HASTANIN YANINDA BEKLER"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "KOAH ‘TA İLK YARDIMDA HANGİSİ YAPILMAZ?",
-        "options": [
-          "HASTA SIRT ÜSTÜ YATIRILIR",
-          "İLACI VARSA ALMASI SAĞLANIR",
-          "İLACINI ALINCA RAHATLAMAZ İSE 112 ARANIR",
-          "HASTA  OTURMA POZİSYONUNA GETİRİLİR",
-          "HASTANIN BİLİNCİ KAPANIR , FAKAT NEFES ALIYORSA KURTARMA POZİSYONU VERİLİR"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "ALLERJİK REAKSİYONDA HANGİSİNİN YAPILMASI DOĞRU DEĞİLDİR?",
-        "options": [
-          "HASTANIN YANINDA REÇETELİ OTOMATİK ENJEKTÖRLÜ İLACI VARSA YAPMASI SAĞLANIR",
-          "HASTA RAHAT POZİSTONDA OTURTULUR",
-          "ARI SOKMASI İLE  GELİŞEN ALLERJİLERDE  ARININ İĞNESİ GÖRÜNÜYOR İSE , İĞNE  ÇIKARTILMAZ",
-          "HASTA RAHATLAMAZ İSE 112 ARANIR/ARATILIR",
-          "HASTANIN BİLİNCİ KAPANIR,SOLUNUMU VARSA KURTARMA POZİSYONU VERİLİR"
-        ],
-        "answer": 2
-      },
-      {
-        "question": "HASTANIN BİLİNCİ TAMAMEN KAPALI, HİÇBİR UYARANA CEVAP VERMİYORSA BİLİNÇ NASILDIR?",
-        "options": [
-          "YANITSIZ",
-          "YARI AÇIK",
-          "YARI KAPALI",
-          "UYANIK",
-          "YARI UYANIK"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "SICAK ÇARPMASINDA HANGİSİ OLMAZ?",
-        "options": [
-          "UYKUYA MEYİL",
-          "PARLAK , CANLI SOĞUK DERİ ",
-          "KASLARDA HASSASİYET , KRAMP",
-          "GÖRME BOZUKLUĞU",
-          "ÇARPINTI"
-        ],
-        "answer": 1
-      },
-      {
-        "question": "AŞAĞIDAKİLEERDEN HANGİSİ İNME BELİRTİSİDİR?",
-        "options": [
-          "ANİ UYUŞMA",
-          "BAŞ AĞRISI",
-          "KONUŞMADA BOZUKLUK",
-          "GÖRMEDE BULANIKLIK",
-          "HEPSİ"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "İNME DEĞERLENDİRMEDE KULLANILAN (FAST) AÇILIMI NEDİR?",
-        "options": [
-          "YÜZ KONTROLÜ",
-          "KOL KONTROLÜ",
-          "TRANSFER",
-          "KONUŞMA KONTROLÜ",
-          "YÜZ,KOL,KONUŞMA,TRANSFER"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "HANGİSİ SICAK YORGUNLUĞU BELİRTİSİ DEĞİLDİR?",
-        "options": [
-          "AŞIRI TERLEME",
-          "KAS KRAMPLARI",
-          "UYKUYA MEYİL",
-          "HIZLI VE DOLGUN NABIZ",
-          "SOLGUNLUK"
-        ],
-        "answer": 3
-      },
-      {
-        "question": "BİLİNCİ KAPALI , SOLUNUMU VE NABZI OLAN HASTAYA HANGİ POZİSYON VERİLİR?",
-        "options": [
-          "ŞOK",
-          "OTURTULUR",
-          "KURTARMA, DERLEME,İYİLEŞME",
-          "YARI OTURTULUR",
-          "YAN OTURTULUR"
-        ],
-        "answer": 2
-      },
-      {
-        "question": "BİLİNÇ KONTROLÜ HANGİ YÖNTEMLE YAPILIR?",
-        "options": [
-          "USAY",
-          "FAST",
-          "US",
-          "AY",
-          "GÖZ TEMASI"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "KOAH ‘TA NE YAPILMAMALI?",
-        "options": [
-          "HASTA OTURTULUR",
-          "İLACI VARSA ALMASI SAĞLANIR",
-          "HASTA RAHATLAMAZ İSE 112 ARANIR",
-          "HASTA SIRT ÜSTÜ YATIRILIR",
-          "BİLİÇ KAPANIRSA , KURTARMA POZİSYONU VERİLİR"
-        ],
-        "answer": 3
-      },
-      {
-        "question": "ÇOCUKLUK ÇAĞI ATEŞİNDE HANGİ UYGULAMA YANLIŞTIR?",
-        "options": [
-          "ÇOCUĞUN KIYAFETLERİ ÜŞÜMEYİ ÖNLEMEK İÇİN ÇIKARTILMAZ",
-          "SOĞUK UYGULAMA YAPILIR",
-          "ÇOCUĞUN ETRAFI GÜVENLİ HALE GETİRİLİR",
-          "ÇOCUĞA KURTARMA POZİSYONU VERİLİR",
-          "BİLİNCİ AÇILMIYORSA 112 ARANIR"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "HANGİSİ İNME BELİRTİSİ DEĞİLDİR?",
-        "options": [
-          "KONUŞMA BOZUKLUĞU",
-          "BAŞ AĞRISI",
-          "YÜZDE ŞEKİL BOZUKLUĞU",
-          "KOLLARDA  HAREKET BOZUKLUĞU",
-          "HIZLI NEFES ALMA"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "KAN ŞEKERİ DÜŞÜKLÜĞÜNDE NE YAPILIR?",
-        "options": [
-          "BİLİNÇ AÇIKSA OTURTULUR, ŞEKER VERİLİR",
-          "ŞOK POZİSYONU VERİLİR",
-          "KURTARMA POZİSYONU VERİLİR",
-          "YARI OTURTULUR",
-          "SIRT ÜSTÜ YATIRILIR"
-        ],
-        "answer": 0
-      }
-    ]
+    "question": "1- Çok Kilolu Ve Kurtarıcıdan Daha İri Yapılı Hasta Yaralı Aşağıdaki Yöntemlerden Hangisi İle Taşınmalıdır?",
+    "options": [
+      "A- İtfaiyeci Yöntemi",
+      "B- Altınbeşik Yöntemi",
+      "C- Karşılıklı Durarak Yöntemi",
+      "D- Sürükleme Yöntemi"
+    ],
+    "answer": 3
   },
-  "12": {
-    "title": "Kırık-Çıkık-Burkulma-Zorlanma",
-    "qlist": [
-      {
-        "question": "HANGİSİ ÇIKIK SEBEBİDİR?",
-        "options": [
-          "DÜŞME , YARALANMA,TRAFİK KAZASI",
-          "KANAMA",
-          "ŞOK",
-          "HAYVAN ISIRMASI",
-          "KALP DURMASI"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "HANGİSİ ÇIKIK BELİRTİSİ DEĞİLDİR?",
-        "options": [
-          "ŞEKİL BOZUKLUĞU",
-          "AĞRI",
-          "ÖDEM",
-          "KAŞINTI,DÖKÜNTÜ",
-          "SICAKLIK,MORARMA"
-        ],
-        "answer": 3
-      },
-      {
-        "question": "ZORLAMA VE BURKULMALARDA YAPILAN UYGULAMALARDAN  HANGİSİ YANLIŞTIR?",
-        "options": [
-          "SOĞUK UYGULAMA YAPILIR",
-          "BASKILI BANDAJ YAPILMAZ",
-          "MASAJ YAPILIR",
-          "HASTA HAREKET ETTİRİLMEZ",
-          "HASTANIN DİNLENMESİ SAĞLANIR"
-        ],
-        "answer": 2
-      },
-      {
-        "question": "AŞAĞIDAKİLERDEN HANGİSİ KIRIK BELİRTİSİ DEĞİLDİR?",
-        "options": [
-          "AĞRI",
-          "ŞEKİL BOZUKLUĞU",
-          "ŞİŞME",
-          "KANAMA",
-          "ENFEKSİYON"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "BURKULMALARDA HANGİSİ YANLIŞTIR?",
-        "options": [
-          "SOĞUK UYGLAMA YAPILIR",
-          "SICAK UYGULAMA YAPILIR",
-          "BASKILI BADAJ YAPILMAZ",
-          "MASAJ YAPILMAZ",
-          "İSTİRAHAT ETTİRİLİR"
-        ],
-        "answer": 1
-      },
-      {
-        "question": "EKLEMİ OLUŞTURAN KEMİKLERİN YER DEĞİŞTİRMESİ NEDENİ İLE, EKLEM YÜZEYLERİNİN ARTIK BİRBİRLERİ İLE TEMAS ETMEYECEK ŞEKİLDE TAMAMEN BOZULMASINA NEDENDİR?",
-        "options": [
-          "ÇIKIK",
-          "BURKULMA",
-          "ZORLAMA",
-          "KIRIK",
-          "LİF KOPMASI"
-        ],
-        "answer": 0
-      }
-    ]
+  {
+    "question": "2- Çocuklarda Temel Yaşam Desteği İle İlgili Aşağıdakilerden Hangisi Yanlıştır?",
+    "options": [
+      "A- Göğüs Basısı Çocuğun Durumuna Göre Tek El Yeterli Gelmiyorsa İki El Tekniği Şeklinde Uygulanır",
+      "B- Göğüs Kafesi 1/3 Oranında 5 Cm Olacak Şekilde Ölçülür",
+      "C- İki İlk Yardımcı Varlığında Göğüs Basısı Suni Solunum Onaranı 15:2 Olacak Şekilde Uygulanır",
+      "D- Göğüs Basısı İki Baş Parmak Veya İki Parmak Tekniği Kullanılarak Yapılır"
+    ],
+    "answer": 3
   },
-  "13": {
-    "title": "Böcek Sokması- Hayvan Isırması",
-    "qlist": [
-      {
-        "question": "KENE ISIRMALARINDA İLK YARDIMDA HANGİSİ DOĞRUDUR?",
-        "options": [
-          "ÇIPLAK ELLE MÜDALE EDİLİR",
-          "KENE EZİLİR",
-          "CİLT SIKILARAK KENE ÇIKARTILIR",
-          "PARMAKLA İYİCE KAVRANARAK ÇIKARTILIR",
-          "CIMBIZLA , KENENİN ÇENESİ VE BAŞI SIKICA KAVRANIR VE PARÇALANMADAN ÇIKARTILIR"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "ÖRÜMCEK ISIRMASINDA HANGİSİ YAPILMAMALI?",
-        "options": [
-          "SOĞUK UYGULAMA",
-          "SICAK UYGULAMA",
-          "SU VE SABUNLA YIKANIR",
-          "DOLAŞIMI ENGELLEMEYEN BANDAJ YAPILIR",
-          "DOLAŞIMI ENGELLEMEYEN BANDAJ YAPILIR"
-        ],
-        "answer": 1
-      },
-      {
-        "question": "BÖCEK SOKMASINDA HANGİSİ LOKAL (YEREL)BELİRTİ DEĞİLDİR?",
-        "options": [
-          "BAYILMA",
-          "AĞRI",
-          "ŞİŞME",
-          "KIZARIKLIK",
-          "KAŞINTI,KABARIKLIK"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "BÖCEK ISIRMALARI VE SOKMALARINDA HANGİSİ YAPILMAZ?",
-        "options": [
-          "YILAN SOKMASINDA SOĞUK SU UYGULANMAZ",
-          "DENİZANASI SOKMASINDA TATLI SU İLE MÜDAHALE EDİLMEZ",
-          "KENE ISIRMASINDA , ATEŞ, BENZİN , VAZELİN VB..İLE MÜDAHALE EDİLMEZ",
-          "SOKULAN YER KESİLİR,EMİLİR,KANATILIR",
-          "AKREP SOKMASINDA VARSA AĞRI KESİCİ VERİLİR"
-        ],
-        "answer": 4
-      }
-    ]
+  {
+    "question": "3- Hasta Yaralının Değerlendirilmesinde İlk Önce Aşağıdakilerden Hangisi Kontrol Edilmelidir?",
+    "options": [
+      "A- Solunum Yolu Açıklığı",
+      "B- Bilinç Durumu",
+      "C- Solunum Durumu",
+      "D- Kanama Kontrolü"
+    ],
+    "answer": 1
   },
-  "14": {
-    "title": "Yanıklar",
-    "qlist": [
-      {
-        "question": "SU TOPLAMIŞ YANIKTA HANGİSİNİN YAPILMASI DOĞRUDUR?",
-        "options": [
-          "BÜLLER PATLATILIR",
-          "YANIK MERHEMİ SÜRÜLÜR",
-          "YANIK OLAN YERE BANDAJ YAPILIR",
-          "BİLİNÇ KONTROLÜ",
-          "HEPSİ"
-        ],
-        "answer": 3
-      },
-      {
-        "question": "YANIKLAR KAÇ DERECEDİR?",
-        "options": [
-          "5",
-          "3",
-          "2",
-          "4",
-          "1"
-        ],
-        "answer": 3
-      },
-      {
-        "question": "YANIKLARDA HANGİSİ YANLIŞTIR?",
-        "options": [
-          "BÜLLER PATLATILIR",
-          "SIKI BANDAJ YAPILMAZ",
-          "KOLLAR VE AYAKLARDA YANIK  VARSA , 24-48 SAAT YUKARDA TUTULUR",
-          "KIYAFET , SOĞUTMA İŞLEMİNDEN SONRA ÇIKARTILIR",
-          "YANIK PARMKLARDA İSE , TEK TEK SARMA İŞLEMİ YAPILIR"
-        ],
-        "answer": 0
-      }
-    ]
+  {
+    "question": "4- Hasta Yarılının Değerlendirilmesinde Amaç Nedir?",
+    "options": [
+      "A- Hayatı Korumak",
+      "B- Sağlık Durumunun Kötüleşmesini Engellemek",
+      "C- İyileşmesine Destek Olmak",
+      "D- Hepsi"
+    ],
+    "answer": 3
   },
-  "15": {
-    "title": "Zehirlenmeler",
-    "qlist": [
-      {
-        "question": "SOLUNUM YOLU ZEHİRLENMESİNİN EN AYIRT EDİCİ ÖZELLİĞİ NEDİR?",
-        "options": [
-          "BİLİNÇ KAYBI",
-          "MİDE BULANTISI",
-          "KİRAZ KIRMIZI DUDAKLAR",
-          "ŞİŞKİNLİK",
-          "KUSMA"
-        ],
-        "answer": 2
-      },
-      {
-        "question": "AŞAĞIDAKİLERDENH HANGİSİ ALKOL ZEHİRLENMESİNİN BELİRTİSİ DEĞİLDİR?",
-        "options": [
-          "KAN ŞEKERİ YÜKSEKLİĞİ",
-          "KIZARIK NEMLİ YÜZ",
-          "VÜCUT SICAKLIĞINDA DÜŞME",
-          "BİLİNÇ KAYBI",
-          "DERİN , GÜRÜLTÜLÜ SOLUNUM"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "ZEHİRLENMELERDE İLK YARDIMCININ İLK YAPMASI GEREKEN NEDİR?",
-        "options": [
-          "İLK YARDIMCI ÖNCE KENDİ GÜVENLİĞİNİ SAĞLAR",
-          "ÇEVRE GÜVENLİĞİNİ SAĞLAR",
-          "ORTAMI HAVALANDIRIR",
-          "CİLDİ SUYLA BOLCA YIKAR",
-          "HASTANIN KIYAFETLERİNİ ÇIKARTIR"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "EN SIK RASTLANAN ZEHİRLENME HANGİSİDİR?",
-        "options": [
-          "SOLUNUM YOLU ZEHİRLENMESİ",
-          "SİNDİRİM YOLU ZEHİRLENMESİ",
-          "CİLT YOLU ZEHİRLENMESİ",
-          "GÖZ ZEHİRLENMESİ",
-          "ENJEKSİYON YOLU ZEHİRLENMESİ"
-        ],
-        "answer": 1
-      }
-    ]
+  {
+    "question": "5- Bilinci Kapalı Solunumu Var Olan Bir Hastaya Hangi Pozisyon Verilir?",
+    "options": [
+      "A- Yüzüstü Yatar Pozisyon",
+      "B- Sırtüstü Yatar Pozisyon",
+      "C- Kurtarma Derleme Pozisyonu",
+      "D- Yarı Oturur Pozisyon"
+    ],
+    "answer": 2
   },
-  "16": {
-    "title": "Göz,Kulak,Burun Yabancı Cisim Kaçması",
-    "qlist": [
-      {
-        "question": "YABANCI CİSİM YUTMASINDA HANGİSİ YAPILMAZ?",
-        "options": [
-          "AĞIZDAN YİYECEK İÇECEK VERİLMEZ",
-          "HASTA KUSTURULARAK RAHATLATILIR",
-          "HASTA TAKİP EDİLİR",
-          "DURUMU DÜZELMEZ İSE , 112 ARANIR/ARATILIR",
-          "BİLİÇ KAPANIR İSE KURTARMA POZİSYONU VERİLİR"
-        ],
-        "answer": 1
-      },
-      {
-        "question": "KULAĞA YABANCI CİSİM KAÇMASINDA HANGİSİ OLMAZ?",
-        "options": [
-          "YÜZDE ŞEKİL BOZUKLUĞU",
-          "KANAMA",
-          "İŞİTME SORUNU",
-          "KAŞINTI",
-          "AĞRI"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "GÖZE CİSİM KAÇMASINDA NE YAPILIR?",
-        "options": [
-          "GÖZ BOL SUYLA YIKANIR",
-          "GÖZ KAPAĞI HAREKETLERİ YAPTIRILIR",
-          "BİR KABIN İÇİNE SU KONARAK GÖZ SUYUN İÇİNDE AÇIP KAPATILIR",
-          "TEMİZ BEZLE İÇTEN DIŞA ALMAYA ÇALIŞILIR",
-          "HEPSİ DOĞRU"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "HANGİSİ KULAĞA YABANCI CİSİM KAÇMASININ BELİTİSİ DEĞİLDİR?",
-        "options": [
-          "KULAKTA AĞRI",
-          "KANAMA",
-          "KAŞINTI",
-          "GÖRME BOZUKLUĞU",
-          "HIŞIRTILI SES DUYMA"
-        ],
-        "answer": 3
-      },
-      {
-        "question": "BURNA YABANCI CİSİM KAÇMASINDA NE OLMAZ?",
-        "options": [
-          "ŞEKİL BOZUKLUĞU VE ŞİŞLİK",
-          "BURUN KANAMASI",
-          "GÖZLERDE YAŞARMA ",
-          "ZOR VE GÜRÜLTÜLÜ SOLUNUM ",
-          "BAŞ  AĞRISI"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "KULAĞA YABANCI CİSİM KAÇMASINDA NE YAPILMAZ?",
-        "options": [
-          "KİŞİNİN SAKİNLEŞMESİNİ SAĞLAYIN",
-          "YABANCI CİSİM TAMAMEN DIŞARDA GÖRÜNÜYORSA VE ALABİLECEĞİNİZDEN EMİNSENİZ İÇE İLERLETMEDEN ALMAYA ÇALIŞIN",
-          "KULAKTA BÖCEK VARSA ETKİLENEN KULAĞI ÜST KISIMDA TUTARAK KULAĞA ILIK SU DÖKÜN",
-          "KULAKTAKİ YABANCI CİSİM ÇIKARTILAMIYORSA YA DA BÖCEK ÇIKMIYORSA HASTAYI BİR SAĞLIK KURULUŞUNA YÖNLENDİRİN",
-          "KULAKTAKİ CİSİM ZORLA ÇIKARTILMAYA ÇALIŞILIR"
-        ],
-        "answer": 4
-      },
-      {
-        "question": "GÖZE YABANCI CİSİM KAÇMASINDA HANGİSİ YANLIŞTIR?",
-        "options": [
-          "HASTA/YARALIYI EN YAKIN SAĞLIK KURULUŞUNA YÖNLENDİRİN",
-          "GÖZÜ İNCE BİR GAZLI BEZ VEYA KAĞIT BARDAK İLE KAPATIN",
-          "GÖZE BATMIŞ BİR YABANCI CİSME DOKUNULMAZ VE ÇIKARILMAYA ÇALIŞILMAZ",
-          "KAŞIYARAK RAHATLATILIR",
-          "GÖZ ASLA OVALANMAZ "
-        ],
-        "answer": 3
-      }
+  {
+    "question": "6- Aşağıdakilerden Hangisi Birden Fazla Kişi İle Yapılan Taşıma Tekniklerinden Değildir?",
+    "options": [
+      "A- Altın Beşik Yöntemi İle Taşıma",
+      "B- İtfaiyeci Yöntemi İle Taşıma",
+      "C- Sandalye İle Taşıma",
+      "D- Tezkereci Yöntemi İle Taşıma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "7- I. Hayatı Korumak II. Sağlık Durumunun Kötüleşmesini Önlemek III. İyileşmeye Destek Olmak Ve 112 Acil Sağlık Ekibi Gelinceye Kadar Yardımcı Olmak Yukarıda Verilen Bilgilerden Hangileri İlk Yardımımın Amaçlarındandır?",
+    "options": [
+      "A- I Ve II",
+      "B- I Ve III",
+      "C- II Ve III",
+      "D- I,II Ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "8- Aşağıdakilerden Hangisi İlk Yardımcının Tanımı İçinde Yer Almaz?",
+    "options": [
+      "A- Bakanlıkça Belirlenen Standartlara Uygun Eğitim Alan Kişiler",
+      "B- İlk Yardım Eğitimi Çerçevesinde Uygulama Yapabilen Kişierdir",
+      "C- İlk Yardım Yetki Belgesine Sahip Kişilerdir",
+      "D- Hasta- Yaralıya İlaç Ve Tıbbi Uygulama Yapan Kişidir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "9- Elektrik Yanıklarında İlk Yardım Uygulamalarında Aşağıdakilerden Hangisi İlk Yapılmalıdır?",
+    "options": [
+      "A- Yaralıya Dokunmadan Önce Elektrik Akımı Kesilmelidir",
+      "B- Su Toplamış Yerler Patlatılmalıdır",
+      "C- Yaralı Sıcak Tutulur, Ancak Aşırı Isıtılmaz",
+      "D- Hasta-Yaralı Hareket Ettirilmelidir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "10- Hasta-Yaralı Değerlendirilmesinde Solunum Yoksa Ne Yapılır?",
+    "options": [
+      "A- Hemen Temel Yaşam Desteği Uygulanır",
+      "B- Hemen Bilinç Kontrolü Yapılır",
+      "C- Hemen 5 Defa Sırt Vuruşu Uygulanır",
+      "D- Hemen Rentek Manevrası Uygulanır"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "11- Hava yolu tam tıkanık olan bir hastaya hangi ilk yardım uygulaması yapılmalıdır?",
+    "options": [
+      "A- Kalp masajı yapılır",
+      "B- Karın bası ve sırt vuruşu yapılır",
+      "C- Rentek manevrası uygulanır",
+      "D- Hasta öksürmeye teşvik edilir"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "12- Sıcak yorgunluğunda bol su içilmesi neden önemlidir?",
+    "options": [
+      "A- Vücut sıcaklığını arttırmak için",
+      "B- Dehidrasyonu önlemek için",
+      "C- Açlık hissini gidermek için",
+      "D- Yüksek tansiyonu düşürmek için"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13- Bilinci kapalı olan hasta-yaralıda hava yolu açıklığı nasıl sağlanır?",
+    "options": [
+      "A- Baş çene yukarı pozisyonu vererek",
+      "B- 2 kurtarıcı soluk vererek",
+      "C- Bak dinle hisset moduyla",
+      "D- Şok pozisyonu vererek"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "14- Hangi durumda turnike uygulanmaz?",
+    "options": [
+      "A- Çok sayıda yaralının olduğu bir ortamda tek ilk yardımcı var ise",
+      "B- Yaralı güç koşullarda bir yere taşınacak ise",
+      "C- Doğrudan bası ve basınçlı bandaj ile durdurulabilecek kanamalarda",
+      "D- Uzuv kopması varsa ve bası noktalarına baskı uygulamak yeterli olmuyor ise"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "15- Yetişkinlere ve bebeklere yapılan temel yaşam desteği uygulamasında göğüs kemiği kaç cm aşağı inecek şekilde kalp basısı uygulanır?",
+    "options": [
+      "A- 3-4 cm -2cm",
+      "B- 4-5 cm -3cm",
+      "C- 5-6 cm - 4cm",
+      "D- 5-6 cm -5cm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "16- yüksek ateş nedeni ile oluşan çocukluk çağı nöbetinde doğru uygulama aşağıdakilerden hangisidir?",
+    "options": [
+      "A- Hasta soğuk su dolu küvete konur",
+      "B- Üzeri iyice örtülür",
+      "C- Buzlu içecek verilir",
+      "D- Oda sıcaklığında su ve temiz havlu ile vücut sıcaklığı düşürülmeye çalışılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "17- Kanamanın ciddiyeti aşağıdaki durumların hangisine bağlı değildir?",
+    "options": [
+      "A- Kanamanın hızına",
+      "B- Vücutta kanın aktığı bölgeye",
+      "C- Kan grubuna",
+      "D- Kişinin fiziksel durumuna ve yaşına"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "18- Deniz canlısı sokmalarında ilk yardım uygulamasında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A- Etkilenen bölgeye turnike uygulanır",
+      "B- Yaralı bölge hareket ettirerek kanlanması sağlanır",
+      "C- Yaralı bölgeye soğuk uygulaması yapılır",
+      "D- Denizanasının dokunaçları çıkarılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "19- Patlama yangın ve solunumun durması gibi hayati tehdit oluşan bir durum söz konusu ise araç içerisindeki hasta -yaralının özellikle omurgasını koruyarak tahliye edilmesini sağlayan taşıma tekniği hangisidir?",
+    "options": [
+      "A- rentek manevrası",
+      "B- ayaklarından tutarak sürükleme",
+      "C- kucakta taşıma",
+      "D- heimlich manevrası"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "20- Çocuklarda temel yaşam desteği uygulanırken göğüs kemiğinde belirlenen noktaya göğüs basısı aşağıdaki tekniklerin hangisiyle uygulanır?",
+    "options": [
+      "A- Bir elin topuğu ile",
+      "B- İki eli birleştirip güçlü olan elin topuğu ile",
+      "C- İki elin baş parmağı ile",
+      "D- İşaret ve orta parmakla"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "21- I. aşırı yorgunluk, keyifsizlik, grip benzeri durum II. bulantı, baş dönmesi, karıncalanma III. cilt ve tırnaklarda kiraz kırmızısı renk IV. ödem, titreme, göz bebeklerinde küçülme Karbon monoksit zehirlenmesinin belirtileri aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A- I ve II",
+      "B- II ve III",
+      "C- I, II ve III",
+      "D- I, II, III, IV"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "22- Aşağıdaki durumların hangisinde OED cihazı kullanılmaz?",
+    "options": [
+      "A- Gebeler ve kalp pili olan hastalar",
+      "B- 6 aydan küçük bebekler",
+      "C- Yanıcı gazların bulunduğu veya yoğun oksijenin olduğu ortamlarda",
+      "D- OED’ nin çocuklar için uygun petleri ulunmuyorsa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "23- Göze yabancı cisim batması varsa yada metal parçası çıkışmışsa ilk yardım nasıl olmalıdır?",
+    "options": [
+      "A- Yumuşak ve nemli bir bezle çıkarılmaya çalışılır",
+      "B- Cımbız yardımıyla çıkarılmaya çalışılır",
+      "C- Göz temiz su ile burun tarafından başlayarak dışa doğru yıkanır",
+      "D- Göze dokunulmaz tıbbi yardım istenir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "24- Aşağıdakilerden hangisi akrep sokmalarında il yardım uygulamaları için yanlıştır?",
+    "options": [
+      "A- hastayı sakinleştirerek hareketsiz uygun pozisyonda tutulur",
+      "B- Sokulan bölge sabunlu sıcak suyla 15-20 dakika ovularak yıkanır",
+      "C- Akrebin oktuğu yere kan dolaşımını engellemeyecek şekilde bandaj uygulanır",
+      "D- sokulan bölgeye 15 dakika soğuk uygulama yapılır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "25- 112 aranması sırasında yapılması yanlış olan hangisidir?",
+    "options": [
+      "A- Yavaş sakin net olunmalıdır",
+      "B- Telefon hemen kapatılarak müdahale edilmelidir",
+      "C- Olaya dair açıklamalar yapılmalı ( trafik kazası , yüksekten düşme vs.)",
+      "D- Hasta ve yaralı sayısı ve konum bilgisi verilmeli"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "26- Bilinci kapalı yada yürümeyen hasta-yaralıyı taşımak gerekirse aşağıdakilerden hangisi uygun taşıma tekniğidir?",
+    "options": [
+      "A- Kollarından asılarak sürükleme",
+      "B- Hemlich yöntemiyle taşıma",
+      "C- Rentek yöntemiyle taşıma",
+      "D- İtfaiyeci yöntemiyle taşıma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "27- Hipotermi nedir?",
+    "options": [
+      "A- Soğuk havada kalma durum",
+      "B- Vücut sıcaklığının 35 derece altına düşmesi",
+      "C- Ateşli bir hastalık durumu",
+      "D- Vücut sıcaklığının normal seviyede olması"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28- Hastanın bilinci açık ve olay yerinde iki ilk yardımcı mevcut ve hasta-yaralının ciddi bir yara yoksa kendisi de yardım edebiliyorsa aşağıdaki taşıma tekniklerinden hangisi daha uygundur?",
+    "options": [
+      "A- İtfaiyeci yöntemi",
+      "B- Altın beşik yöntemi",
+      "C- Kucakta taşıma yöntemi",
+      "D- Sürükleme"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "29- Kişinin istemi dışında vücut kaslarının bir bölümünün yada tamamının sarsılarak kasılmasına ne ad verilir?",
+    "options": [
+      "A- Anafilaksi",
+      "B- Bilinç bozukluğu",
+      "C- Sara (epilepsi)",
+      "D- Çocukluk çağı (ateşe bağlı) nöbeti"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "30- Yetişkinlerde kalp masajı uygulaması hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A- Dakikada 100-120 bası olacak şekilde olmalıdır",
+      "B- Kalp masajı ve solunum oranı 30/2 olmalıdır",
+      "C- Göğüs kafesinin 5-6 cm kadar çökertilmelidir",
+      "D- Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "31- Delici karın yaralanmalarında ilk yardımda aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A- Isı kaybını önlemek için hastanın üzeri örtülür",
+      "B- Ağızdan hiçbir şey verilmez",
+      "C- Yaşam bulguları sık sık değerlendirilir",
+      "D- Dışarı çıkan organlar içeri sokularak üzeri örtülür"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "32- Hasta -yaralı değerlendirilirken solunum yoksa ne yapılır?",
+    "options": [
+      "A- Hemen temel yaşam desteği uygulanır",
+      "B- Hemen bilinç kontrolü yapılır",
+      "C- Hemen şok pozisyonu verilir",
+      "D- Kollarından asılarak sürüklenir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "33- Donmalarda ilk yardım olarak donmuş kişideki donmuş alan çözülmüşse ne yapılmalıdır?",
+    "options": [
+      "A- El ve ayak parmakları temiz bandajla nazikçe sarılır",
+      "B- Etkilenen bölge ovularak ısıtılır",
+      "C- Sıcak suya sokularak rahatlaması sağlanır",
+      "D- Ateş düşürcü verilir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "34- Elektrik yanıklarında ilk yardım nasıl olmalıdır?",
+    "options": [
+      "A- Su toplamış yerler patlatılmalıdır",
+      "B- Yaralıya dokunmadan önce elektrik akımı kesilmelidir",
+      "C- Hasar gören bölgenin üzeri açık bırakılmalıdır",
+      "D- Hasta- yaralı hareket ettirilip taşınmalıdır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "35- Derlenme pozisyonu nedir?",
+    "options": [
+      "A- Yarı oturur yan pozisyon",
+      "B- Sırt üstü yan yatar pozisyon",
+      "C- Sabit yan yatar pozisyon",
+      "D- Yüzükoyun yan yatar pozisyon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "36- Aşağıdaki hangi durumda şok pozisyonu (bacakların yukarı kaldırılması) verilir?",
+    "options": [
+      "A- Kafatası ve omurga yaralanması",
+      "B- Göğüs yaralanması",
+      "C- Kalp krizi",
+      "D- İç kanaması olanlar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "37- Kalp hücreleri oksijensiz kalmaya ne kadar süre dayanabilir?",
+    "options": [
+      "A- 4-6 dakika",
+      "B- 30 dakika",
+      "C- 40 dakika",
+      "D- 10 dakika"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "38- Hangi hayvan ısırığında soğuk veya buz uygulaması yapılmaz?",
+    "options": [
+      "A- Örümcek ısırmalarında",
+      "B- Yılan ısırmalarında",
+      "C- Arı Sokmalarında",
+      "D- Akrep sokmalarında"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "39- Aşağıdaki yanık türlerinden hangisinde etkilenen madde uzaklaştırılana kadar yanmaya devam eder?",
+    "options": [
+      "A- Temel yanıklar",
+      "B- Kimyasal yanıklar",
+      "C- Elektrik yanıkları",
+      "D- Alkali yanıklar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "40- Hidroklorik asit ( tuz ruhu ) ile oluşan yanıklarda hangi ilk yardım uygulaması yapılır?",
+    "options": [
+      "A- Etkilenen bölge bol su ile yıkanır",
+      "B- Etkilenen bölge yıkandıktan sonra 15-20 buzlu su ile bekletilir",
+      "C- Etkilenen bölge yıkandıktan sonra 15-20 sıcak su ile bekletilir",
+      "D- Etkilenen bölge yıkandıktan sonra 15-20 alkol- su karışımında bekletilir"
+    ],
+    "answer": 1
+  }
     ]
   }
 }
