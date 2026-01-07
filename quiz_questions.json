@@ -1,26 +1,24 @@
 {
   "1": {
-    "title": "Genel İlk Yardım Bilgileri",
+    "title": "ANTALYA İLK YARDIM TEMEL EĞİTİMİ TEORİ SINAV SORULARI-1",
     "qlist": [
       {
-        "question": "Olay yerinde müdahale sırasında aşağıdakilerden hangisi yanlıştır?",
+        "question": "Hangisi ilkyardımın öncelikli amaçlarındandır?",
         "options": [
-          "İlk yardımcı bütün uygulamaları trafik kurallarına uymadan hemen yapar.",
-          "İlk yardımcı ilk önce kendi güvenliğini sağlar.",
-          "İlk yardımcı olay yerinde hırsızlığa karşı dikkatli olur.",
-          "İlk yardımcı tehlikeyi kendi ortadan kaldıramıyorsa 112'den yardım ister.",
-          "İlk yardımcı müdahale sırasında iyi iletişim becerilerini kullanır."
+          "Su isteyen yaralılara su vermek",
+          "İyileştirmeyi kolaylaştırmak için yaralara ilaç sürmek",
+          "Yaralıyı bir an önce hastaneye yetiştirmek",
+          "En yakın sağlık kuruluşuna ulaşımını sağlamak",
         ],
-        "answer": 0
+        "answer": 3
       },
       {
-        "question": "Acil durumda hasta/yaralı değerlendirme ile ilgili hangisi yanlıştır?",
+        "question": "Aşağıdakilerden hangisi suda boğulmalarda yapılan ilkyardımda yanlıştır?",
         "options": [
-          "3 aşamada yapılır.",
-          "1. aşamada yaşamı tehdit eden durum varlığı kontrol edilir.",
-          "2. aşamada vücut kontrolü yapılır.",
-          "3. aşamada hastanın hikayesi öğrenilir.",
-          "1. aşamada hastanın tüm vücudu değerlendirilir."
+          "Kendimizin can güvenliğini sağlamalıyız",
+          "Hastanın akciğerlerindeki suyu çıkartmalıyız",
+          "Tek başınaysanız bağın veya yardım çağırın ancak H/Y yalnız bırakmayın",
+          "Kişi sudan çıkarıldıktan sonra nefes alıyorsa derlenme pozisyonuna getirin.",
         ],
         "answer": 4
       },
