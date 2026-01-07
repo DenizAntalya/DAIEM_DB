@@ -404,86 +404,409 @@
       }
     ]
   },
-  "2": {
-    "title": "Vücut Sistemleri",
+   "2": {
+    "title": "Temel Eğitim Teori Sınav Soruları-2",
     "qlist": [
-      {
-        "question": "ANİDEN KALP DURMASI NIN SEBEBİ HANGİSİDİR?",
-        "options": [
-          "KALP KÖKENLİ SORUNLAR, KALP KRİZİ",
-          "SOLUNUM KÖKENLİ SORUNLAR",
-          "AŞIRI HEYECAN",
-          "BAYILMA",
-          "BİLİNÇ BOZUKLUĞU"
-        ],
-        "answer": 0
+       {
+    "question": "Erişkin bir kazazedede yaşam belirtisi ve solunum yoksa ne yapılmalıdır?",
+    "options": [
+      "Ailesine haber verilmelidir",
+      "Temel Yaşam Desteğine başlanmalıdır",
+      "İlk olarak 2 kurtarıcı soluk verilmelidir",
+      "Derlenme pozisyonu verilmelidir"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kısa mesafede süratli taşıma tekniklerinden birisi değildir?",
+    "options": [
+      "Kaşık tekniği",
+      "Kucakta taşıma",
+      "İtfaiyeci yöntemi",
+      "Altın Beşik yöntemi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Donma başlangıcında hangisi gözlenmez?",
+    "options": [
+      "Ciltte soğukluk solukluk",
+      "Uyuşma ve beyazlaşma",
+      "İğnelenme ve zonklama",
+      "Ciltte kızarıklık, ağrı ve içi su dolu kabarcıklar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi ilkyardımın öncelikli amaçları arasında yer alır?",
+    "options": [
+      "H/Y'yı durumunun kötüye gitmesini önlemek",
+      "H/Y yı en iyi hastaneye götürmek",
+      "H/Y nın yakınlarına haber vermek",
+      "H/Y ya ilaç temin etmek"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yetişkin hasta/yaralıda kalp masajı uygulanacak bölgedir?",
+    "options": [
+      "Göğüs kemiğinin üst noktasının 3 parmak altına",
+      "Göğüs kemiğinin alt ve üst ucu tespit edilerek üst yarısına",
+      "Göğüs kemiğinin alt ve üst ucu tespit edilerek alt yarısına",
+      "Göğüs kemiğinin ortasına"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Çocuklarda egzersize bağlı olarak sıcak çarpmasında yapılacak uygulamalardan hangisi doğrudur?",
+    "options": [
+      "Başından itibaren buzlu suya sokulur",
+      "Sadece kolları ve bacakları suya sokulur",
+      "Baş ve göğsün üst kısmı dışarıda kalacak şekilde buzlu suya sokulur",
+      "Yiyecek içecek verilmez"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Bak-dinle-hisset yöntemi içerisinde aşağıdaki uygulamalardan hangisi yer almaz?",
+    "options": [
+      "H/Y şah damarından nabız kontrolü yapmak",
+      "H/Y göğüs kafesinin hareketlerini izlemek",
+      "H/Y solunum sesini dinlemek",
+      "H/Y nefesini yanağınızda hissetmeye çalışmak"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aşağıdakilerden hangisi akrep sokmalarında ilkyardım uygulamaları için doğrudur?",
+    "options": [
+      "Sokulan bölgeye sıcak uygulama yapılır.",
+      "Akrebin soktuğu yere kesi uygulanır.",
+      "Sokulan bölgeden zehir emilerek uzaklaştırılır.",
+      "Hasta hareketsiz uygun pozisyonda tutulur."
+    ],
+    "answer": 3
       },
       {
-        "question": "KAS İSKELET SİSTEMİNİN GÖREVİ NEDİR?",
-        "options": [
-          "HAREKETİ SAĞLAR/VÜCUT ŞEKLİNİ KORUR",
-          "OKSİJENİ TAŞIR",
-          "OMURGAYA ŞEKİL VERİR",
-          "SOLUNUMU SAĞLAR",
-          "TERLEMEYİ KONTROL EDER"
-        ],
-        "answer": 0
-      },
+    "question": "Çocuklarda yalnızca kalp basısı uygulaması nasıl olmalıdır?",
+    "options": [
+      "Göğüs kemiğinin alt yarısına ve tek elle yapılmalı",
+      "Dakikada 100-120 bası olacak ritimde yapılmalı",
+      "Göğüs kemiği 5 santim çökecek şekilde olmalı",
+      "Hepsi doğru"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hava yolu açıklığı nasıl sağlanır?",
+    "options": [
+      "Baş-çene pozisyonu ile sağlanır",
+      "Dil dışarı çekilir",
+      "Temel yaşam desteği",
+      "Suni solunum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "İlkyardımcı yalnız ise, bilinci kapalı yetişkin bir H/Y karşılaşması durumunda 112’yi ne zaman aramalıdır?",
+    "options": [
+      "30:2 kalp basısı ve suni solunum uygulamasının 5 tur tekrarından sonra",
+      "Bilinç kontrolü yapıldıktan hemen sonra",
+      "Bak-dinle-hisset yöntemi ile solunum kontrolü yaptıktan sonra",
+      "Temel yaşam desteğini uygulamaktan yorulduğu zaman"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kazazedenin bilinci açık ve olay yerinde iki ilkyardımcı mevcut ise aşağıdaki taşıma tekniklerinden hangisi daha uygundur?",
+    "options": [
+      "Altın beşik",
+      "İtfaiyeci yöntemi",
+      "Kucakta taşıma",
+      "Sürükleme"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aşağıdakilerden hangisi yılan sokmaları ile ilgili ilkyardım uygulamalarında yanlıştır?",
+    "options": [
+      "Hasta yatar pozisyonda tutulur",
+      "Mümkünse atel uygulaması yapılır",
+      "Yılanın soktuğu yere kan dolaşımını engelleyecek şekilde bandaj yapılır",
+      "Yara üzerinde hiçbir girişimde bulunulmaz"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi boğulma için risk faktörlerinden değildir?",
+    "options": [
+      "Erkek cinsiyet",
+      "16 yaşından küçük olmak",
+      "Alkol kullanımı",
+      "Düşük sosyoekonomik düzey"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Müdahale edilmezse, kalp durduktan ne kadar süre sonra geri dönüşümsüz beyin hasarı başlar?",
+    "options": [
+      "10 saniye",
+      "2-3 dakika",
+      "1-2 dakika",
+      "4-6 dakika"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Turnike uygulaması için aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Turnike uzvun koptuğu yere en yakın deri bütünlüğü bozulmamış tek kemiğe uygulanır",
+      "Turnikenin yapıldığı zaman kayıt edilir",
+      "Turnike etkili olsun diye ince esneyen materyal ile uygulanır",
+      "Turnike uygulanacak malzemenin genişliği 5-10 cm olmalıdır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vücuda yabancı bir maddenin girmesi sonucu normal fonksiyonların bozulmasına ne isim verilir?",
+    "options": [
+      "Kanama",
+      "Zehirlenme",
+      "Boğulma",
+      "Çıkık"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kaza geçirmiş ve araç içinde olan bir yaralıyı eğer bir tehlike söz konusu ise omuriliğine zarar vermeden çıkarmak için kullanılan taşıma tekniği hangisidir?",
+    "options": [
+      "Rentek manevrası",
+      "Ayaklarından tutarak sürükleme",
+      "Kucakta taşıma",
+      "Heimlich manevrası"
+    ],
+    "answer": 0
+     },
       {
-        "question": "YETİŞKİN BİR KİŞİNİN DAKİKADAKİ NABIZ SAYISI NEDİR?",
-        "options": [
-          "60-100",
-          "50-60",
-          "70-90",
-          "20-60",
-          "60-80"
-        ],
-        "answer": 0
-      },
+    "question": "Sara krizinde ilkyardımda hangisi yanlıştır?",
+    "options": [
+      "Hasta bağlanmaya çalışılmaz",
+      "Kendisini yaralamamasına dikkat edilir",
+      "Sıkan giysiler gevşetilir",
+      "Kilitlenen çeneler açılmaya çalışılır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Yılan sokmasında yapılacak olan ilkyardım uygulamalarından hangisi yanlıştır?",
+    "options": [
+      "Etkilenen bölgeye bandaj uygulamak",
+      "Yara üzerine buz veya soğuk uygulama yapmak",
+      "Yara üzeri emilmez",
+      "Turnike uygulanmaz"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Karbon monoksit zehirlenmesinin belirtileri ile ilgili doğru olan hangisidir?",
+    "options": [
+      "I ve II",
+      "II ve III",
+      "I, II ve III",
+      "I, II, III ve IV"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Yanıkta (deri bütünlüğü bozulmamış yanık derecelerinde) ilkyardımcının ilk yapması gereken müdahale aşağıdakilerden hangisidir?",
+    "options": [
+      "Yanan bölge tazyiksiz soğuk suyla 20 dakika süreyle yıkanmalıdır",
+      "Oluşan su dolu kesecikler patlatılmalıdır",
+      "Yoğurt sürülmelidir",
+      "Ağrı kesici verilmelidir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "İlkyardımcı tek başına değilse; omurga hasarı olduğu bilinen bir yaralıyı taşımak gerektiğinde, kaç kişi ile ve nasıl taşınmalıdır?",
+    "options": [
+      "Bir kişi dikkat ederek taşır",
+      "Hasta/yaralı hareket etmeyeceği şekilde kucakta taşınır",
+      "Hasta/yaralı bir çarşafın üstüne konularak taşınır",
+      "Hasta/yaralı en az üç kişiyle baş-boyun-omurga düzlemi korunarak taşınır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Kan şekeri düşüklüğünde yapılması gereken ilkyardım müdahalesi aşağıdakilerden hangisidir?",
+    "options": [
+      "Bilinci kapalı (solunumu var) ise derlenme pozisyonu verilir",
+      "Hastanın bilinci yerinde ise ağızdan şeker verilir. Şeker yok ise; meyve suyu, şekerli süt veya reçel verilir",
+      "Bulgular 10-15 dakika boyunca geçmiyorsa tıbbi yardım istenir",
+      "Hepsi doğru"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Çamaşır suyu içen biri için uygulanacak ilk girişim hangisi olmalıdır?",
+    "options": [
+      "Kusturulmalıdır",
+      "Kusturulmalı ve bol su içirilmelidir",
+      "Asla kusturulmamalı hızlı bir şekilde tıbbi yardım sağlanmalıdır",
+      "Hasta/yaralı yatırılır ve kendi kendine iyileşmesi beklenir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kırık, çıkık ve zorlanmalarda tespit sırasında dikkat edilecek hususlardan değildir?",
+    "options": [
+      "Tespit yapılırken yaralı bölge sabit tutulmalıdır",
+      "Tespit edilecek bölge önce yumuşak malzeme ile kaplanmalıdır",
+      "Tespit kırık, çıkık ve burkulmanın üstünde ve altında kalan eklemleri de içerecek şekilde yapılmalıdır",
+      "Yaralı bölge düzeltilmeye çalışılmalıdır"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hasta/yaralının bilinç durumu nasıl değerlendirilir?",
+    "options": [
+      "USAY",
+      "Bak-Dinle-Hisset",
+      "Nabız kontrolü",
+      "Baş geri çene yukarı ile"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aşağıdakilerden hangisi donmalarda yapılacak ilkyardım uygulamalarından değildir?",
+    "options": [
+      "Hasta/yaralı soğuk ortamdan uzaklaştırılır",
+      "Donmuş yerler ovularak ısıtılır",
+      "Islanmış olan giysiler çıkartılır",
+      "Hasta/yaralıya sıcak içecekler verilir"
+    ],
+    "answer": 1
+  },
       {
-        "question": "YETİŞKİN BİR KİŞİNİN DAKİKADAKİ SOLUNUM SAYISI NEDİR?",
-        "options": [
-          "12-20",
-          "10-25",
-          "20-30",
-          "5-10",
-          "10-30"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "YENİDOĞANIN DAKİKADAKİ SOLUNUM SAYISI KAÇTIR?",
-        "options": [
-          "30-40",
-          "20-30",
-          "15-20",
-          "30-50",
-          "10-20"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "BEYİN EN FAZLA KAÇ DAKİKA OKSİJENSİZ KALABİLİR?",
-        "options": [
-          "4-6",
-          "0-5",
-          "1-7",
-          "3-5",
-          "2-6"
-        ],
-        "answer": 0
-      },
-      {
-        "question": "KALP VE KAN DAMARLARI İLE TAŞINAN , KANDAKİ OKSİJENİN , BESİN VE DİĞER GEREKLİ MADDELERİN HÜCRELERE ULAŞTIRILMASI,VE HÜCRELERİMİZDE OLUŞAN KARBONDİOKSİT VE ARTIK MADDELERİN UZAKLAŞTIRILMASINI SAĞLAYAN SİSTEM HANGİSİDİR?",
-        "options": [
-          "DOLAŞIM SİSTEMİ",
-          "SİNİR SİSTEMİ",
-          "CİLT",
-          "KAS İSKELET SİSTEMİ",
-          "SOLUNUM SİSTEMİ"
-        ],
-        "answer": 0
-      }
+    "question": "Şokta olan hastada ne görülmez?",
+    "options": [
+      "İdrar kaçırır",
+      "Göğüs ağrısı",
+      "Soğuk ve solgun deri",
+      "Sersemlik"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Temel Yaşam Desteğinde bebek ile ilgili açıklamalardan hangisi doğrudur?",
+    "options": [
+      "Bebeklerde dakikadaki bası sayısı 50 olmalıdır",
+      "Bebeğin yaşamsal refleksleri veya tıbbi yardım gelene kadar müdahaleye devam edilir",
+      "Göğüs kafesi 1/4 oranında çöktürülür",
+      "Kalp masajı ve suni solunum 5 masaj, 1 solunum şeklinde yapılır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kırık olan bölgeye aşağıdakilerden hangisi yapılmaz?",
+    "options": [
+      "Kırık şüphesi olan bölge hareket ettirilmez",
+      "Yiyecek içecek verilmez",
+      "Kırık uçlar birleştirilip atelleme (sabitleme) yapılır",
+      "Kanama varsa basınçlı bandaj uygulanır"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Göze metal veya herhangi bir cisim battıysa ilkyardım olarak aşağıdakilerden hangisi yapılmalıdır?",
+    "options": [
+      "Göze batan cisim çıkarılır",
+      "Tıbbi yardım istenir",
+      "Yavaşça ovularak cisim çıkartılır",
+      "Göz su ile yıkanır"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bilinci kapalı olan hasta/yaralıyı taşımak gerekirse, aşağıdakilerden hangisi en uygun taşıma tekniğidir?",
+    "options": [
+      "İtfaiyeci yöntemi ile taşıma",
+      "Kollarından asılarak sürükleme",
+      "Hemlich yöntemiyle taşıma",
+      "Rentek yöntemiyle taşıma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aşağıdakilerden hangisi şiddetli alerji (Anaflaksi) belirtilerindendir?",
+    "options": [
+      "Yüz, dudaklar, göz kapakları ve dilde şişme",
+      "Vücutta yaygın kızarıklık ve döküntü",
+      "Hırıltılı solunum veya sürekli öksürük",
+      "Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aşağıdakilerden hangisi kene ısırıklarında ilkyardım uygulama basamaklarından değildir?",
+    "options": [
+      "Kene ince cımbız kullanılarak çıkartılır",
+      "Vazelin, alkol gibi maddeler kullanılır",
+      "Sıcak uygulama yapılmaz",
+      "Kibrit, çakmak veya sigara ile yakmaya çalışılmaz"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hangisi sıcak yorgunluğu belirtilerinden değildir?",
+    "options": [
+      "Baş dönmesi, baygınlık",
+      "Aşırı terleme",
+      "Nöbet",
+      "Uykuya meyilli olma"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aşağıdakilerden hangisi olay yerine gelince ilk önce yapılmalıdır?",
+    "options": [
+      "Hava yolunun açılması",
+      "Çevre kontrolü",
+      "Kalp masajı",
+      "Kanama kontrolü"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hipotermide olan bir kişiye aşağıdakilerden hangisinin yapılması yanlıştır?",
+    "options": [
+      "Islak giysiler çıkartılıp kuru giysiler giydirilir",
+      "Ilık tatlı alkolsüz içecekler verilir",
+      "Etkilenen bölge masaj yapılarak ısıtılır",
+      "Kişi sıcak ve kapalı ortama alınarak soğuktan teması kesilir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kişinin iç ve dış uyaranlardan haberdar olmadığı, gözlerinin kapalı olduğu ve uykuya benzeyen ancak uyandırmanın mümkün olmadığı duruma ne isim verilir?",
+    "options": [
+      "Bayılma",
+      "Koma",
+      "Senkop",
+      "Fenalaşma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aşağıdakilerden hangisi akrep sokmalarında ilkyardım uygulamaları için doğrudur?",
+    "options": [
+      "Sokulan bölgeye sıcak uygulama yapılır",
+      "Akrebin soktuğu yere kesi uygulanır",
+      "Sokulan bölgeden zehir emilerek uzaklaştırılır",
+      "Hasta hareketsiz uygun pozisyonda tutulur"
+    ],
+    "answer": 3
+  }
     ]
   },
   "3": {
